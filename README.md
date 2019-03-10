@@ -2,6 +2,8 @@
 
 On the click of a button, this app will list all the NASA facilities, their location and the current weather.
 
+![screenshot of project](nasafacilities.png)
+
 ## How It's Made:
 
 **Tech Used:** HTML, JS, open weather map api, nasa facility api
