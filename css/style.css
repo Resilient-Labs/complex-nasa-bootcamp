@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    /* background-image:url("../img/nasa.jpg"); */
+    background-repeat: none;
+    background-size: cover auto;
+}
+
+
+/* Box Model Hack*/
+    
+* .clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+    }
+
+
+
+
+
+
+
+
+.wrapper{
+    /* height: 700px; */
+    width: 80%;
+    background:white;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 0 0 10px black;
+    overflow: hidden;
+}
+
+
+header {
+    clear: both;
+    color: white;
+    background: rgb(16 139 225);
+    height: 80px;
+    width: 100%;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.mainImg{
+    margin: auto;
+    width: 100%;
+
+}
+
+.enterDate{
+    text-align: center;
+
+}
+
+
+
+footer{
+    height: 100px;
+    width: 100%;
+    background: rgb(16 139 225);
+}
