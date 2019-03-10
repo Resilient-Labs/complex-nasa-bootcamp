@@ -1,6 +1,6 @@
 Nasa | Temperature | Facilities
 
-![alt]{nasaPic.png}
+![alt](nasaPic.png)
 
 Link to project: coming soon...
 
