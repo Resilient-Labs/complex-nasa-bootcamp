@@ -1,22 +1,17 @@
-# 🚀 Week07 Bootcamp2019a Project: Complex NASA API
+# NASA Complex Facilities + Weather API
+This was my first time using two APIs at once, with one API using information from the other. It was admittedly obnoxious to do but a good learning experience.
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+![Site screenshot](screenshot.png)
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:** HTML, CSS, Javascript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Really just used some basic HTML & CSS along with the ES6 I used after fetching the data from NASA.
+
+## Optimizations
+There's obviously a great deal of styling to be done here, but it could also use some basic optimizations like allowing users to choose how many facilities they want to see at one time, or perhaps limit the results based on a range of locations or some other set of parameters like temperature. The main purpose of this project was to gain some familiarity with APIs however, so i likely won't tinker too much more with it.
+
+## Lessons Learned:
+
+I learned you have to be veeery careful when dealing with APIs that have limits on requests per day, especially if you're trying to do something like generate a list of 400+ items per fetch. I also learned how to take the output of one API and use it in another, which will absolutely be useful in the future.
