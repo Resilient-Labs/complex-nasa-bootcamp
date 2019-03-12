@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  background-image: url(../img/nasa.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+section {
+  width: 20%;
+  border: 1px color white;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+}
+
+p {
+  color: white;
+}
