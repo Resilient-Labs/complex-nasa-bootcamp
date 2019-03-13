@@ -1,53 +1,35 @@
 // Use NASA's API to return all of their facility 
 // locations (~400). Display the name of the facility,
 //  its location, and the weather at the facility currently.
-window.onload = function(){
-let apiKey = `https://data.nasa.gov/resource/gvk9-iz74.json`
-  function facilityInfo(){
+nasaFacility();
+function nasaFacility() {
+  var api = "https://data.nasa.gov/resource/9g7e-7hzz.json";
+  fetch(api)
+    .then(res => res.json()) // parse response as JSON (can be res.text() for plain response)
+    .then(response => {
+      response.forEach(function(el) {
+        facility(el.center, el.city, el.state);
+      });
+    })
+    .catch(err => {
+      console.log(`error ${err}`);
+    });
+}
+function facility(center, city, state) {
+  let loc = city + " ,US ";
+  let loc2 = city + " , " + state;
+  let key = "059a2e49444b64c6bbf0895bc0ffd972";
+  let url ="https://api.openweathermap.org/data/2.5/weather?q=" + loc +"&appid=" + key + "&units=imperial";
+  console.log(url);
 
-      fetch(apiKey)
-      .then(function(response) {
-          return response.json();
-        })
-
-      .then(function (response){ 
-          console.log(response) 
-          // let obj = JSON.parse(response)
-          let obj = response.forEach(function(element){
-              console.log(element)
-
-              let  keys = Object.keys(element)
-              let  value = Object.values(element)
-              // console.log(Object.keys(element))
-              // console.log(Object.values(element))
-
-              parsing(keys, value, element)
-              keys.toString();
-              value.toString();
-              document.querySelector('#first').textContent = keys
-              document.querySelector('#second').textContent = value
-              document.querySelector('span').textContent = value.city
-          })
-          // console.log(obj)
-          // parsing(eachList.country)
-      })
-          // console.log(data[0].country)
-          // document.querySelector("section").innerHTML = response.city
-      .catch(err => console.log(err))
-
-      
-      }
-      //Function will be displaying each location for each NASA facility
-      function parsing(keys, value, element){
-          // document.querySelector('p').textContent = country
-          for(let i = 0; i < element.length; i++){
-              document.querySelector('#first').textContent = keys[i]
-              console.log("this is i: ", i)
-              document.querySelector('#second').textContent = value[i]
-
-          }
-
-      }
-      facilityInfo()
-     
+  fetch(url)
+    .then(res => res.json()) // parse response as JSON (can be res.text() for plain response)
+    .then(response => {
+      let listItem = document.createElement("li");
+      document.querySelector("ul").appendChild(listItem);
+      listItem.innerHTML = center + " , " + loc2 + " , " + response.main.temp;
+    })
+    .catch(err => {
+      console.log(`error ${err}`);
+    });
 }
