@@ -1,16 +1,26 @@
-ul{
-    margin-left: 0;
-}
 ul li{
     list-style: none;
     text-align: center;
-    
+    transition: background-color .5s;
+    width: 43%;
+    margin: 0 auto;
 }
+li:hover {
+    background-color: cadetblue;
+  }
 h1{
-    color: red;
-    text-align: center
+    font-size: 2rem;
+    color: lightgreen;
+    text-align: center;
+    padding-bottom: 10px;
+    
 }
 body{
     width: 80%;
     margin: 0 auto;
+    padding-top: 10px;
+    background-image: url(weather1.jpeg);
+    background-size: 2px;
+    color: white;
+    
 }
