@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+form{
+  display: flex;
+  justify-content: center;
+
+}
+button{
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: green;
+  background: rgb(255, 253, 208);
+  border: 1px solid green;
+}
+ul{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+li{
+  font-size: 1.5em;
+  list-style: none;
+  margin-bottom: 10px;
+  color: green;
+}
