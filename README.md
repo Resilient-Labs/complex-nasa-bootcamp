@@ -2,21 +2,18 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+**View project in browser:** https://endev-nasa-complex-api.netlify.com
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![alt tag](screenshot.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Design and Development:
+**Tech Used** HTML, CSS, JavaScript, API, JSON: 
+Create a loop or conditional that calls 3 to 5 cities / facilities to not exhaust NASA's API call limit. On the NASA developer's website, you can see all of the data listed out in a table so you can use those for examples as well.
+
+## Reflections:
+Considering some cities were not searchable by Open Weather's API, had to create conditionals to closest valid cities.
+
+## API Source:
+**NASA Facilities:** https://data.nasa.gov/Management-Operations/NASA-Facilities/gvk9-iz74
+
+**Open Weather:** https://openweathermap.org/api
