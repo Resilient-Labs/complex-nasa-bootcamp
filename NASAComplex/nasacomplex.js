@@ -3,7 +3,7 @@ document.querySelector("button").addEventListener("click", function(){
   fetch(`https://data.nasa.gov/resource/gvk9-iz74.json?$select=facility,city,state`)
     .then(res => res.json()) // parse response as JSON (can be res.text() for plain response)
     .then(response => {
-      response.forEach(data => { // for each response, fetch weather for city and create new row in table with facility, city, state, and weather
+      response.forEach((data) => { // for each response, fetch weather for city and create new row in table with facility, city, state, and weather
         let table = document.querySelector('table')
         let tr = document.createElement('tr');
         let inputValue= data.city + ",US"  // gets NASA city and add default string US country code required by openweathermap
@@ -46,16 +46,16 @@ document.querySelector("button").addEventListener("click", function(){
       console.log(`error ${err}`)
       alert("sorry, there are no results for your search")
     });
-
-  //sets date to today's date
-  let today = new Date();
-  let dd = today.getDate();
-  let mm = today.getMonth();
-  let yyyy = today.getFullYear();
-  let monthName
-  const monthNames = ["January", "February", "March", "April", "May", "June",
-    "July", "August", "September", "October", "November", "December"
-  ];
-  today = monthNames[mm] + ' ' + dd + ', ' + yyyy;
-  document.querySelector('.date').innerHTML = today
 });
+
+//sets date to today's date
+let today = new Date();
+let dd = today.getDate();
+let mm = today.getMonth();
+let yyyy = today.getFullYear();
+let monthName
+const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+today = monthNames[mm] + ' ' + dd + ', ' + yyyy;
+document.querySelector('.date').innerHTML = today
