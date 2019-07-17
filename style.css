@@ -1,0 +1,11 @@
+body{
+  background-image: url(http://www.spitzer.caltech.edu/spitzer15/images/NASASelfies_Icon.png?1534553315);
+  color: lightyellow;
+  text-align: center;
+  font-size: 20px;
+}
+button{
+  color: blue;
+  width: 12%;
+  height: 25px;
+}
