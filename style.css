@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+
+h1{
+  color: lightblue;
+  text-align: center;
+}
+
+.bigSec {
+  width: 75%;
+  float: left;
+  border: 1px solid red;
+}
+
+.tempSec {
+  width: 25%;
+  float: left;
+  text-align: left;
+  border: 2px solid black;
+}
+
+li {
+  list-style: none;
+}
