@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* SETUP
+/*******************************************/
+*{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firexfox */
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+  box-sizing: border-box; /* IE */
+}
+
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+button:focus {
+    outline: 1px solid #000;
+    outline-offset: -4px;
+}
+
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+
+body {
+  padding: 5% 10%;
+  font-family: 'Oswald', sans-serif;
+  color: #000;
+  text-transform: uppercase;
+  background-image: url('media/bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.logo {
+  width: 25%;
+  float:left;
+
+}
+
+
+h1 {
+  font-size: 40px;
+  margin:50px 0 30px 0;
+}
+
+h2 {
+  font-size: 50px;
+  padding-left: 32%;
+
+}
+
+
+button{
+  padding: 15px;
+  border: 1px solid #000;
+  background-color: inherit;
+  border-radius: 6px;
+  margin: 50px 17%;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+table {
+	border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  text-transform: none;
+}
+
+
+th, tr{
+  border: 2px solid black;
+  height: 50px;
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  font-family: 'Roboto', 'Arial', sans-serif;
+  padding: 10px;
+}
+
+.hide {
+  display: none;
+}
