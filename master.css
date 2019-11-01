@@ -1,0 +1,25 @@
+button {
+  width: 22%;
+  margin-top: 13%;
+  font-size: 20px;
+  font-family: arial;
+  box-shadow: 3px 3px lightgray;
+  line-height: 2;
+  border-radius: 3%;
+  margin-left: 35%;
+}
+button:hover {
+  cursor: pointer;
+  background-color: white;
+  font-size: 25px;
+  margin-left: 31%;
+  width: 30%;
+  cursor: pointer;
+}
+section {
+  margin:1%;
+  margin-left: 21%;
+  border: 1px solid black;
+  text-align: center;
+  width: 50%;
+}

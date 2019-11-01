@@ -9,6 +9,8 @@ document.querySelector("button").onclick= () => {
       let container = document.createElement("SECTION");
       let name = document.createElement("H2");
       name.textContent= "Name: "+res[i].center;
+      let facility = document.createElement("H3");
+      facility.textContent= "Facility: "+res[i].facility;
       let city = document.createElement("H4");
       city.textContent = "City: "+res[i].city;
       let state = document.createElement("H4");
@@ -19,7 +21,6 @@ document.querySelector("button").onclick= () => {
       fetch(`https://api.darksky.net/forecast/${key}/${lat},${lng}`)
         .then(result=> result.json())
         .then(result => {
-          console.log(result.currently.temperature);
           weather.textContent = "Temperature: "+result.currently.temperature;
         })
         .catch(err => {
@@ -27,6 +28,7 @@ document.querySelector("button").onclick= () => {
           alert('sorry, there are no results for your search');
         });
       container.appendChild(name);
+      container.appendChild(facility);
       container.appendChild(weather);
       container.appendChild(city);
       container.appendChild(state);
