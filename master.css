@@ -1,0 +1,24 @@
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+.buttonSection{
+  text-align: center;
+  margin: 1% 1% 1% 1%;
+}
+#weatherList{
+  /* border: 1px solid black; */
+  width: 60%;
+  float: left;
+  line-height: 25px;
+
+}
+span{
+  margin: 6%;
+}
+#tempList{
+  /* border: 1px solid black; */
+  width: 10%;
+  float: left;
+  line-height: 25px;
+}
