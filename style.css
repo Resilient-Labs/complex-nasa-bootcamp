@@ -1,0 +1,27 @@
+body{
+  background-image: url(background.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div{
+  margin-bottom: 20px;
+}
+h1{
+  color: red;
+}
+p{
+  font-weight: 500;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+button{
+  height: 30px;
+  width: 20%;
+  font-size: 20px;
+  background: none;
+  border-style: double;
+  border-color: #ff6666;
+
+}
