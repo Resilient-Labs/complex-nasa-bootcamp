@@ -1,0 +1,9 @@
+var config ={
+  KEY_11mc:"HUvhkz1532sUysWLEheWl0OR87CqABMB",
+  KEY_12mc:"eff1c224",
+  KEY_21ws:'8b0b1379efee400446c67483e896a617',
+  KEY_31nc:"16aad37fe9d6d5780bf7430934365bcf",
+  KEY_41sc:'CYEJPFNOWO0P0DCM',
+  KEY_42sc:"JXLIHhpiOK0tRkKjstPh9VSc2BS175rq8yp7CxZlzQeB6uizEZc928FFhSPa",
+  KEY_51ns:'ye7JdojcCAscUuuL3uskIc8GOTZnAcuZHF0gcTRa'
+}
