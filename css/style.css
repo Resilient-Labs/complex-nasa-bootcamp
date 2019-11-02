@@ -1,0 +1,13 @@
+body{
+  box-sizing: border-box;
+  background-color: lightblue;
+  font-family: 'Oxygen', sans-serif;
+}
+h1 {
+  text-align: center;
+  
+}
+img{
+  width: 200px;
+  height: 100px;
+}
