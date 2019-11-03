@@ -7,6 +7,11 @@
 ### click on the 'click' button which will generate over 400 locations for NASAs facilities and other properties
 #Warning: the servers can only do about 1000 requests in an allotted time so only click when Needed
 
+# Technologies used:
+## JavaScript
+## API
+## HTML5
+## CSS
 
 ## Link To Project:
 https://naughty-tereshkova-6a8180.netlify.com/
