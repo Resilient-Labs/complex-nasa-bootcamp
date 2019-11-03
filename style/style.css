@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wallpapersafari.com%2F5%2F10%2FXvsQWE.jpg&f=1&nofb=1);
+}
+h1{
+  text-align: center;
+  font-size: 3rem;
+  color: #9f9a9a;
+}
+form{
+  text-align: center;
+}
+button{
+  font-size: 0.8rem;
+  background-color: #ffffff14;
+  color: white;
+  border-radius: 10px;
+}
+h4{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #9f9a9a;
+}
+section{
+  margin-bottom: 3%;
+}
