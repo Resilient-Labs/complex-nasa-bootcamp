@@ -13,7 +13,7 @@
 * **link to project**: https://wonderful-mcclintock-d3f38d.netlify.com
 
 * **Image of project in use**
-![](nasacomplex/nasa.png)
+![](nasaComplex/nasa.png)
 
 * **Getting Started**
   - Click on the link above
