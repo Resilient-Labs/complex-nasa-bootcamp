@@ -1,0 +1,25 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1454789415558-bdda08f4eabb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-family: garamond;
+  font-weight: bold;
+  font-size: 50px;
+}
+button:hover{
+  color: white;
+  background-color: red;
+}
+
+button{
+  font-size: 15px;
+  font-family: lucidaGrande;
+}
+
+tr{
+font-size: 19px;
+text-align: center;
+line-height: 45px;
+}
