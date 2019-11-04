@@ -2,21 +2,20 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Project description :
+###  Used NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. The nasa api after fetching returned a json() containing an object made up of an array that had nested arrays.I only needed certain properties of the array, used a for in loop to cycle through the array and pulled out the wanted Key value pair.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## User instructions on browser:
+### click on the 'click' button which will generate over 400 locations for NASAs facilities and other properties
+#Warning: the servers can only do about 1000 requests in an allotted time so only click when Needed
+
+# Technologies used:
+## JavaScript
+## API
+## HTML5
+## CSS
+
+## Link To Project:
+https://naughty-tereshkova-6a8180.netlify.com/
+
