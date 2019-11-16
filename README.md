@@ -2,7 +2,7 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-![alt tag](comedy.jpg)
+![alt tag](compNASA.pNg)
 
 
 TOOLS used: HTML, CSS, JAVASCRIPT
