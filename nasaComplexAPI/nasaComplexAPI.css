@@ -1,0 +1,12 @@
+*{
+  font-family: 'Roboto Slab', serif;
+}
+body{
+  text-align: center;
+  background-image: url(sky.jpg);
+  background: cover;
+}
+button{
+  font-size: 1em;
+  margin-bottom: .7em;
+}
