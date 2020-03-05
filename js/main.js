@@ -20,11 +20,9 @@ fetch(`https://data.nasa.gov/resource/gvk9-iz74.json`)
 
   }
 
-function getWeather(love){
-      inputZip();
-      singleZip();
+function getWeather(){
 
-      fetch(`http://api.openweathermap.org/data/2.5/weather?zip=${love},us&appid=9f46d0f653902e57a2d6d49da811c971`)
+      fetch(`http://api.openweathermap.org/data/2.5/weather?zip=${zipCodeTEST2},us&appid=9f46d0f653902e57a2d6d49da811c971`)
       .then(res2 => res2.json()) // parse response as JSON (can be res.text() for plain response)
       .then(response2 => {
           console.log(response2.main.temp)
@@ -44,15 +42,6 @@ function inputZip(){
             console.log(zipCodeTEST2)
       })
     }
-
-function singleZip(){
-  inputZip(zipCodeTEST2);
-  zipCodeTEST2.forEach((el) =>{
-    let love = this;
-  })
-
-}
-
 
 
 
