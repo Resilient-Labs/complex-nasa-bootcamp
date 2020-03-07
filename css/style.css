@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../images/cloud.jpeg);
+  background-size: contain;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 0;
+  color: lightgoldenrodyellow;
+  font-size: 35px;
+  font-family: sans-serif;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  color: white;
+  font-size: 25px;
+  margin-top: 2%;
+}
+
+img {
+  margin-top: 3%;
+}
