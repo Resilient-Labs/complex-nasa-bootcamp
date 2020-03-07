@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+li{
+  width: 33%;
+}
+h1{
+   text-align: center;
+}
