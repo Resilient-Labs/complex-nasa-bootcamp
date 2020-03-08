@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    /* border: 1px solid blue; */
+}
+html{
+    font-size: 10px;
+}
+
+h1{
+    text-align: center;
+}
+section{
+    height: 30px;
+    width: 100%;
+}
+.format{
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 2px;
+    font-size: 2rem;
+    font-weight: bolder;
+
+}
+span{
+    width: 33.3%;
+}
+.data{
+    height: 400px;
+}
+.facility{
+    height: 50px;
+    width: 32.5%;
+    float: left;
+    font-size: 1.8rem;
+    margin-top: 10px;
+    margin-left: .5%;
+    text-align: center;
+    border: 2px solid black;
+    padding-top: 12px;
+}
+
+/* temp color indicator */
+
+.cold{
+
+    background-color: blue;
+
+}
+
+.cool{
+
+    background-color: aqua;
+
+}
+
+.warm{
+    background-color: orange;
+
+}
+
+.hot{
+ background-color: red;
+}
+
