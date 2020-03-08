@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    border: 1px solid blue;
+}
+html{
+    font-size: 10px;
+}
+
+
+section{
+    height: 30px;
+    width: 100%;
+}
+.format{
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 2px;
+    font-size: 2rem;
+
+}
+span{
+    width: 33.3%;
+}
+.data{
+    height: 400px;
+}
+.facility{
+    width: 33.3%;
+    float: left;
+    font-size: 1.2rem;
+}
