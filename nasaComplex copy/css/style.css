@@ -1,0 +1,13 @@
+body{
+  background-image: url(nasa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: white;
+}
+
+ul, li{
+  color: blue;
+}
