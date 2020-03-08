@@ -1,54 +1,43 @@
-//Team contribution: Asiah, Zahmir, Eric, Vanesa, Finesse and Josh
-let count = 0
-function getLocation(){
-fetch("https://data.nasa.gov/resource/gvk9-iz74.json")
-    .then(res => res.json()) // parse response as JSON (can be res.text() for plain response)
-    .then(response => {
-      let zipcode = []
-      let center = []
-      response.forEach((el)=>{
-        zipcode.push(el.zipcode)
-      // document.querySelector('p').textContent=zipcode
-      if(count < 10 ){
-        getWeather(el.zipcode, el.center, el.facility )
-        count++
-      }
+function getWeatherByZip(nasaLocation){
+  //fetch WeatherAPI
+  const {zipcode, center, city} = nasaLocation;
+  // return fetch('http://placekitten.com/42/53')
+  return fetch(`https://api.openweathermap.org/data/2.5/weather?zip=${zipcode}&appid=c3636afbd6a55832f78537a2c602777d&units=imperial`)
+  .then(response => response.json())
+  //.then(needs => weathers) //fake request
+  .then(weatherData=> ({
+    temp: weatherData.main.temp,
+    center,
+    city,
+    zipcode
+  })
 
-      // getWeather(el.zipcode)
+  )
+  //.then(console.log)
 
-      console.log(response.zipcode)
-    })
-
-
-    .catch(err => {
-        console.log(`error ${err}`)
-        alert("sorry, there are no results for your search")
-    });
-
-})
 }
-function getWeather(zipcode, center, facility){
-  // let url =
-  fetch(`https://api.openweathermap.org/data/2.5/weather?q=${zipcode}&APPID=e71acf2c8f36d9b1df7f78ba278857d3`)
-    .then(res => res.json()) // parse response as JSON (can be res.text() for plain response)
-    .then(response => {
-      if(response.main.temp){
-        console.log(response.main.temp)
-        let fahrenheit = Math.floor((response.main.temp - 273.15) * 1.8 + 32) + "F"
-        document.querySelector('.temp').innerHTML+=fahrenheit
-        document.querySelector('p').textContent+=zipcode
-        document.querySelector('.center').textContent+=center
-        document.querySelector('.facility').textContent+=facility
-        console.log(fahrenheit);
-        console.log(center);
-        console.log(facility);
-      }
-      // console.log(response.main);
-    })
-    .catch(err => {
-        console.log(`error ${err}`)
-        alert("sorry, there are no results for your search")
-    });
-}
+  fetch(`https://data.nasa.gov/resource/gvk9-iz74.json`)
+  .then(response =>response.json())
 
-getLocation()
+  // fetch('http://placekitten.com/42/53')
+  //.then(e => nasaLoc)
+  .then(nasaLocations=>{
+    for(const nasaLocation of nasaLocations){
+      console.log(nasaLocations);
+       getWeatherByZip(nasaLocation)
+       .then(tempForLocation=>{
+         const { center, city, zip, temp } = tempForLocation;
+         const newLi = document.createElement(`li`);
+         newLi.innerHTML = `The center is: ${center} The City is: ${city} The temperature is ${temp} Farenheit`;
+         newLi.style.marginBottom  = "1em"
+         document.querySelector("ul").append(newLi);
+       })
+       break
+    }
+ })
+
+
+// const addNumbers = (num1, num2) => num1 + num2;
+// const curryMe = otherNum => thing => addNumbers(otherNum, thing)
+// const add4 = curryMe(4)
+// const add56 = curryMe(56)
