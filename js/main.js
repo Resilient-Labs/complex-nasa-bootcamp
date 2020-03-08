@@ -1,13 +1,13 @@
-//Collaborators: Eric, Nyah, asiah, 
+//Collaborators: Eric Espinoza, Nyah Macklin, Asiah Bennett, Vanessa Charles,and Joshua Wilkerson
 
-//let key =``
+let key =`5c601f60649e4273785048d62e6a923d`
 
 
 
 function getWeatherByZip(nasaLocation){
     const {zipcode, center, city} = nasaLocation;
 
-    return fetch(`https://api.openweathermap.org/data/2.5/weather?zip=${zipcode}&appid=c3636afbd6a55832f78537a2c602777d&units=imperial`)
+   return fetch(`https://api.openweathermap.org/data/2.5/weather?zip=${zipcode}&appid=${key}&units=imperial`)
 
     .then(response => response.json())
     .then(weatherData=> ({
@@ -44,15 +44,31 @@ function getWeatherByZip(nasaLocation){
            document.querySelector(".data").appendChild(sec2)
            document.querySelector(".data").appendChild(sec3)
 
+           colorTemp(sec3,temp)
+
          })
         // break
       }
    })
+
+
+   function colorTemp(sec,temp){
+       if (temp < 32){
+           sec.classList.add('cold')
+           
+       }else if(temp >= 32 && temp < 65) {
+        sec.classList.add('cool')
+
+       }else if(temp >= 65 && temp < 85) {
+        sec.classList.add('warm')
+    }else if(temp >=85) {
+        sec.classList.add('hot')
+
+    }
+
+   }
   
-
-
-
-////GOAL
+////GOAL 
 // if temp is below 32 --> blue
 // if temp is 32-50  ---> green
 // if temp is 50-70  ---> yellow
