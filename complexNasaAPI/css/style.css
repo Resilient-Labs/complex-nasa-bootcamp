@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  color: white;
+}
+body {
+  color: white;
+  text-align: center;
+  background-image: url("../images/nasaSunRevolve.jpg");
+  opacity: 0.85;
+  background-size: cover;
+  font-weight: bold;
+  font-family: "Russo One", sans-serif;
+}
+h1 {
+  font-size: 45px;
+}
+li {
+  list-style-type: none;
+  font-size: 20px;
+}
+input {
+  display: none;
+}
