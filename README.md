@@ -3,7 +3,6 @@
 #### View project: https://svdev-complexnasa.netlify.com
 ![](complexNasa.png)
 
-
 # How it was made:
 #### HTML5, CSS3, Javascript E6, API, JSON
 
