@@ -1,6 +1,6 @@
 # Complex Nasa Location App
 
-    Find the temperature for all the nasa locations
+    Find the temperature in  imperial Farenheit for all the nasa locations in the country 
 
 ## Live Project-
 
@@ -8,7 +8,7 @@ https://eric-complex-nasa.netlify.com/
 
 ## Imaage
 
-![Image of Project](complex-nasa.png)
+![img](complex-nasa.png)
 
 ## Languages Used
 
