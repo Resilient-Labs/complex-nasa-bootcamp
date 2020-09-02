@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+body{
+    background-image: url('../img/bg1.jpg');
+    background-size: cover;
+}
+
+h1{
+    font-family: "Orbitron";
+    text-align: center;
+    color: #FFF;
+    font-size: 30px;
+    line-height: 24px;
+    letter-spacing: 10px;
+}
