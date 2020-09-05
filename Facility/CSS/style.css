@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+
+
+span{
+  display: inline;
+}
