@@ -1,0 +1,23 @@
+body{
+  color: white;
+  font-family: 'Space Mono', monospace;
+  background-color: rgb(14,14,14);
+}
+ul{
+  display: none;
+}
+.buttonSec{
+  float: left;
+}
+.image{
+  float: right;
+  max-width: 300px;
+  max-height: 300px;
+}
+img{
+  max-width: 300px;
+  max-height: 300px;
+}
+.displaySec{
+  clear: both;
+}
