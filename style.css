@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-color: rgb(21,43,80);
+}
+
+h1{
+  color: red;
+  margin-top: 2%;
+}
+section{
+  margin-top: 1%;
+}
+button{
+  height: 4em;
+  width: 8em;
+  word-spacing: 0.3em;
+  background-color: grey;
+  color: white;
+
+}
+img{
+  height: 100px;
+  width: 150px;
+}
