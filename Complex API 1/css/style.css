@@ -1,0 +1,23 @@
+* {
+  text-align: center;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+body{
+  color: white;
+  background-image: url("back.jpg");
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+
+h1{
+  font-size: 4rem;
+}
+li{
+  font-size: 1.5rem;
+}
+button{
+  padding: 2%;
+}
