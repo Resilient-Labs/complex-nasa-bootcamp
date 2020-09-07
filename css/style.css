@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+img {
+  height: 15rem;
+  width: 18rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+button {
+  font-size: 1.3rem;
+  width: 10rem;
+  height: 2rem;
+}
+
+table {
+  margin-left: 300px;
+  list-style-type: circle;
+}
+
+th {
+  font-size: 1.3rem;
+  text-decoration: underline;
+  margin-left: 50px;
+}
