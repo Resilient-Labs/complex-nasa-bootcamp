@@ -22,7 +22,8 @@ apiObject.fetchingApiProperties;
 
 // chekingWeatherApifuncions
   function checkWeather(temper){
-    fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${temper.location.latitude}&lon=${temper.location.longitude}&appid=4f6276080d5b711d09cdd5b91b0bcca1&units=imperial`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${temper.location.latitude}&lon=${temper.location.longitude}&appid=fa6354530947715d8b26b02779de7b65
+&units=imperial`)
     .then(response => response.json())
     .then(data => {
 
