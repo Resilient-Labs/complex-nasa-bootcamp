@@ -1,0 +1,114 @@
+/******************************************
+/* SETUP
+/*******************************************/
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+.clear {
+	clear: both;
+}
+.alignright {
+	float: right;
+	padding: 0 0 10px 10px; /* note the padding around a right floated image */
+}
+.alignleft {
+	float: left;
+	padding: 0 10px 10px 0; /* note the padding around a left floated image */
+}
+/* Contain floats */
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  *zoom: 1;
+}
+.block{
+  display: block;
+}
+.floatleft{
+  float: left;
+}
+.floatright{
+  float: right;
+}
+.bold{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+.redbox {
+  border: 2px solid red;
+}
+/******************************************
+/* BASE STYLES
+/*******************************************/
+body {
+     color: #000;
+     font-size: 18px;
+     line-height: 1.5;
+     font-family: Helvetica, Arial, sans-serif;
+     min-width: 800px;
+}
+a{
+  text-decoration: none;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+.hidden{
+  display:
+}
+h1{
+  text-align: center;
+}
+ol,
+li{
+  list-style: none;
+  text-align: center;
+}
+ul{
+  width: 33%;
+  float: left;
+  height: 300px;
+  padding: 0px;
+  border: 1px solid black;
+}
+button{
+  background-color: grey;
+  color: white;
+  border-radius: 8px;
+  border: 0px solid white;
+  height: 18px;
+  align-items: center;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+@media only screen and (max-width: 600px){
+}
+@media (min-width: 601px) and (max-width: 820px){
+}
+@media (min-width: 821px) and (max-width: 920px){
+}
+@media (min-width: 921px) and (max-width: 1213px){
+}
+@media (min-width: 1400px){
+}
