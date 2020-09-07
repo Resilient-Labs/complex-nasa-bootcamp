@@ -1,0 +1,20 @@
+
+body{
+  background-image: url("nasa.jpg");
+}
+table{
+  width: 75%;
+  height: auto;
+  font-size: 12px;
+  font-weight: lighter;
+  background-color: white;
+  margin-left: 10%;
+}
+th{
+  border: 1px solid black;
+  font-weight: lighter;
+}
+.title{
+  font-weight: bold;
+  font-size: 20px;
+}
