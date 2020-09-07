@@ -2,21 +2,16 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+**Link to project:** https://cranky-carson-cf84fb.netlify.com
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![alt tag](https://github.com/anthonybetances/complex-nasa-bootcamp/blob/answer/Screen%20Shot%202019-11-17%20at%203.46.35%20AM.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+**Tech used:** HTML, CSS, JavaScript, APIs.
+This web app uses a NASA API to retrieve and display the city, state, center names, and facility names of all NASA facilities.  It then runs the location (longitude and latitude) information of each facility through a weather API to retrieve and display the current temperature at each facility.
+
+## How To Use:
+
+  1. Click on the link above.
+  2. Click on the "submit" button.
+  3. Watch the data appear and try not to think about how much colder it is at home.
