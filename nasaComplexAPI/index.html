@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0" />
+  <title>NASA Facilities API</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+
+
+    <section class="result">
+      <h1>Check out my Other API's</h1>
+      <div class="nav">
+        <button class="navbtn">
+          <a
+            href="https://nasapi-simple.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">NASA Image of The Day</a>
+        </button> <button class="navbtn">
+          <a href="https://get-songlyrics.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Search Song Lyrics</a>
+        </button>
+
+        </button> <button class="navbtn">
+          <a href="https://lovecalculator-app.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">
+            The Love Calculator</a>
+        </button>
+        </button> <button class="navbtn">
+          <a href="https://ipaddress-app.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">
+            IP API </a>
+        </button>
+        </button> <button class="navbtn">
+          <a href="https://search-dictionary.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Dictionary API</a>
+        </button>
+        </button> <button class="navbtn">
+          <a href="https://weather-simpleapi.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Weather API</a>
+        </button>
+
+
+      </div>
+    </section>
+
+
+    <section class="wrapper">
+      <h1>NASA Facility Locations</h1>
+      <table>
+        <tbody>
+          <tr>
+            <td id="left"><strong>#</strong>
+            </td>
+            <td id="left"><strong>Facility</strong></td>
+            <td id="middle"><strong>Location</strong></td>
+            <td id="right"><strong>Current Weather at
+                Facility</strong></td>
+          </tr>
+        </tbody>
+        <tbody id="result"></tbody>
+      </table>
+    </section>
+
+  </div>
+  <script src="main.js"></script>
+</body>
+
+</html>

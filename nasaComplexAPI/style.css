@@ -1,0 +1,186 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.input,
+.result {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 2%;
+  margin-right: 2%;
+  background-color: rgb(22, 89, 181, 0.9);
+  margin-top: 20px;
+  height: 300px;
+  flex-grow: 1;
+  flex-basis: 0%;
+  padding-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  background-color: rgb(22, 89, 181, 0.9);
+  margin-top: 20px;
+  flex-grow: 1;
+  flex-basis: 10%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.navbtn {
+  width: 170px;
+  height: 30px;
+  max-width: 100%;
+  background: #9e2092;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-weight: 600;
+  outline: none;
+  margin-right: 10px;
+  cursor: pointer;
+  margin: 5px;
+
+}
+
+.navbtn a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+table {
+  text-align: center;
+  font-size: 15px;
+  width: 100%;
+}
+
+td {
+  border: 1px solid black;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+#middle {
+  width: 40%;
+  background-color: cornsilk;
+}
+
+#left {
+  background-color: rgb(224, 165, 165);
+}
+
+#right {
+  background-color: rgb(131, 233, 131);
+}
+
+#getWeatherBtn {
+  background-color: bisque;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 90px;
+  cursor: pointer;
+}
+
+#inputValue {
+  height: 30px;
+  border-radius: 5pxrgb(25, 83, 2) width: 220px;
+}
+
+#getWeatherBtn.change {
+  background-color: rgb(150, 240, 155);
+  border-radius: 5px;
+  width: 90px;
+  cursor: pointer;
+  outline: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .input {
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  h1 {
+    color: white;
+    background-color: rgba(6, 10, 246, 0.4);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+
+  .wrapper {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .input {
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  .wrapper {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
