@@ -1,22 +1,13 @@
-# 🚀 Project: Complex NASA API
+# 🚀 Complex NASA & Weather API
+#### Project Scope: Use Nasa's API to return all of their 400~ facitilies then use Open Weather Map's API to return the current weather at those facitilies. Display the facilities' name, location and outside temperature.
+Try it Here: https://focused-babbage-e48e8f.netlify.app
+![Complex NASA & Weather Screenshot](/complexNASA.png)
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+# How it was made:
+#### HTML5, CSS3, Javascript, API, JSON
 
-### How to submit your code for review:
+# Optimizations:
+#### Created two functions that each fetch the needed JSON data. Had both functions tied to a button so it would not run as soon as the browser opened.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Lesson Learned:
+#### Learned how to create new HTML within the DOM by using createElement() createTextNode() and appendChild() methods. 
