@@ -1,0 +1,71 @@
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+    -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+       -moz-box-sizing: border-box; /* Firexfox */
+            box-sizing: border-box; /* IE */
+}
+
+
+/***********************************
+personal code
+***********************************/
+body{
+  height: 100vh;
+  font-family: Helvetica;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://www.syfy.com/sites/syfy/files/wire/legacy/eso1629a-1200x630-e1472166793115_0.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
+}
+h1{
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+button{
+  font-size: 1.5rem;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  padding:0.5rem 0.75rem 0.5rem 0.75rem;
+  border-radius: 10px;
+  outline: none;
+  color: white;
+  background-color: #ad5015;
+  border: 3px solid crimson;
+  font-family: Helvetica;
+}
+button:hover{
+  filter: drop-shadow(0 0 0.75rem crimson);
+}
+#facilities{
+  font-size: 1.25rem;
+  letter-spacing: 3px;
+}
+
+/***********************************
+media query
+***********************************/
+
+@media screen and (min-width: 1441px) { /*big screen*/
+
+}
+
+@media only screen and (max-width: 768px) { /*tablet*/
+
+}
+
+@media only screen and (max-width: 425px) { /*phone*/
+
+}
