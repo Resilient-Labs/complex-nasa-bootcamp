@@ -1,22 +1,32 @@
 # 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+Live Code: 
 
-### How to submit your code for review:
+# How It's Made:
+### Tech used: 
+HTML, CSS and JS. Used the NASA API and the OpenWeather API to search the ~400 NASA facilities through zipcode search.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![Simple NASA API Complex Final](nasaAPI2.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+
+
+# Lessons Learned:
+Discovered how more on how to use classes in JS to either reveal information or conceal. Also, got more familiar with iframe and displaying API data into the DOM.
+
+
+# Examples:
+
+Take a look at these couple examples that I have in my own portfolio:
+
+Simple NASA API: https://github.com/Kim-Flores/simple-nasa-api-bootcamp/tree/answer
+
+Music API: https://github.com/Kim-Flores/complex-api-bootcamp/tree/answer
+
+Book API: https://github.com/Kim-Flores/complex-api2-bootcamp/tree/answer
+
+Dog Facts API: https://github.com/Kim-Flores/simple-api-bootcamp/tree/answer
+
+Programming Jokes API: https://github.com/Kim-Flores/simple-api2-bootcamp/tree/answer
+
+Weather API: https://github.com/Kim-Flores/weather-api-bootcamp/tree/answer
