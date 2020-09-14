@@ -4,7 +4,7 @@ I used NASA's API and the OpenWeatherMap API to return all of their facility loc
 
 **Link to project:** https://complex-nasa.netlify.app
 
-https://i.imgur.com/w1xrzES.png
+![alt tag](https://i.imgur.com/w1xrzES.png)
 
 ## How It's Made:
 
