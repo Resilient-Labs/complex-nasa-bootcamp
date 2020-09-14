@@ -12,7 +12,7 @@ HTML, CSS and JS. Used the NASA API and the OpenWeather API to search the ~400 N
 
 
 # Lessons Learned:
-Discovered how more on how to use classes in JS to either reveal information or conceal. Also, got more familiar with iframe and displaying API data into the DOM.
+Discovered how more on how to use classes in JS to either reveal information or conceal. Also, creating li elements to display in ul.
 
 
 # Examples:
