@@ -1,22 +1,13 @@
 # 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+I used NASA's API and the OpenWeatherMap API to return all of their facility locations (~400), Display the name of the facility, its location, and the current weather at the facility.
 
-### How to submit your code for review:
+**Link to project:** https://complex-nasa.netlify.app
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+https://i.imgur.com/w1xrzES.png
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, Node.js, NASA's API, OpenWeatherMap's API
+
+Combining data from 2 API's has allowed a streamlined way to get information into the users hands. First getting said location of every Nasa facility and then being able to grab the weather at each site opens up a plethora of oportunities of planning for Nasa themselves.
