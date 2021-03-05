@@ -17,7 +17,8 @@ const facilityDisplay = document.querySelector('#facilities')
 
 let facilities = []
 
-document.querySelector('button').addEventListener('click', clicky)
+// document.querySelector('button').addEventListener('click', clicky)
+clicky()
 
 function clicky() {
 
