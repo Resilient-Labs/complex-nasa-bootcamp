@@ -21,7 +21,7 @@ function findFacility(){
         let table = document.getElementById('myTable')
         let newRow = table.insertRow()
         let newCell = newRow.insertCell()
-        let newFacility = document.createTextNode(`${facility} | Temperature: ${data.main.temp}`)
+        let newFacility = document.createTextNode(`${facility} | Temperature: ${data.main.temp} °F`)
         newCell.appendChild(newFacility)
       })  
     })

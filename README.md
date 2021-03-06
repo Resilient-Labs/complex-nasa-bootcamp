@@ -1,22 +1,22 @@
-# 🚀 Project: Complex NASA API
+# 🔥 Wise Kanye -  API 🔥
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+<img src="https://github.com/DashlinS/api-complex-nasa/tree/answer/images/nasademo.gif" width="700">
 
-### How to submit your code for review:
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://nasa-facility.netlify.app/)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Languages used:** Html, CSS, Javascript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Lessons Learned
+
+This is a complex API made using the NASA API and a Weather API. The task was to list all the NASA facilities and display the correct temperature at each coordinate. I used the table element and created rows dynamically using Javascript. I also only allowed the button to be clicked once.
+
+### My Other Projects 
+
+Check out some of the other projects I have made working with API!
+
+* [Wise Kanye](https://github.com/DashlinS/api-KanyeQuotes/tree/answer)
+* [POKEDEX API](https://github.com/DashlinS/api-Pokedex/tree/answer)
+* [PurrFact API](https://github.com/DashlinS/api-purrfact/tree/answer)
+* [Country News API]()
+* [NASA Weather API - Simple]()
+* [Weather API]()
