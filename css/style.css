@@ -1,0 +1,38 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+*{
+  box-sizing: border-box;
+}
+
+
+html{
+  font-size: 20px;
+  background-color: white;
+}
+
+body{
+  background-image: url("../giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #141dfa;
+  font-family: 'Oxanium', cursive;
+}
