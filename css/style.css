@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  background-color: #2a2f96;
+}
+
+img {
+  width: 100%;
+
+  /* position: absolute; */
+}
+
+.contianer {
+  margin-top: 100px;
+}
+
+.box-container {
+  display: grid;
+  grid-template-columns: repeat(1, 30px;);
+}
+
+table {
+  text-align: center;
+}
+
+#table-wrapper {
+  position: relative;
+}
+
+#table-scroll {
+  height: 600px;
+  overflow: auto;
+  margin-top: 20px;
+  width: 80%;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-family: 'Black Han Sans', sans-serif;
+  font-weight: 400;
+  color: #fbe99e;
+  font-size: 3em;
+  margin: 0;
+}
+
+button {
+  margin-top: 40px;
+}
+
+th {
+  font-family: 'Black Han Sans', sans-serif;
+  font-weight: 400;
+  color: #fbe99e;
+  font-size: 2em;
+}
+
+td {
+  color: #93ece9;
+}
