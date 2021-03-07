@@ -10,12 +10,50 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
-img{
-  display: block;
-  margin: 0 auto;
+/* font-family: 'Righteous', cursive;
+font-family: 'Teko', sans-serif; */
+body{
+  background: url(../img/nasaFacility.jpg);
+  background-size: cover;
+  font-family: "Teko",helvetica, sans-serif;
+}
+h1{
+  font-family: "Righteous";
+  font-size: 6rem;
+  text-align: center;
+}
+html{
+  font-size: 62.5%;
+}
+main{
+  background: rgba(102, 128, 156, .8);
+  margin: 5rem auto;
+  width: 90%;
 }
 
+table{
+  background: rgb(178,201,229);
+  font-size: 2rem;
+  margin: 5rem auto;
+  width: 85%;
+}
 
+tr{
+  display: flex;
+  padding: 2rem;
+}
+
+td{
+  border-bottom: 2px solid rgb(102, 128, 156);
+  justify-content:space-between;
+  padding: 1rem 0;
+  width: 30%;
+}
+.columnTitles{
+  border-bottom: none;
+  font-size: 3rem;
+  text-decoration: underline;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
