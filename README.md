@@ -14,9 +14,9 @@ This is a complex API made using the NASA API and a Weather API. The task was to
 
 Check out some of the other projects I have made working with API!
 
-* [Wise Kanye](https://github.com/DashlinS/api-KanyeQuotes/tree/answer)
+* [Wise Kanye - API](https://github.com/DashlinS/api-KanyeQuotes/tree/answer)
 * [POKEDEX API](https://github.com/DashlinS/api-Pokedex/tree/answer)
 * [PurrFact API](https://github.com/DashlinS/api-purrfact/tree/answer)
-* [Country News API]()
-* [NASA Weather API - Simple]()
-* [Weather API]()
+* [World News API](https://github.com/DashlinS/NewsRoundTheWorld/tree/answer)
+* [NASA Weather API - Simple](https://github.com/DashlinS/simple-nasa-api-bootcamp/tree/answer)
+* [Weather API](https://github.com/DashlinS/weather-api-bootcamp/tree/answer)
