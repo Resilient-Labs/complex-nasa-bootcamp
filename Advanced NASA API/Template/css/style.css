@@ -1,0 +1,89 @@
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignright {
+	float: right;
+	padding: 0 0 10px 10px; /* note the padding around a right floated image */
+}
+
+.alignleft {
+	float: left;
+	padding: 0 10px 10px 0; /* note the padding around a left floated image */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+     color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     background-image: url('../img/space.jpg');
+     font-family: Helvetica, Arial, sans-serif;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+html{
+  font-size: 10px;
+}
+h1{
+  height: 50px;
+  text-align: center;
+  font-size: 6rem;
+  color: white;
+  font-weight: 800;
+  font-family: 'Indie Flower',sans-serif;
+}
+button{
+  height: 40px;
+  width: 13%;
+  margin-left: 44%;
+  margin-top: 29px;
+  margin-bottom: 13px;
+  border-radius: 28px;
+  background-color: #F1EDB6;
+  outline: none;
+  font-weight: 800;
+  box-shadow: 1px 4px 17px 7px;
+}
+button:hover{
+  color:white;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+li{
+  height: 60px;
+  font-family: 'Indie Flower',sans-serif;
+  font-size: 3.5rem;
+  margin: 14px 10%;
+  width: 80%;
+  border: 1px solid black;
+  text-align: center;
+  background-color: rgb(225,225,255,.6);
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
