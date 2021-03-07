@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+body{
+    background-image: url(../pic/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(113, 27, 130, 0.2);
+    /* height: 100vh; */
+    padding: 0;
+    margin: 0; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     
+}
+
+.secIntroduction{
+
+    height: 14rem;
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 2%;
+    font-size: 2rem;
+}
+
+h1{
+    height: 4rem;
+    width: 100%;
+    color: white;
+}
+
+.secNasa{
+    background-color: white;
+    width: 90%;
+}
+
+li{
+    font-size: 2rem;
+    color: black;
+}
