@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    }
+    html{
+    background-image:linear-gradient( rgb(9, 150, 245), rgb(224, 210, 9), red, purple);
+    height: 9350px;
+    background-repeat: no-repeat;
+    }
+    body{
+        position: absolute;
+        top: 830%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 9000px;
+        width: 600px;
+        background: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+    }
+    img{
+        width: 200px;
+        display: block;
+        margin: 0 auto;
+    }
+    h1{
+        text-align: center;
+    }
+    
