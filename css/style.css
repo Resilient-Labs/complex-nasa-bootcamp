@@ -1,0 +1,46 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+body{
+  text-align: center;
+  background: url(../stars.png);
+  background-attachment: fixed;
+  font-size: 1.5rem;
+}
+h1{
+  color: wheat;
+  margin: 0;
+}
+img{
+  height: 15rem;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+td{
+  border: 1px solid black;
+  background: wheat;
+  padding: 1rem;
+}
+th{
+  background: #008070;
+  padding: 1.5rem;
+}
+table{
+width: 90%;
+border: 3px solid black;
+margin: 5%;
+}
