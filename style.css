@@ -1,11 +1,26 @@
+* {
+  font-size: 62.5;
+}
+
 body {
   text-align: center;
+}
+
+body {
+  background-image: url(rocket.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 p {
   color: red;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 li {
   list-style: none;
+  font-weight: bold;
 }

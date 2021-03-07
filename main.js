@@ -6,7 +6,7 @@ function getFacility() {
     .then(res => res.json())
     .then(data => {
       console.log(data);
-      for (let i = 0; i < 3; i++) {
+      for (let i = 0; i < data.length; i++) {
 
 
         let lat = data[i].location.latitude
@@ -29,7 +29,7 @@ function getFacility() {
 
 
             let listWeather = document.createElement('p')
-            let weatherItem = document.createTextNode(dataWeather.main.temp)
+            let weatherItem = document.createTextNode('Weather for the day = ' + 9/5 * (dataWeather.main.temp -273) +32 + ' f')
             listWeather.appendChild(weatherItem)
             listFacility.appendChild(listWeather)
           })
