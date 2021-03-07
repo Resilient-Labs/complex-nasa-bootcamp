@@ -1,0 +1,14 @@
+.container{
+ 
+    box-shadow: 0 2px 8px rgb(39, 39, 39);
+    width: 465px;
+    height: auto;
+    text-align: center;
+    background-color: grey;
+}
+body{
+    background-image: url('huh.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
