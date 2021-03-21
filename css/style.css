@@ -34,14 +34,40 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
-body {
-     color: #000;
-     font-size: 12px;
-     line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
+html{
+  font-size: 62.5%;
 }
 
+body {
+ color: #000;
+ font-size: 12px;
+ line-height: 1.4;
+ font-family: Arial, sans-serif;
+}
+
+h1{
+  font-family: "prompt";
+  font-size: 6rem;
+  text-align: center;
+}
+
+table{
+  background: #c5b4e4;
+  width: 85%;
+  font-size: 2rem;
+  margin: 5rem auto;
+}
+
+tr{
+  display: flex;
+  padding: 2rem;
+}
+
+td{
+  border-bottom: 2px solid #3b3a3d;
+  width: 30%;
+  padding: 1rem 0;
+}
 
 /******************************************
 /* LAYOUT
