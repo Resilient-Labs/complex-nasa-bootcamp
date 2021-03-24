@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Nasalization Rg;
+  src: url(nasalization-rg.ttf) format('truetype');
+}
+
+html {
+  font-size: 62.5%;
+  background-image: url(nasa.jpeg);
+  background-repeat: ;
+  background-size: contain;
+  font-family: Nasalization Rg;
+}
+body{
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+}
+
+table{
+  /* border: 4px solid white; */
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 100px;
+  width: 100%;
+  color: white;
+  font-size: 2rem;
+}
+tbody{
+  border: 4px solid white;
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 100px;
+  width: 100%;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+tr{
+  border: 4px solid white;
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 50px;
+  width: 100%;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+.table{
+  text-decoration: underline;
+  font-size: 3.5rem;
+}
+td{
+  border: 4px solid white;
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 30px;
+  width: 30%;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 5rem;
+  font-weight: bolder;
+  font-stretch: expanded;
+  color: white;
+}
