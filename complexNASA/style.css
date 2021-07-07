@@ -1,0 +1,110 @@
+*{
+  box-sizing: border-box;
+}
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+  font-family:'Saira Condensed'
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html{
+  font-size: 10px;
+}
+div{
+  margin-bottom:15px;
+  margin-top: 10px;
+  border-bottom: 2px solid black;
+  text-align: center;
+padding:10px;
+border-right: 2px solid black;
+}
+h1{
+  text-align: center;
+  font-family:'Saira Condensed';
+  font-size:5em;
+border: 2px dashed black;
+width:20%;
+margin: 0 auto;
+padding:10px;
+}
+h5{
+  margin-bottom: 10px;
+    font-size: 3em;
+}
+p{
+  font-size: 2.5em;
+  border-bottom: 2px dashed black;
+  border-top: 2px dashed black;
+  margin-bottom: 20px;
+}
+h6{
+  font-size: 3em;
+margin-bottom: 10px;
+}
+h3{
+  margin-bottom:10px;
+  font-size: 3em;
+}
+h4{
+  margin-bottom:10px;
+  font-size: 3em;
+}
+.but{
+  margin-top: 10px;
+  text-align: center;
+  padding:5px;
+
+}
+button{
+  font-family: 'Saira Condensed';
+  padding:5px;
+  outline: none;
+  font-size: 2em;
+  border-radius: 10px;
+}
+.fas{
+  color:blue;
+}
