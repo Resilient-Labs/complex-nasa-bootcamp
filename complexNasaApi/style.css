@@ -1,0 +1,71 @@
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  /* Clear fix hack */
+  .clearfix:after {
+       content: ".";
+       display: block;
+       clear: both;
+       visibility: hidden;
+       line-height: 0;
+       height: 0;
+  }
+
+
+  tr:nth-child(even){
+     background-color: rgba(187, 255, 0, 0.404);
+   }
+
+   tr:nth-child(old){
+     background-color:white;
+   }
+
+body{
+     background-image:url('ship.jpeg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     font-family: 'Spectral', serif;
+}
+
+h1{
+     margin-top:14%;
+     color: white;
+     font-family: 'Spectral', serif;
+     background-color: black;
+     font-size: 26px;
+     width:50%;
+     margin-left:auto;
+     margin-right:auto;
+}
+
+button{
+     border-radius: 8px;
+     border: none;
+     font-weight: 700;
+     font-size: 15px;
+     padding:.5%;
+     background-color: red;
+     color: white;
+     width:8%;
+}
+
+table{
+     color: white;
+     width:40%;
+     margin-left:auto;
+     margin-right:auto;
+     outline: 1px solid black;
+     background-color: white;
+     color: black;
+     margin-top:3%;
+
+}
+td{
+     border: 1px solid white;
+}
+th{
+     border: 1px solid black;
+}
