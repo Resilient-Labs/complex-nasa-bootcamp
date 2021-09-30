@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("./nasa1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+h2{
+    font-size: 1.35rem;
+    text-align: center;
+    font-weight: 900;
+}
+ul{
+    font-size: 1.35rem;
+    text-align: center;
+    font-weight: 900;
+}
