@@ -1,0 +1,53 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  text-align: center;
+  background-image: url(../img/paul-volkmer-qVotvbsuM_c-unsplash.jpg);
+  background-size: auto;
+  background-position: center center;
+  background-attachment: fixed;
+  font-family: 'Strait', Arial, Helvetica, sans-serif;
+  color:white;
+}
+
+#logo{
+  display: block;
+  margin: 0 auto;
+  margin-top: 2em;
+  
+}
+
+ol{
+  list-style-type: none;
+  margin: 0 auto;
+  width: auto;
+}
+
+ol li{
+  font-family: 'Strait', Arial, Helvetica, sans-serif;
+  text-decoration: underline 1px solid rgb(35 60 143);
+  padding-right:2em;
+}
+
+ol li span{
+  font-style: italic;
+  text-decoration: underline 1px solid rgb(218 16 34);
+
+}
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
