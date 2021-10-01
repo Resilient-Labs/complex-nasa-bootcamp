@@ -12,7 +12,7 @@ fetch(url)
             let lon = facility.location.longitude
             let lat = facility.location.latitude
             let zipcode = facility.zipcode.substring(0,5)
-            const url2 = `https://api.openweathermap.org/data/2.5/weather?zip=${zipcode}&appid=aceb6531e182b125c8a27a0b9e506037&units=imperial`
+            const url2 = `https://api.openweathermap.org/data/2.5/weather?zip=${zipcode}&appid=unknown&units=imperial`
 
             fetch(url2)
                 .then(res2 => res2.json())
