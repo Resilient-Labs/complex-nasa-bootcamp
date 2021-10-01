@@ -1,0 +1,43 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  img{
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
+  
+  h1{
+    font-size: 55px;
+    color: white;
+    text-align: center;
+  }
+  
+  table{
+    border: 1px solid black;
+    margin-left: 33%;
+    background: white;
+  }
+  
+  body{
+    background: url(wallpaper2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+  
+  }
+  
