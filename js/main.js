@@ -20,7 +20,7 @@ fetch(urlLocations)
             li.appendChild(span)
             document.querySelector('ol').appendChild(li);
 
-            const urlWeather = `https://api.openweathermap.org/data/2.5/weather?q=${data[i].city}&units=imperial&appid=15959b4b3e8c6f98e779c9767d5a02c0`
+            const urlWeather = `https://api.openweathermap.org/data/2.5/weather?q=${data[i].city}&units=imperial&appid=KEY`
 
             fetch(urlWeather)
                 .then(res => res.json())
