@@ -13,7 +13,7 @@ for (let i in data){
   const section = document.createElement('section')
   section.classList.add('newSections')
   container.appendChild(section)
-  const link2 = `https://api.openweathermap.org/data/2.5/weather?lat=${data[i].location.latitude}&lon=${data[i].location.longitude}&appid=a7fdf34d85817aedc68297b66cd98ba5&units=imperial`
+  const link2 = `https://api.openweathermap.org/data/2.5/weather?lat=${data[i].location.latitude}&lon=${data[i].location.longitude}&appid=noneofyourbeeswaxaedc68297b66cd98ba5&units=imperial`
 fetch(link2)
 .then((res2) => res2.json())
 .then((data2) =>  {
