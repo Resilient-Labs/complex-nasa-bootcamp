@@ -1,4 +1,5 @@
 // Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
+// Collaborated with Samekh with helping me out with some parts of the code.
 
 let locData = document.querySelector('#button').addEventListener('click', getLocData)
  
@@ -22,7 +23,7 @@ fetch(url)
             
             const eachTemp = data.main.temp
             let facilityInfo = `Facility Center: ${nasaCenter}. Location: ${nasaCity}. Current Weather ${eachTemp}`
-            
+
             let listLocations = document.querySelector('.facInfo')
             let infoDump = document.createElement("p")
             infoDump.innerText = facilityInfo
