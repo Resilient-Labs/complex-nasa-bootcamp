@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+li{
+    font-weight: bold;
+    font-family: sans-serif;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+span{
+    color: darkorange;
+}
+
