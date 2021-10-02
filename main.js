@@ -41,3 +41,4 @@ fetch(url)
         console.log(`error ${err}`)
     });
 }
+// this was worked on as a group in house garnder 
