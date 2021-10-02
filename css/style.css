@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+  }
+  
+  table{
+    border: 1px solid black;
+    margin-left: 35%;
+    background: white;
+  }
+  
+  body{
+    background-image: url(../imgs/a-cold-brown-dwarf-v2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:1000px;
+  
+  }
+  
