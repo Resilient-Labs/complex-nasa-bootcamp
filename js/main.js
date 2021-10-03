@@ -18,7 +18,7 @@ fetch(url)
   let firstFive = dataFromArray[i].zipcode.substring(0,5)
 
 
-  const weather = `https://api.openweathermap.org/data/2.5/weather?zip=${firstFive}&units=imperial&appid=0a984fab9c2c608ab45be229d9cade76`
+  const weather = `https://api.openweathermap.org/data/2.5/weather?zip=${firstFive}&units=imperial&appid=`
 
 fetch(weather)
   .then(res => res.json()) // parse response as JSON 
