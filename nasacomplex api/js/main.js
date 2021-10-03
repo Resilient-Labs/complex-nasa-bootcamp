@@ -17,7 +17,7 @@ function findList() {
         let cityName = data[i].city;
         // console.log(centerName); //the center name
         // console.log(cityName); //the city name
-        let url2 = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=bcd38d1b6d16b6ef3a872197b4588665`;
+        let url2 = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=use_your_own_keys`;
         fetch(url2)
           .then((res) => res.json())
           .then((data) => {
