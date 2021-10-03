@@ -17,6 +17,5 @@
 Example:
 ```
 I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I feel good about my code: 3
+i have the loop setup to only show 3 locations so that it doesnt lock me out for making too many request. this can be fixed to data.length so that the entire list will populate. 
