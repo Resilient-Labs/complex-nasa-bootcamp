@@ -1,22 +1,29 @@
-# 🚀 Project: Complex NASA API
+# All NASA Sites and Local weather
+This project is an website with an NASA API that pulls all sites and information. A secondary API uses site location to retrieve local weather based off zip code. All NASA sites populate including location information. local weather shows next to the site.
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+**Link to project:** 
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, Javascript
+
+To make this API based website we are going to be using Javascript and fetch syntax to work with the API interfaces.
+
+what the first API does:
+gets all NASA sites
+lists all sites.
+
+what the second API does:
+grabs the zip code of the site and returns weather
+
+## Optimizations
+
+
+## Lessons Learned:
+
+A great takeaway for this project would be using for loops to deal with the parsed JSON data. using a for loop you can grab specific values, assign them to variables, and use them as parameters in other API interfaces.
+
+## Examples:
+
+
