@@ -1,0 +1,30 @@
+*{ 
+  box-sizing: border-box;
+  }
+  body{
+    background-image: url('nasa.png');
+    background-size: cover;
+  }
+  section{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+  }
+  table{
+    background-color: rgba(255, 255, 255, 0.808);
+  }
+  h1{
+    position: relative;
+    left: 14%;
+    font-size: 2rem;
+    width: 400px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.808);
+  }
+  table{
+    width: 570px;
+  }
+table, tr, th, td{
+  border: 1px solid black
+}
