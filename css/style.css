@@ -1,0 +1,72 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+    background-image: url('back.jpg') ;
+    color: white; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+ 
+
+
+  body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  #top{
+    margin-top: 1%; 
+    margin-bottom: 7%; 
+    border-bottom: 500%; 
+    width: 100%;
+    border: 2px solid white;
+    align-items: center; 
+    text-align: center;
+  
+  }
+
+  td{
+    border: 1px solid white; 
+  }
+
+  #table{
+   
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center stretch; 
+  }
+
+  th{
+    width: 33.3%;
+    margin-right: 5%; 
+    border: 1px solid white; 
+   
+    
+  }
+
+  button{
+    -webkit-border-radius: 53;
+    -moz-border-radius: 53;
+    border-radius: 53px;
+    font-family: Georgia;
+    color: #0a010a;
+    font-size: 15px;
+    background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 2%; 
+  }
