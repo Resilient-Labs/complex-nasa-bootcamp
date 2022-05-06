@@ -1,0 +1,48 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  background: black;
+  color: white;
+  font-family: 'Inconsolata';
+  padding: 28px 0 0 28px;
+}
+
+ol{
+  float: left;
+
+}
+
+.wide{
+  width: 40%;
+}
+
+.label{
+  font-size: 3.5rem;
+}
+
+li{
+  margin-bottom: 12px;
+  font-size: 2rem;
+  height: 4.2rem;
+  margin-right: 14px;
+
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
