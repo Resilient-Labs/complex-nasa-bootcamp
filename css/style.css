@@ -1,0 +1,20 @@
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+table{
+  margin-left: 35%;
+  background: white;
+  border: 1px solid black;
+}
+
+body{
+  background: url(https://camo.githubusercontent.com/b8591e0691281553af303b7c7b0fc1b77fe7e388f92b7433f16252f43cd0586d/68747470733a2f2f696d616765732d6173736574732e6e6173612e676f762f696d6167652f697373303430653030383234342f697373303430653030383234347e736d616c6c2e6a7067);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height:800px;
+
+}

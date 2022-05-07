@@ -1,22 +1,21 @@
-# 🚀 Project: Complex NASA API
+This is a NASA centered app in which returns the current temperature at each of NASA's facilities. 
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+Link to Project: [https://juliedodev-complexnasa.netlify.app]
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<img src="complexnasa.png">
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+How It's Made;
+
+Tech used: 
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+
+Optimizations:
+
+Lesson Learned:
+
+I learned how to use 2 APIs in this app using nasa.gov and openweather to write a fetch statement. To get the data I had to loop through the NASA api to get the data.
