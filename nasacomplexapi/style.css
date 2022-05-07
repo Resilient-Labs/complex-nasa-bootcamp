@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    text-align: left;
+    background-image: url('./nasabg.gif');
+    background-size: cover;
+    color: orange;
+}
