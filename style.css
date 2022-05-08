@@ -1,0 +1,20 @@
+h1, div {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#list {
+    text-align: left;
+}
+
+button {
+    padding: 8px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+body {
+    background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/teams_background_1.jpg');
+    background-size: cover;
+}
