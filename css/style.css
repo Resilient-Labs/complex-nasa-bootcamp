@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+  
+  /* Clear fix */
+  .clearfix:after {
+       content: ".";
+       display: block;
+       clear: both;
+       visibility: hidden;
+       line-height: 0;
+       height: 0;
+  }
+  
+  .clear {
+      clear: both;
+  }
+
+  body{
+    background-image: url("bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+button{
+    width: 15%;
+    height: 45px;
+    font-size: larger;
+    font-weight: 200;
+    background: rgba(48, 48, 255, 0.762);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover{
+    background: rgb(168, 0, 215);
+    color: rgb(255, 226, 230);
+}
