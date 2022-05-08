@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    text-align: center;
+    font-family: 'Space Grotesk', Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: url('../images/space.jpg');
+}
+
+/* clearfix hack */
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+/* Header Styling */
+
+header {
+    background: rgba(0,0,0,.7);
+    margin: 0 25%;
+    padding: 2%;
+    font-size: 2.5rem;
+    color: white;
+}
+
+ol {
+    margin: 0 25%;
+    color: white;
+    background: rgba(0,0,0,.85);
+    font-size: 2rem;
+}
+
+li {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
