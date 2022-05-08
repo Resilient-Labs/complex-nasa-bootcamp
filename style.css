@@ -1,3 +1,76 @@
 * {
   box-sizing: border-box;
+  background: lightgray;
+}
+
+/* Header section + search button */
+.top {
+  position: fixed;
+  width: 100%;
+}
+
+h1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 7px double gray;
+  font-size: 40px;
+  margin: 5px;
+}
+
+
+/* NASA Facilities list */
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  margin-top: 238px;
+}
+
+
+h5, h4, h3, h2, {
+  font-size: 10px;
+}
+
+/* Site Key */
+p {
+  font-size: 25px;
+  margin: 5px;
+}
+
+h5 {
+  border: 3px solid green;
+}
+
+h4 {
+  border: 3px solid yellow;
+}
+
+h3 {
+  border: 3px solid purple;
+}
+
+h2 {
+  border: 3px solid blue;
+}
+
+.green {
+  color: green;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.purple {
+  color: purple;
+}
+
+.blue {
+  color: blue;
 }
