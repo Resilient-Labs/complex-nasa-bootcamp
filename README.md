@@ -1,22 +1,21 @@
-# 🚀 Project: Complex NASA API
+# Nasa Facility Weather Checker
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+This app allows the user to see various data, ranging from location to current temperature of offical Nasa facilities. 
 
-### How to submit your code for review:
+**Link to project:** https://jazzy-hummingbird-2e922c.netlify.app/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![alt](nasa.gif)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+Utilziing JavaScript, this project makes displays data from the NasaAPI in conjuction with the OpenWeather to provide current real world temperatures at listed Nasa facilities, all in a matter of seconds..
+<!-- ## Optimizations
+*(optional)*
+
+You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews! -->
+
+## Lessons Learned:
+
+Always test your code but be mindful of the API request limit. 
