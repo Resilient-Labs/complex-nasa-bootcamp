@@ -14,12 +14,12 @@ const getData = () => {
         li.innerHTML = `${data[i].center}, ${data[i].facility}, ${data[i].city}, ${data[i].state}. ${data[i].zipcode}`;
         li.appendChild(p);
         document.querySelector("ol").appendChild(li); 
-        let weather = `https://api.openweathermap.org/data/2.5/weather?q=${data[i].city},USA&units=imperial&appid=${api_key}`;
+        let weather = `https://api.openweathermap.org/data/2.5/weather?q=${data[i].city},units=imperial&appid=${api_key}`;
         fetch(weather)
           .then((res) => res.json())
           .then((data) => {
             if (data && data.main && data.main.temp) {
-              p.innerHTML = `The Temperature is  ${data.main.temp} `;
+              p.innerHTML = `The Temperature is  ${data.main.temp}`;
             } else {
               p.innerHTML = "ALL YOUR WEATHER DATA ARE BELONG TO US";
             }

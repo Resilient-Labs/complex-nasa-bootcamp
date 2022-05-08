@@ -18,3 +18,7 @@ body {
     background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/teams_background_1.jpg');
     background-size: cover;
 }
+
+.weather {
+    color: blue;
+}
