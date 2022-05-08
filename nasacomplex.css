@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    height: 100%;
+    background-image: url(./images/astro.gif);
+    background-size: cover;
+    text-align:center;
+}
+.button1{
+    margin-left:10px;
+    height:40px;
+    
+}
+h2{
+    color: rgb(13, 13, 255);
+}
+h3{
+    color: white;
+}
+h4{
+    color: rgb(13, 13, 255)
+}
+h5{
+    color: white
+}
