@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+}
+
+body {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/VAB_and_SLS.jpg/800px-VAB_and_SLS.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 174%;
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 1.5em;
+}
+
+.wicon {
+    display: block;
+    height: 3rem;
+    width: 100%;
+}
