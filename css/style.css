@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://i.gifer.com/W40a.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 279%;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+}
+
+button.click {
+    height: 1.5rem;
+    width: 5rem;
+    font-size: 1em;
+}
+
+#anisection {
+    width: 100%;
+    height: 4rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#anidisplay {
+    width: 100%;
+    height: 15rem;
+}
+
+#memediv {}
+
+.title {}
+
+.jTitle {}
+
+.studios {}
+
+.aniImage {}
+
+.aniTrailer {}
+
+.synopsis {}
+
+.genre {}
+
+.season {}
+
+.episodes {}
+
+.aired {}
+
+.rating {}
+
+.type {}
