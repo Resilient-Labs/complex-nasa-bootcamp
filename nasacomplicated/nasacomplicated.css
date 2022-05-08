@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-image: url(pattern.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
