@@ -35,19 +35,16 @@ function search() {
       h2.innerText = data[i].state;
 
       //Weather API
-      let weatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=f0f1935104d472391d80af21c332dabc`;
+      let weatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=f0f1935104d472391d80af21c332dabc&units=imperial`;
 
-      fetch(
-        `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=f0f1935104d472391d80af21c332dabc`
-      )
+      fetch(weatherUrl)
       .then((res) => res.json()) // parse response as JSON
       .then((weatherData) => {
-        let kelvinTemp = weatherData.main.temp;
-        //Kelvin to farenhieght formukla
-        let fareTemp = (9 / 5) * (kelvinTemp - 273) + 32;
-        let roundedTemp = Math.round(fareTemp);
-        let finalTemp = roundedTemp + " ° F";
-        h4.innerText = finalTemp;
+
+        //This is used to round the Temperture and then convert it to a string. This string is then concatenated with a degree symbol.
+        let roundedTemp = Math.round(weatherData.main.temp);
+        let finalTemp = roundedTemp.toString() + " ° F";
+        h4.innerText = finalTemp
       })
       .catch((err) => {
         console.log(`error ${err}`);
