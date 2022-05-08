@@ -29,8 +29,8 @@ function nasaButton() {
                     const li = document.createElement('li')
                     const ol = document.createElement('ol')
 
-                    li.innerText = `Weather: ${nasaWeather}, Temp: ${f}`
-                    ol.innerText = `Location: ${nasaLocation} ${nasaLat}, ${nasaLon}`
+                    li.innerText = `Weather: ${nasaWeather}, Temp: ${f} F`
+                    ol.innerText = `Location: ${nasaLocation}, Lat:${nasaLat}, Lon:${nasaLon}`
                     ul.innerText = `Facility: ${nasaFacility}`
                     
                     
