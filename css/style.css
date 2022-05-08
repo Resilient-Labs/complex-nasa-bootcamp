@@ -23,7 +23,9 @@
     background-size: cover;
     color: aliceblue;
 }
-
+header{
+    text-align: center;
+}
 button{
     width: 15%;
     height: 45px;
