@@ -1,0 +1,52 @@
+*****************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Quicksand', 'Poppins', 'Futura', sans-serif;
+  background-image: url("../img/bg.gif");
+  background-repeat: repeat;
+}
+
+main, div {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+main {
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  color: black;
+  background-color:rgba(254, 254, 254, 0.871);
+}
+
+li {
+  padding: 1em;
+}
+
+img {
+  width: 25%;
+}
+
+p {
+  width: 80%;
+  margin-bottom: 5%;
+}
+
+h4 {
+  margin-top: 0%;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
