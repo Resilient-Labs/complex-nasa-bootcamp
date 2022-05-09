@@ -1,0 +1,29 @@
+button{
+  display: none;
+}
+
+section{
+  text-align: center;
+  background: white;
+  width: 50%;
+  border: 3px solid red;
+}
+
+body{
+  background: #0B3D91;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+body:hover{
+  background: #0B3D91;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  
+ }
+
+li{
+  list-style: none;
+}
