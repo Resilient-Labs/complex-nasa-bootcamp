@@ -34,8 +34,10 @@ function search() {
       h3.innerText = data[i].city;
       h2.innerText = data[i].state;
 
+
+      let apiKey = process.env.API_KEY
       //Weather API
-      let weatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=f0f1935104d472391d80af21c332dabc&units=imperial`;
+      let weatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${apiKey}&units=imperial`;
 
       fetch(weatherUrl)
       .then((res) => res.json()) // parse response as JSON
