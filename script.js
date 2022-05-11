@@ -35,7 +35,7 @@ function search() {
       h2.innerText = data[i].state;
 
 
-      let apiKey = process.env.API_KEY
+      let apiKey = window.API_KEY
       //Weather API
       let weatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${apiKey}&units=imperial`;
 
