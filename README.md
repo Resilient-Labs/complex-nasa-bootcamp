@@ -1,22 +1,8 @@
 # 🚀 Project: Complex NASA API
+![2022-05-14 (2)](https://user-images.githubusercontent.com/102920855/168438837-971faa77-e44e-4960-b200-9ab27b67e611.png)
+![2022-05-14 (1)](https://user-images.githubusercontent.com/102920855/168438840-e4bba881-b86d-493d-9bb5-4a9630ccaa06.png)
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
-
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Description
+Users are able to press a button that returns the names, locations, and weather of all of NASA's stations.
+# Tech Used:
+HTML, CSS, JavaScript, API, JSON
