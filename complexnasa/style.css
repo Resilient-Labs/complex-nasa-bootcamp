@@ -6,7 +6,7 @@ html{
     background-image: url(./images/blackbackground.gif);
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    
     
 }
 body{
@@ -15,6 +15,7 @@ body{
     font-size: 62.5%;
     text-align: center;
     font-family: 'Bebas Neue', Helvetica, sans-serif;
+    height: 100%;
 }
 h1{
     font-size: 3rem;

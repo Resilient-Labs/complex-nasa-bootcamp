@@ -7,7 +7,7 @@ function getLocation(){
     .then(res => res.json())
     .then(data => {
         console.log(data)
-        for (let i = 0; i< data.length; i++){
+        for (let i = 0; i< 10; i++){
                 
                 let p = data [i]
 
