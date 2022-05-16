@@ -15,6 +15,13 @@ img{
   margin: 0 auto;
   width: 400px;
 }
+body{
+  background-image: url(../img/facilityB.jfif);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
 
 
 /******************************************
