@@ -11,8 +11,10 @@ function findFacility(){
     fetch(url) 
     .then(res => res.json()) // parse response as JSON 
     .then(data => { 
+        console.log(data)
         //destructing these properties from the data object
         //console.log(data)
+        let facilityNumber = Math.floor(Math.random() * 486)
         let {city, state, country, zipcode} = data[facilityNumber]
         //adding facility name and location to inner text.
         document.querySelector('#name').innerText = data[facilityNumber].center
