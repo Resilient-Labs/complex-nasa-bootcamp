@@ -2,21 +2,15 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+I used 2 APIs to calculate the weather at each NASA Facility. This was accomplished using NASA's facility API and Open Weather Map API. 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![Screen Shot 2022-05-18 at 3 49 55 PM](https://user-images.githubusercontent.com/102037717/169144119-fd3c2d90-6f37-4cec-9618-62a0bbb45e84.png)
+![Screen Shot 2022-05-18 at 3 50 24 PM](https://user-images.githubusercontent.com/102037717/169144136-64f702c3-e8fa-4764-8046-1b898c32fd46.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, Web APIs
+
+## Lessons Learned:
+
+This was definitely a harder project to accomplish, I learned more about the parameters needed and how 2 APIs can work together. 
