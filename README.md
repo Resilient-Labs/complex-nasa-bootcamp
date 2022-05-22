@@ -2,7 +2,7 @@
 
 This is a complex NASA API which displays all the names of NASA's facilities, its location, and the current weather at each facility. 
 
-! <img width="722" alt="Screen Shot 2022-05-22 at 2 22 40 AM" src="https://user-images.githubusercontent.com/102008028/169682486-cc64a2a7-a314-493f-8161-80990af810f2.png">
+<img width="722" alt="Screen Shot 2022-05-22 at 2 22 40 AM" src="https://user-images.githubusercontent.com/102008028/169682486-cc64a2a7-a314-493f-8161-80990af810f2.png">
 
 ## Languages Used 
 
