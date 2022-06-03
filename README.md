@@ -2,7 +2,7 @@
 
 I built out a site that uses NASA's API and returns all of their facility locations (~400) in a list format. Users can click the "view data" button to see all facilities displayed. 
 
-**Try it out here:** https://retrotimetictactoe.netlify.app/
+**Try it out here:** https://cnasafacilities.netlify.app/
 
 ![Nasa API](https://i.imgur.com/hNz5LFR.png)
 
