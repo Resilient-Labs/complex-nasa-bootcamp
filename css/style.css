@@ -1,0 +1,71 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+html {
+  font-size: 62.5%
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+  background-image: url(/img/nasa.jpeg);
+
+}
+
+section {
+  border: .5px solid grey;
+  display: inline-block;
+  width: 30%;
+  margin: 2% auto;
+  margin-right: 3rem;
+  margin-left: 3rem;
+  border-radius: 2rem;
+  font-size: 2.5rem;
+  box-shadow: 10rem;
+  color: white;
+  text-align: center;
+
+}
+
+ul li {
+  list-style: none;
+  text-decoration: none;
+  padding-top: 2rem;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 3.5rem;
+  color: white;
+}
+
+button {
+  display: block;
+  margin: 2rem auto;
+  font-size: 2.5rem;  
+  border-radius: 1rem;
+  background: rgba(30, 77, 143, 1);
+  border: none;
+  width: 20rem;
+  color: rgba(237, 67, 47, 1);
+
+}
