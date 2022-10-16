@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    background:url(nasa.jpeg);
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    margin: 10% 20%;
+    text-align: center;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: 2rem;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+    margin: 0% 0% 10% 0%;
+    width: 100%;
+    font-weight: bold;
+    clear: both;
+    background-color: white;
+}
+
+span {
+    list-style: none;
+    font-size: 2 rem;
+    margin: 0%;
+    width: 100%;
+    float:left;
+    background-color: aqua;
+    
+  
+    
+}
