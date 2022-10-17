@@ -9,4 +9,5 @@ This project lets you see the geographical locations and weather of all the NASA
 HTML | CSS | JAVASCRIPT 
 
 5 - I completed the challenge
+
 4 - I feel okay about my code, and excited to learn more about APIs. 
