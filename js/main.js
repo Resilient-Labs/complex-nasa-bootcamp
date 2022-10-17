@@ -56,7 +56,7 @@ document.querySelector("button").addEventListener("click", () => {
 
             })
             .catch(err => {
-                onsole.log(`error ${err}`)
+                console.log(`error ${err}`)
         });
 
             // Append li to ul
