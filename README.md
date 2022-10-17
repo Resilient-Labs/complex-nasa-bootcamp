@@ -1,7 +1,7 @@
 # 🚀 Project: Complex NASA API
 
 ![image](https://user-images.githubusercontent.com/112201564/196259882-471978f3-87a7-4629-ac1a-c2d22bcb5387.png)
-### Tech used: Vanilla JS, HTML, CSS
+### Tech used: HTML, CSS, JS
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
 ### How to submit your code for review:
