@@ -1,22 +1,16 @@
 # 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
-
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Complex NASA API
+An application that takes the locations of all the Nasa Facilties from an API.
+Then there is a second weather API calls the first one to use the location data provided from the
+Nasa Facilties API to give a the temperature based on the location of the facilties. 
+Check it out here: https://singular-ganache-47d3a2.netlify.app
+![image](https://user-images.githubusercontent.com/112406976/196250584-2e9e5ddb-9943-4a9f-8dd6-068b7bd37842.png)
+# Tech Used: HTML, CSS, Javascript 
+This project took HTML, CSS, and Javascript to get the desired result. I wanted my list to appear on the DOM 
+as soon as I added hit the button. Two APIs were called in order to get the location of the facility and the 
+weather forecast for the current time. 
+# Lessons Learned
+This project taught me alot about interacting with APIs and the ways we can use the data extracted from these APIs, 
+to build applications. Powerful apps can be built in a short time with code from others is the biggest lesson
+I took away from this project.
