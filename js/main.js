@@ -11,11 +11,13 @@ document.querySelector("button").addEventListener("click", () => {
         .then(res => res.json()) // parse response as JSON
         .then(data => {
 
+
         data.forEach((element, index) => {
 
             // Store Latitude and Longitude. We'll use them later for the weather api
             let locationLatitude = data[index].location.latitude
             let locationLongitude = data[index].location.longitude
+
 
             // Create a section
             let section = document.createElement("SECTION")
@@ -42,20 +44,20 @@ document.querySelector("button").addEventListener("click", () => {
             ul.appendChild(liCity)
             ul.appendChild(liState)
 
-             //Call 2nd api that will get the weather for us. Pass in the locationLatitude and locationLongitude variables that we grabed from NASA api
-            fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${locationLatitude}&lon=${locationLongitude}&appid=${key}&units=imperial`)
-            .then(res => res.json()) // parse response as JSON
-            .then(data => {
+        //      //Call 2nd api that will get the weather for us. Pass in the locationLatitude and locationLongitude variables that we grabed from NASA api
+        //     fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${locationLatitude}&lon=${locationLongitude}&appid=${key}&units=imperial`)
+        //     .then(res => res.json()) // parse response as JSON
+        //     .then(data => {
 
-                let temperature = data.main.temp
+        //         let temperature = data.main.temp
 
-                //Add text into the li
-                liTemperature.appendChild(document.createTextNode(`${temperature}`))
+        //         //Add text into the li
+        //         liTemperature.appendChild(document.createTextNode(`${temperature}`))
 
-            })
-            .catch(err => {
-                onsole.log(`error ${err}`)
-        });
+        //     })
+        //     .catch(err => {
+        //         onsole.log(`error ${err}`)
+        // });
 
             // Append li to ul
             ul.appendChild(liTemperature)
@@ -69,5 +71,4 @@ document.querySelector("button").addEventListener("click", () => {
         .catch(err => {
             console.log(`error ${err}`)
     });
-
 })

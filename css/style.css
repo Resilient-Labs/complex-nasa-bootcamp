@@ -42,7 +42,7 @@ section {
   box-shadow: 10rem;
   color: white;
   text-align: center;
-
+  /* box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); */
 }
 
 ul li {
