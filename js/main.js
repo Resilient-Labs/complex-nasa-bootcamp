@@ -44,20 +44,20 @@ document.querySelector("button").addEventListener("click", () => {
             ul.appendChild(liCity)
             ul.appendChild(liState)
 
-        //      //Call 2nd api that will get the weather for us. Pass in the locationLatitude and locationLongitude variables that we grabed from NASA api
-        //     fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${locationLatitude}&lon=${locationLongitude}&appid=${key}&units=imperial`)
-        //     .then(res => res.json()) // parse response as JSON
-        //     .then(data => {
+             //Call 2nd api that will get the weather for us. Pass in the locationLatitude and locationLongitude variables that we grabed from NASA api
+            fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${locationLatitude}&lon=${locationLongitude}&appid=${key}&units=imperial`)
+            .then(res => res.json()) // parse response as JSON
+            .then(data => {
 
-        //         let temperature = data.main.temp
+                let temperature = data.main.temp
 
-        //         //Add text into the li
-        //         liTemperature.appendChild(document.createTextNode(`${temperature}`))
+                //Add text into the li
+                liTemperature.appendChild(document.createTextNode(`${temperature}`))
 
-        //     })
-        //     .catch(err => {
-        //         onsole.log(`error ${err}`)
-        // });
+            })
+            .catch(err => {
+                onsole.log(`error ${err}`)
+        });
 
             // Append li to ul
             ul.appendChild(liTemperature)
