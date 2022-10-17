@@ -2,6 +2,9 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
+**Link to project:** https://nasafacilities.netlify.app/
+
+
 ![nasa](https://user-images.githubusercontent.com/91163017/195708370-19b06a85-a7c4-450a-8d83-5424adbb81fa.gif)
 
 <img width="800" alt="Screen Shot 2022-10-13 at 4 54 43 PM" src="https://user-images.githubusercontent.com/91163017/195708729-0e2b4445-6c36-4008-b000-ccd98fb536ab.png">
