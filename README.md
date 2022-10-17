@@ -4,8 +4,7 @@ This project lets you see the geographical locations and weather of all the NASA
 
 
 
-## How It's Made
-###Tech Used: 
+## How It's Made and Tech Used: 
 HTML | CSS | JAVASCRIPT 
 
 5 - I completed the challenge
