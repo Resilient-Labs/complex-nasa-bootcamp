@@ -1,41 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-    	<meta charset="utf-8">
-    	<meta name="description" content="This is where your description goes">
-    	<meta name="keywords" content="one, two, three">
 
-		<title>Complex NASA API</title>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="This is where your description goes">
+    <meta name="keywords" content="one, two, three">
 
-		<!-- external CSS link -->
-		<link rel="stylesheet" href="css/style.css">
-	</head>
-	<body>
+    <title>NASA Facilities Locator</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div>
         <section class="main">
-		    <h1>NASA Facilities</h1>
+            <h1>NASA Facilities Locator</h1>
             <p>Click to browse the list of NASA Facilities.</p>
         </section>
 
-        <select>
-            <option>5</option>
-            <option>10</option>
-            <option>15</option>
-            <option>50</option>
-        </select>
+        <section class="selectHere">
+            <span>Show:</span> <select>
+                <option>5</option>
+                <option>10</option>
+                <option>15</option>
+                <option>50</option>
+            </select>
 
-        <p>Show:</p>
+            <button type="button">Browse</button>
 
-        <button type="button">Browse</button>
+        </section>
 
-       <table>
-           <tr>
-               <th>Facility</th>
-               <th>City</th>
-               <th>State</th>
-               <th>Weather</th>
-           </tr>
-       </table>
+        <table>
+            <tr>
+                <th>Facility</th>
+                <th>City</th>
+                <th>State</th>
+                <th>Weather</th>
+            </tr>
+        </table>
+    </div>
 
-		<script type="text/javascript" src="js/main.js"></script>
-	</body>
+    <script type="text/javascript" src="js/main.js"></script>
+</body>
+
 </html>
