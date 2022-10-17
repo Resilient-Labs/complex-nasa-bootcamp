@@ -1,6 +1,6 @@
 # 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+This project lets you see the geographical locations and weather of all the NASA Facilities in the country! 🌇
 
 ### How to submit your code for review:
 
@@ -14,9 +14,9 @@
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made
+#Tech Used: 
+HTML | CSS | JAVASCRIPT 
+
+5 - I completed the challenge
+4 - I feel okay about my code, and excited to learn more about APIs. 
