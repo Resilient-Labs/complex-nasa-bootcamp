@@ -3,7 +3,7 @@ document.querySelector("button").addEventListener("click", () => {
     // When the button is clicked, remove the background image and add color black
     document.body.style.background = 'none';
     document.body.style.backgroundColor = "black";
-    let key = "openweathermap API_KEY GOES HERE"
+    let key = "f91af75b3d52f3032a0ed01ea95ccf11"
 
 
         // Fetch NASA api which returns location of facilities
