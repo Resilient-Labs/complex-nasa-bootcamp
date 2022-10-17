@@ -1,0 +1,52 @@
+/* real one  */
+
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+#first{
+    float: left;
+    width: 50%;
+
+}
+
+#second{
+    float: left;
+    width: 18%;
+
+}
+
+#third{
+    float: left;
+    width: 6%;
+
+}
+
+#fourth{
+    float: left;
+    width: 6%;
+
+}
+
+#fifth{
+    float: left;
+    width: 14%;
+
+}
+
+ #second,#third,#fourth,#fifth{
+list-style: none;
+} 
+
+
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
