@@ -1,0 +1,28 @@
+body{
+    background: rgb(248, 248, 248);
+    margin: 10px;
+}
+
+
+section{
+    margin: 60px;
+}
+
+img{
+    width: 50%;
+}
+
+button{
+    margin-bottom: 5%;
+    margin-top: 2%;
+    background: rgb(24, 89, 110);
+    color: white;
+    border: none;
+    height: 40px;
+    cursor: pointer;
+    display: block;
+}
+
+button:hover{
+    background: rgb(26, 99, 124);
+}
