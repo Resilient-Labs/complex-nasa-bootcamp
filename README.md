@@ -1,22 +1,14 @@
-# 🚀 Project: Complex NASA API
+# NASA Facilities Weather API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+### Web application that uses NASA's API to return all of their facility locations and the current weather at the facitlity.
 
-### How to submit your code for review:
+[Link to project](https://astronomy-photo-of-the-day.netlify.app/)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![astronomy-photo-of-the-day netlify app_ (1)](https://user-images.githubusercontent.com/111996055/197098227-ae30109d-36cd-463f-b19a-0a2ac838452b.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+HTML, CSS, JavaScript
+
+
+## Lessons Learned:
+This was my first time using two APIs in one website, and I learned that when managing a large amount of data, it's extremely important to stay organized.
