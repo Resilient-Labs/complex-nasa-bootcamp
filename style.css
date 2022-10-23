@@ -1,0 +1,238 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+body{
+  background-color: #3A606E;
+}
+
+h1 {
+ border: 1px solid black;
+ width: 40%;
+ padding: 5px;
+ border-radius: 5px;
+ height: auto;
+ margin: auto;
+ text-align: center;
+ background-color: #9e5475;
+}
+
+main{
+  display: flex;
+  width: 90%;
+  height: auto;
+  margin: auto;
+  border-radius: 5px;
+  flex-direction: column;
+  ;
+}
+
+main div{
+width: 100%;
+display: flex;
+}
+
+h2, button{
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 5px;
+  flex: 1 0 0;
+  text-align: center;
+}
+
+h2:first-child{
+  background-color: #AEADF0;
+}
+h2:nth-child(2){
+  background-color: #BFD3C1;
+}
+h2:nth-child(3){
+  background-color: #A97C73;
+}
+
+h2:nth-child(4){
+  background-color: #68A691 ;
+}
+
+
+button{
+  background-color: #68A691;
+  border: 0px;
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+body{
+  background-color: #FFD4CA;
+}
+
+#allData {
+
+}
+
+#allData section {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-basis: 10%;
+  align-items: center;
+  justify-content: center;
+}
+
+.clear {
+	clear: both;
+}
+
+h1 {
+  border: 1px solid black;
+  text-align: center;
+  width: 50%;
+  margin-left: 25% ;
+  background-color: #896978;
+}
+
+#center {
+  border: 1px solid black;
+  width: 40%;
+  height: 45px;
+  margin-right: 40px;
+  margin-left: 120px;
+  text-align: center;
+  background-color: #96AEA7;
+  font-size: 19px;
+}
+
+#location {
+  border: 1px solid black;
+  width: 15%;
+  height: 30px;
+  margin-right: 40px;
+  text-align: center;
+  background-color: #AAC0AF;
+  font-size: 20px;
+}
+
+}
+
+
+#zip {
+  border: 1px solid black;
+  width: 10%;
+  height: 30px;
+  margin-right: 40px;
+  text-align: center;
+  background-color: #D5A195;
+  font-size: 20px;
+}
+
+
+#btn {
+  border: 1px solid black;
+  width: 15%;
+  height: 48px;
+  margin-right: 40px;
+  text-align: center;
+  background-color: #96AEA7;
+  font-size: 14px;
+  
+}
+
+span {
+  font-size: 24px;
+  font-weight: 600;
+  
+}
+
+button {
+  margin-top: 15px;
+  height: 600px;
+  font-weight: 600;
+} */
+
+
+
+/* Tablet size */
+@media (min-width:601px) and (max-width: 800px) {
+
+}
+
+
+
+
+ /* Mobile size  */
+@media only screen and (max-width: 600px) {
+
+}
+
