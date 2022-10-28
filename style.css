@@ -12,6 +12,17 @@
   /******************************************
   /* LAYOUT
   /*******************************************/
+h1{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+   width: 100%;
+   color: red;
+   background-color: black;
+   font-size: 1.5em;
+
+}
 #first{
     float: left;
     width: 50%;
