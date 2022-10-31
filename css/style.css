@@ -16,6 +16,22 @@ img{
 }
 
 
+
+input, button {
+  border-radius: 5px;
+}
+
+body{
+  margin-top: 63px;
+  text-align: left;
+  font-weight: bolder;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* color: white; */
+    
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
