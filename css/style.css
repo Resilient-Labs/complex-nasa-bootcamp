@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.weather_card{
+    text-align: center;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    margin: 5px 5px;
+    border: 1px black solid;
+    border-radius: 6px;
+}
