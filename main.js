@@ -1,26 +1,3 @@
-// let url = 'https://data.nasa.gov/resource/gvk9-iz74.json'
-
-// fetch(url)
-// .then((res) => res.json())
-// .then((data) =>{
-//     data.map(x => {
-//         fetch(`https://api.weatherapi.com/v1/current.json?key=f67b3d6a11654194a2c151527230504&q=${x.zipcode}&aqi=no`)
-//         .then(res => res.json())
-//         .then((weather) =>{
-//             return {
-//                 temp: weather.current.temp_f,
-//                 conditions: weather.current.condition.text
-//             }
-//         })
-
-//         console.log(temp)
-//         console.log(conditions)
-
-//     })
-//     console.log(data)
-// })
-
-
 let url = 'https://data.nasa.gov/resource/gvk9-iz74.json'
 let nasaSites = []
 document.querySelector('button').addEventListener('click',renderFunc)
