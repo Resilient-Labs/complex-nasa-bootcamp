@@ -23,7 +23,7 @@ function facilityLocations(){
       .then(res => res.json()) // parse response as JSON
       .then(data => {
       //console.log(data.main.temp)
-      let convert = Math.floor((data.main.temp - 273.15) * 1.8 + 32)
+      let convert = Math.floor((data.main.temp - 273.15) * 1.8 + 32) 
       let li = document.createElement('li')
       document.querySelector('h2').appendChild(li)
       li.innerText= `${facility} at ${center} in ${location} and it is ${convert}℉`
