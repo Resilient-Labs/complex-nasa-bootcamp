@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 80%;
+  border-radius: 30px;
+  
+}
+
+.title {
+  margin-top: 20px;
+}
+
+#result {
+  margin-top: 30px;
+}
+
+#result img {
+  width: 50%;
+  height: auto;
+}
+
+.tableTitle {
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: 900;
+  font-size: 24px;
+}
+.tableTitle span {
+  width: 40%;
+  padding: 5px;
+  border-radius: 5px;
+  height: auto;
+  margin: auto;
+}
+
+.table {
+  display: flex;
+  background-image: url("https://wallpapers.com/images/hd4/giant-stars-4k-space-q03wbnsie2ul47hh.jpg");
+}
+
+.table span {
+  width: 40%;
+  padding: 5px;
+  border-radius: 5px;
+  height: auto;
+  margin: auto;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(22, 89, 181, 0.8);
+    width: 80%;
+    border-radius: 30px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(22, 89, 181, 0.8);
+    width: 90%;
+    border-radius: 30px;
+  }
+}
