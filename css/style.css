@@ -1,0 +1,42 @@
+/* Box Model Hack */
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+body{background-image: url('https://wallpapers.com/images/file/nasa-aesthetic-logo-starry-night-k5rvk6va2hg1bmkb.jpg')
+  
+}
+  
+  h2{color: rgb(255, 108, 108);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0% 14% 5% 21%;
+    text-shadow: 2px 2px 4px rgba(19, 15, 206, 0.769)
+  }
+
+  li{
+    display: flex;
+    border: 1px solid rgb(250, 248, 248);
+  }
+
+  section{
+    display: flex;
+    flex-direction: column;
+
+  }
+
+h1{
+  display: flex;
+    align-content: space-between;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    color: blue;
+    text-shadow: 3px 3px #ec0808;
+    text-shadow: 3px 5px white;
+    font-size: 67px;
+    font-family: math;
+}
