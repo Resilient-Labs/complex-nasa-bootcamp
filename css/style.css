@@ -19,3 +19,6 @@ section{
     border: 1px black solid;
     border-radius: 6px;
 }
+.weather_card:hover{
+    background-color: lightgray;
+}
