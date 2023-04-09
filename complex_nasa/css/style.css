@@ -1,0 +1,109 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+h1,
+select {
+  margin-left: 50px;
+}
+
+li {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+button,
+h2 {
+  margin-bottom: 20px;
+}
+
+select,
+button {
+  font-size: 1.5rem;
+}
+
+h2,
+ul,
+h3 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+/******************************************
+/* Media Queries
+/*******************************************/
+@media (max-width: 800px) {
+
+  li,
+  h3 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+
+/******************************************
+/* Styling
+/*******************************************/
+html {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4ypi0bJhe6y8RRd3YjVM9AAAnAjhJQ3ljg&usqp=CAU);
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+h1,
+h2 {
+  color: rgb(14, 73, 208);
+}
+
+li,
+span {
+  color: white;
+}
+
+h3 {
+  color: rgb(244, 59, 33);
+}
+
+select,
+button {
+  color: rgb(244, 59, 33);
+}
+
+span {
+  text-shadow: -1px -1px 0 rgb(244, 59, 33), 1px -1px 0 rgb(244, 59, 33), -1px 1px 0 rgb(244, 59, 33), 1px 1px 0 rgb(244, 59, 33);
+}
