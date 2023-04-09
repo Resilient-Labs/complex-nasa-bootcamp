@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+} 
+
+body {
+    background-image: url(images/nasa.png); 
+    background-size: cover; 
+	background-repeat: no-repeat; 
+    color: white; 
+    text-align: center;
+} 
