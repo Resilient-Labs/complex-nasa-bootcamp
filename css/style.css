@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+ul{
+    border: double thick black;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 15px;
+}
+li{
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+button{
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5em;
+}
