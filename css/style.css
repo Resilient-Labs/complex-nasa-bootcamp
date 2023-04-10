@@ -7,6 +7,34 @@
   box-sizing: border-box;
 }
 
+body{
+  background-image: url(../img/background.jpg);
+  color: white;
+}
+
+h1{
+  font-family: 'Press Start 2P', cursive;
+}
+
+ul{
+  background-color: rgba(255, 0, 0, 0.47);
+  font-size: 25px;
+  font-family: 'PT Mono', monospace;
+}
+
+button{
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 /******************************************
 /* LAYOUT
 /*******************************************/
