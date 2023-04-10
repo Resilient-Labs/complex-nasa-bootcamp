@@ -1,0 +1,40 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+body{
+  background-color: black;
+}
+h1, li{
+  color: white;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  float: right;
+  width: 40%;
+  margin: 10% 3%;
+}
+
+section{
+  float: left;
+  
+}
+
+.hidden{
+  display: none;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
