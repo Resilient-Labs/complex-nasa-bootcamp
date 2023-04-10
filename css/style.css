@@ -1,0 +1,38 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+body{
+  background-color: blue;
+  color: white;
+}
+button{
+  font-size: 2rem;
+  color: blue
+}
+ul{
+  margin: 4rem;
+}
+li{
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+.hidden{
+  display:none
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
