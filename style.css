@@ -1,0 +1,50 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: blue;
+  }
+  body {
+    background-image: url('https://media.giphy.com/media/26BGDQxDCZDFHW5Ne/giphy.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: black;
+    color: yellow;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  
+  ul {
+    list-style: none;
+    margin-top: 50px;
+    padding: 0;
+  }
+  
+  li {
+    background-color:blue;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  li:hover {
+    background-color: white;
+  }
+  
