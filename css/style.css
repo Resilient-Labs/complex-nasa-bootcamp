@@ -1,0 +1,43 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+html{
+  color:white;
+}
+header{
+  clear:both;
+}
+#container{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+
+  }
+li{
+  list-style-type:decimal;
+  border:1px solid black;
+  
+}
+body{
+  background:url('../img/outlawstar.gif');
+  background-size: contain;
+}
