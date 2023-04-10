@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    text-align: center;
+    background: url('../css/pic/soaceship.jpg');
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    color: rgb(254, 69, 26);
+    font-size: 3.2rem;
+    font-family: 'Gugi';
+    border-bottom: 3px solid royalblue;
+    text-shadow: 2px 2px 1px #fff;
+}
+
+li {
+    margin-bottom: 10px;
+    list-style: none;
+    font-size: 1.2rem;
+    color: white;
+    background: rgba(0, 0, 0, 0.524);
+}
+
+h2 {
+    color: red;
+    font-family: 'Audiowide';
+    font-size: 2rem;
+}
+
+h3 {
+    font-family: 'Audiowide';
+    font-size: 2rem;
+}
+
+select {
+    border-radius: 20px;
+    height: 40px;
+    width: 200px;
+    background: rgb(54, 52, 66);
+    color: rgb(249, 252, 135);
+    text-align: center;
+    border: 2px dotted gold;
+}
+
+button {
+    border-radius: 20px;
+    width: 200px;
+    border: 4px groove gold;
+    font-family: 'Audiowide';
+    background: rgb(189, 41, 22);
+    color: white;
+}
+
+span {
+    font-family: 'Gugi';
+}
