@@ -1,0 +1,35 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+body{
+  background-color: black;
+  color: white;
+  background-image: url();
+  align-items: center;
+  text-align: center;
+  background-image: url(https://d.newsweek.com/en/full/1850414/sts-1.jpg?w=790&f=f8a97c8e54c0cea8a5face25259d22c7);
+  background-size: cover;
+  font-size: 16px;
+}
+
+li{
+  list-style-type: none;
+}
