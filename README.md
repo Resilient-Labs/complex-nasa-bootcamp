@@ -16,7 +16,8 @@
 
 Example:
 ```
-I completed the challenge: 5
+I completed the challenge: 4
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+My code doesn't have temperatures for some of the repeated locations, I thought it was fine becuase it works after all, but I think I'll figure that out when I review and change my code.git 
+
