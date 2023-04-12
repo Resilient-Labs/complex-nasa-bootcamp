@@ -1,0 +1,42 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    background:url("astroThree.png") no-repeat fixed;
+    background-size:cover;
+    margin:0px;
+    padding:50px;
+}
+
+h1{
+    margin:0;
+    font-size:3rem;
+    color: rgb(155,86,80);
+}
+
+p{
+    font-size:1.5rem;
+}
+
+button{
+    padding:5px 30px 5px 30px;
+    background:transparent;
+    box-shadow:5px 5px 2px 1px rgba(84, 87, 90, .2);
+    font-size:1rem;
+    margin-left:10px;
+}
+
+button:active{
+    transform:translateY(4px);
+}
+
+.astro{
+    border-bottom:1px solid lightgray
+}
+
+ul{
+    font-size:1.5rem;
+    background-color: rgba(84, 87, 90, .1);
+    line-height: 2rem;
+}

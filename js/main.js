@@ -1,4 +1,3 @@
-
 let url = "https://data.nasa.gov/resource/gvk9-iz74.json"
 let ul = document.querySelector("ul")
 document.querySelector("button").addEventListener("click", getCity)
