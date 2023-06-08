@@ -7,9 +7,9 @@
 }
 :root{
   font-size: 62.5%;
-  background-image: url(/Users/valerygonzalez/Desktop/RC/Week-8/NasaLoc/complex-nasa-/img/Spaceman.svg);
-  background-size: 50% auto;
+  background-image: url(img/Spaceman.svg);
   background-repeat: no-repeat;
+  background-size: 50% auto;
   background-position-x: left;
 }
 .contains{
