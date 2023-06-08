@@ -7,7 +7,7 @@
 }
 :root{
   font-size: 62.5%;
-  background-image: url(img/Spaceman.svg);
+  background-image: url(/img/Spaceman.svg);
   background-repeat: no-repeat;
   background-size: 50% auto;
   background-position-x: left;
