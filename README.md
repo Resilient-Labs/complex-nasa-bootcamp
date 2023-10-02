@@ -1,22 +1,14 @@
 # 🚀 Project: Complex NASA API
+Utilizing both NASA's API and a Weather API, I would be able to display all of NASA's facilities including it's location and current weather!
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+Link to website - https://nasafacilitiesweather.netlify.app/
 
-### How to submit your code for review:
+## Tech Used:
+- Fetches from NASA's API
+- Fetches from Weather API
+- Javascript, HTML, CSS
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Things I'm proud of:
+- First time utilizing two different APIs!
+- Figuring out how to grab the necessary parameters from one API fetch and incorporate it into the other
+- Learning how to organize my code in a way that would avoid too many nested functions and allow for clarity between the two fetches
