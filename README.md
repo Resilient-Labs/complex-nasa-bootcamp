@@ -7,8 +7,6 @@ This project uses an API to find all the NASA centers in the US and return the c
 
 Checkout this project here: https://jacinthadev.github.io/complex-nasa/
 
-Checkout this project here: https://jacinthadev.github.io/complex-nasa/
-
 ## How It's Made:
 Tech used: HTML, CSS, JavaScript
 
