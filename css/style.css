@@ -14,6 +14,14 @@ h1 {
     color: #C95E67;
 }
 
+
+.fixed{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+
+}
+
 .text{
     font-family: 'Space Mono', Helvetica, sans-serif;
     font-size: 14px;
