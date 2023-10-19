@@ -1,22 +1,32 @@
-# 🚀 Project: Complex NASA API
+# ☀️🚀 Complex Nasa API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+<img width="1421" alt="complex-nasa " src="/img/nasa.png">
 
-### How to submit your code for review:
+# About this project
+This project uses an API to find all the NASA centers in the US and return the current temperature at that location.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Checkout this project here: https://jacinthadev.github.io/complex-nasa/
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+Tech used: HTML, CSS, JavaScript
+
+This code shows the 13 unique NASA centers and allows you to click on each one to see the temperature at that location. I also included (commented out) code to display all 485 facilities if a user wished to see all of them.
+
+
+## Lessons Learned:
+This was my first time using two APIs in the same project and having them communicate with each other. It was a learning process. I had to assure that I was storing information from one API in a way that the other could understand and return additional information. I also learned how to carefully looping through large sets of data to remove duplicates and return specific information.
+
+## Examples:
+Take a look at similar projects!
+
+Currency Converter: https://github.com/JacinthaDev/simple-api2
+
+Weather App: https://github.com/JacinthaDev/Weather-API
+
+Workout App: https://github.com/JacinthaDev/simple-api-1
+
+#### API Used:
+
+https://www.weatherbit.io/api/weather-current
+
+https://data.nasa.gov/Management-Operations/NASA-Facilities/scmi-np9r
