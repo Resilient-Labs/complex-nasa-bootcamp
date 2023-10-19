@@ -5,6 +5,8 @@
 # About this project
 This project uses an API to find all the NASA locations in the US and return the current temperature at that location.
 
+Checkout this project here: https://jacinthadev.github.io/complex-nasa/
+
 ## How It's Made:
 Tech used: HTML, CSS, JavaScript
 
