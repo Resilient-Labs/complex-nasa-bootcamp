@@ -1,0 +1,39 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url(imgs/satellite-img.avif);
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1 {
+    color: white;
+    background: black;
+    border-radius: .75rem;
+    width: 20%;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 10rem;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    line-height: 4rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    background: black;
+    color: white;
+    border-radius: 5px;
+    max-width: 70%;
+}
