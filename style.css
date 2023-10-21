@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Nasalization';
+    src: url('nasalization\ rg.ttf');
+}
+
+h1{
+    font-family: 'Nasalization';
+    font-size: 50px;
+}
+
+td {
+    border: 1px solid black;
+}
+#nasa,section{
+    width: 100%;
+}
+section{
+    text-align: center;
+    color: rgb(11, 61, 145);
+}
+
+/* NOT MY CODE got from textfixer.com */
+#nasa tr td:nth-child(odd) {
+    background: #c0d7f8;
+}
+
+#nasa tr td:nth-child(even) {
+    background: #edf0f4;
+}
