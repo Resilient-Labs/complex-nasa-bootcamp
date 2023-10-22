@@ -16,6 +16,9 @@ function getLocationInfo(){
             let lat = data[i].location.latitude
             let lon = data[i].location.longitude
             let facilityName = data[i].center
+            let specificFacility = data[i].facility
+            let state = data[i].state
+            let zipcode = data[i].zipcode
             // console.log(data[i].location.latitude)
             // (console.log(data[i].center))
             // console.log(data[i].location.longitude)
@@ -31,7 +34,7 @@ function getLocationInfo(){
             let fahrenheit = parseInt((data.main.temp - 273.15) * 1.8 + 32)
             let li = document.createElement('li')
                 document.querySelector('h2').appendChild(li)
-                li.innerText = `Facility: ${facilityName} Temp: ${fahrenheit}`
+                li.innerText = `Facility: ${facilityName}, ${specificFacility} (${state}, ${zipcode}). The current temperature is ${fahrenheit}°F`
         })
         .catch(err => {
             console.log(`error ${err}`)
