@@ -51,7 +51,7 @@ function nasaFacilitiesWeather() {
                 locationCol.innerHTML =`${facilities.city}, ${facilities.state} ${zip}`
 
                 //store the weather api url in a variable, use the zip variable to from the previous fetch data as a query parameter for the weather api
-                let urlB = `http://api.weatherapi.com/v1/current.json?key=0888e350fe4a4f9f908191011231810&q=${zip}`
+                let urlB = `https://api.weatherapi.com/v1/current.json?key=0888e350fe4a4f9f908191011231810&q=${zip}`
 
                 //nest the second fetch within the first fetch and within the loop 
                 fetch(urlB)
