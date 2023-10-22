@@ -10,25 +10,59 @@
 
   <!-- external CSS link -->
   <link rel="stylesheet" href="assets/css/main.css">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
 </head>
 
 <body>
 
-  <h1> Nasa Facilities Name and Weather</h1>
+  <h1 class="text-success"> Nasa Facilities Name and Current Weather 🧑‍🚀</h1>
   <!-- <label for="Get-Facility">Name of Facility: </label>
   <input id="facility" placeholder="Enter facility here" type="text" name="" value="">
   <label for="Get-Temp">Enter zip code for current temp at location: </label>
   <input id="zipCode" placeholder="Enter zip code here" type="number" name="" value=""> -->
 
-  <button type="button" name="button">Facilities Names and Weather </button>
+  <div class="d-grid gap-2 col-3 mx-auto">
+    <button type="button" class="btn btn-success"> Get☀️Facility🌧️Weather🌈</button>
+  </div>
+
+ 
+  
 
   <!-- Will Print Name of country or city -->
-  <h2>Facility Location and weather 🧑‍🚀:</h2>
+  <!-- <h2>Facility Location and weather 🧑‍🚀:</h2> -->
+
+  <div class="table-wrapper">
+    <table class="table table-hover table-dark" id="hidden">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Facility Name</th>
+          <th scope="col">Current Weather</th>
+          <th scope="col">Facility Zip Code</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+          </tr> -->
+      </tbody>
+    </table>
+  </div>
+
 
   <!-- Will Print Temperature for Weather at Location -->
   <ul id="list"></ul>
 
   <script type="text/javascript" src="assets/js/main.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
 </body>
 
