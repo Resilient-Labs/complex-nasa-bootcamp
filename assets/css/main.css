@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+}
+body {
+background: url(https://media1.giphy.com/media/woqvaIWdwdPBECsTQu/giphy.gif?cid=6c09b952val4l6q5lp5yngt9e4ljf7tdprb91qiki98281if&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+width: 100%;
+background-size: 100%;
+margin: 0 auto;
+background-repeat: no-repeat;
+height: 100%;
+color: greenyellow;
+text-align: center;
+}
+
+h1{
+  text-decoration: underline white;
+}
+
+h2{
+  padding-top: 4rem;
+  text-align: left;
+  text-decoration: underline white;
+}
+
+h3{
+  padding-top: 4rem;
+  text-align: left;
+  text-decoration: underline white;
+}
