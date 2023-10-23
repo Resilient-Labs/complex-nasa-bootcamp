@@ -1,0 +1,13 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+body {
+  background-image: url('img/space.jpeg'); 
+  color: white;
+  text-align: center;
+}
