@@ -7,6 +7,8 @@ This app fetches and displays information about all NASA facilities, including t
 
 Check out the app <a href="https://xsarahyu.github.io/nasa-weather-app/">here</a>!
 
+<img src="nasa-weather-app.png">
+
 ### Tech Used
 - HTML
 - CSS
