@@ -5,7 +5,7 @@ document
 
 function getNasaFacilities() {
   const facilityUrl = "https://data.nasa.gov/resource/gvk9-iz74.json";
-  const weatherAPIKey = "9ee140de1f9f43735062a4c0d89dfe0c"; // api key
+  const weatherAPIKey = "wLjss3UG9XwYx2NxmjRvwNyXnJeiZCQW6snOFyKR"; // api key
   document.querySelector("#results").innerHTML = "";
   const table = document
     .querySelector("#results")
