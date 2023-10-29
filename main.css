@@ -1,0 +1,31 @@
+img{
+    /* width: 30%; */
+    /* height: auto; */
+    margin-left: 40%;
+    margin-bottom: 2%;
+}
+
+body{
+   background-color: lightgray;
+}
+
+h1,h3{
+    text-align: center;
+}
+input{
+    margin-left: 40%;
+    font-size: 20px;
+}
+button{
+    margin-left: 47%;
+    font-size: 20px;
+    
+}
+ul,li{
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+}
+li{
+    margin-bottom: 1%;
+}
