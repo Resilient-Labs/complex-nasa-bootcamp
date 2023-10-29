@@ -1,22 +1,17 @@
-# 🚀 Project: Complex NASA API
+# 🚀 Mixed NASA and Weather API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+Used NASA's API to return all (~400) of their facility locations. The name of the facility, its location, and the weather at the facility are displayed when the button is clicked.
 
-### How to submit your code for review:
+Link to project: https://menahassan-nasa-weather-api.netlify.app/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+# How It's Made
+Tech used: HTML, CSS, JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+# Lessons Learned:
+Working on this project allowed me to practice using the fetch method to grab data from an API. 
+
+Once you find a functional API, the rest of the work is fairly straightforward. You just need to map out the path to each data point you're looking to grab. This process looks slightly different for each API you're using since not all data is organized the same way but there's enough of an overlap so that you can generally get a sense of the pattern you need to follow.
+
+I learned about destructuring assignment which is a syntax that allows you to unpack values from arrays or properties from objects into distinct variables. In simpler terms, it's a shorthand method.
+
+<img src="nasa-weather-project-screenshot.JPG">
