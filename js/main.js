@@ -27,7 +27,7 @@ function getFacilities() {
 }
 
 function getWeather(zipcode, weatherCol) {
-    fetch(`http://api.weatherapi.com/v1/current.json?key=27060f3658d846fb800103918231910&q=${zipcode}`)
+    fetch(`https://api.weatherapi.com/v1/current.json?key=27060f3658d846fb800103918231910&q=${zipcode}`)
     .then(res => res.json())
     .then(data => {
         // console.log(data)

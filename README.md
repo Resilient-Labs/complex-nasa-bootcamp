@@ -1,22 +1,17 @@
-# 🚀 Project: Complex NASA API
+# NASA Facilities & Weather App
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+### Description
+This app fetches and displays information about all NASA facilities, including the center, facility name, location (city, state, zipcode) and current weather conditions.
+- NASA facilities data is obtained from <a href="https://api.nasa.gov/">NASA APIs</a>.
+- Weather data is obtained from <a href="https://www.weatherapi.com/">WeatherAPI</a>.
 
-### How to submit your code for review:
+Check out the app <a href="https://xsarahyu.github.io/nasa-weather-app/">here</a>!
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+### Tech Used
+- HTML
+- CSS
+- JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Lessons Learned
+- How to display and append data using tables in HTML.
+- Using HTTPS for API requests helps ensure security, compliance with Same-Origin Policy, and integrity of the data being transmitted between the web page and external server.
