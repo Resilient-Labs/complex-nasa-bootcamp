@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    font-family: Exo;
+  }
+  
+html{
+  font-size: 62.5%;
+}
+
+body{background-image: url("https://i.postimg.cc/Kv1Yqdrw/Outerspace-1.png");
+  background-repeat: repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+h1{
+    font-size: 2.5rem;
+    padding: 0px 200px 0px 200px;
+}
+
+h2{
+    color:red;
+    font-size: 2rem;
+    margin-bottom: 0;
+
+}
+
+h3{
+  font-size: 1.8rem;
+  color:rgb(106, 170, 226);
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+li{
+    font-size: 1.7rem;
+    list-style: none;
+}
+
+.displayAreaFacility{
+    width: 65%;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+button{
+  padding: 10px;
+  width: 10%;
+  font-size: 1.8rem;
+  background-color: transparent;
+  border: 1px solid white;
+  color:white;
+}
