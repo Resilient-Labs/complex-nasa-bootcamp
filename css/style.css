@@ -1,0 +1,56 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+/* Apply border to the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #333;
+  background-color: #121212; 
+  color: #ffffff; 
+}
+
+/* Style table header cells */
+th {
+  border: 2px solid #333;
+  padding: 10px;
+  background-color: #1a1a1a; 
+}
+
+/* Style table body cells */
+td {
+  border: 2px solid #333;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Add hover effect on table rows */
+/* Lighter background color on hover */
+tr:hover {
+  background-color: #2c2c2c; 
+}
+
+body {
+  background-color: #080808; 
+}
+
+.container {
+  margin: 20px;
+}
+
+h1 {
+  color: #00baff;
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
