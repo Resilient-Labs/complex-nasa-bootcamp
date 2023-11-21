@@ -1,22 +1,37 @@
-# 🚀 Project: Complex NASA API
+# NASA Facilities & Weather Viewer 🚀🌦️
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+![Screenshot](project.png)
 
-### How to submit your code for review:
+## Project Description
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+The NASA Facilities & Weather Viewer aims to provide users with information about NASA's facilities, including the facility name, type, location, and current weather conditions. By utilizing NASA's API and the OpenWeatherMap API, the project dynamically generates a table displaying these details for over 400 NASA facilities.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made 🛠️
+
+- **Technologies Used:** HTML, CSS, Vanilla JavaScript, Fetch API
+- **Project Organization:**
+  - Organized project into folders: css (for styles), js (for JavaScript files), and the root folder containing README and index.html.
+- **Dynamically Adding Table Rows:**
+  - Leveraged Vanilla JavaScript to dynamically add table headers and rows based on the length of the JSON object retrieved from the NASA API.
+
+## Lessons Learned 🧠
+
+- **Fetch API and Dynamic Table Generation:**
+  - Acquired skills in using the Fetch API to retrieve data dynamically.
+  - Gained insights into dynamically generating table headers and rows based on the fetched JSON object.
+- **Distinct Facility Values:**
+  - Explored methods for identifying and handling distinct facility values.
+  - Created an array to store data and eliminate duplicates.
+- **Weather Data Integration:**
+  - Overcame challenges in integrating weather data from the OpenWeatherMap API.
+  - Calculated and displayed the current temperature in Fahrenheit after converting from Kelvin.
+
+## Getting Started 🚀
+
+To explore NASA's facilities and their current weather, follow these steps:
+
+1. Clone the repository.
+2. Open the `index.html` file in your preferred web browser.
+3. Click the "Get NASA Facilities" button to populate the table with facility information and weather data.
+
+Feel free to contribute, report issues, or provide feedback to enhance the NASA Facilities & Weather Viewer.

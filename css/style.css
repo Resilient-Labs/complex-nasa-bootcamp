@@ -1,0 +1,102 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+html {
+  font: 62.5% 'Gabarito', Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #212121;
+  color: white;
+  margin: 5%;
+  padding: 5%;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#title {
+  text-align: center;
+  font-size: 4rem;
+}
+
+#title h2 {
+  font-size: 3rem;
+  margin-top: 1%;
+}
+
+#results table {
+  border: 0.1rem solid white;
+  font-size: 1.8rem;
+  text-align: center;
+  margin: 1%;
+}
+
+#results table tr {
+  border-bottom: 0.1rem solid white;
+}
+
+#results table tr td, #results table tr th{
+  padding: 1rem;
+  border-left: 0.1rem solid white;
+  border-right: 0.1rem solid white;
+  vertical-align: middle;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+.bn632-hover {
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px;
+  height: 55px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 50px;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bn632-hover:focus {
+  outline: none;
+}
+
+.bn632-hover.bn22 {
+  background-image: linear-gradient(
+    to right,
+    #0ba360,
+    #3cba92,
+    #30dd8a,
+    #2bb673
+  );
+  box-shadow: 0 4px 15px 0 rgba(23, 168, 108, 0.75);
+}
