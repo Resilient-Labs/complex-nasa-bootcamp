@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url('../IMAGES/pexels-photo-816608.jpeg');
+    background-size: stretch;
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+}
+
+button {
+    padding: 1rem;
+    border-radius: 100%;
+    color: blue;
+}
+
+li {
+    padding: 1rem;
+    font-size: 1.6rem;
+}
