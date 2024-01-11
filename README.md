@@ -5,7 +5,7 @@ This app fetches and displays information about all NASA facilities, including t
 - NASA facilities data is obtained from <a href="https://api.nasa.gov/">NASA APIs</a>.
 - Weather data is obtained from <a href="https://www.weatherapi.com/">WeatherAPI</a>.
 
-Check out the app <a href="https://xsarahyu.github.io/nasa-weather-app/">here</a>!
+Check out the app <a href="https://xsarahyu.github.io/NASA-facilities-weather-app/">here</a>!
 
 <img src="nasa-weather-app.png">
 
