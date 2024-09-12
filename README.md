@@ -1,22 +1,17 @@
-# 🚀 Project: Complex NASA API
+# Complex Nasa App 
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+<b>project link coming soon</b>
 
-### How to submit your code for review:
+<img src='complexNasa.png'>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+### How It’s Made
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<b>Langs used</b> Javascript, HTML CSS. 
+Purpose of this app was to list all of Nasa's 400 centers and to fetch the current temperature of that facility using another weather API. So, this one was not really that difficult. In all honestly, it was easier to make than some of my own complex APIs, which is heavily saying something. I realized that the easiest soution for the projecy would be to find the 
+
+### optimizations
+Honestly, I need to go back and do some minor CSS with this. What I really wanted to do was implement a solar system gif in the background and have every the background for each nasa center to change color while it's being hovered, however, you need to get the projects done and adding bells and whistles isn't always going to be the necessary thing. 
+
+### Lessons Learned
+
+I learned how to prioritize. I got this project done so quickly, that I mistook the quickness of completion as an invitation to spend time designing... which ended up taking a total of 2 hours and none of what I wanted to do got implemented. This time would've been used better working on my other complex APIS. 
