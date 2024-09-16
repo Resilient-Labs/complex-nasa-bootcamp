@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../image/weather.png);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
