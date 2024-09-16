@@ -1,22 +1,25 @@
-# 🚀 Project: Complex NASA API
+# 🎰 Week08 Bootcamp2021 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
 
-### How to submit your code for review:
+This is my Complex NASA API project that allows users to fetch the name, location, and current weather of all of NASA's 400 facilities.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<img src="nasa.png"></img>
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Link to live site: [https://danielmtran-complexnasaapi.netlify.app]
+
+### How It's Made:
+
+Tech used: HTML, CSS, JAVASCRIPT
+
+I made the basic styling and layout of the app via HTML and CSS. The main functionality of the app was made using Javascript.
+
+
+### Optimizations:
+
+
+
+
+### Lessons Learned:
+
+This project forced me to combined methodologies that I learned in both my  previous Simple Weather + NASA API projects.
