@@ -1,22 +1,17 @@
 # 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+### This project displays the name, city, state, and weather of all 400 Nasa Locations.
 
-### How to submit your code for review:
+### Link to project: https://confident-bassi-965aed.netlify.app/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<img width="1436" alt="Screen Shot 2021-10-01 at 9 47 02 PM" src="https://user-images.githubusercontent.com/88958905/135700328-15ea7dfa-357d-421a-b524-c6c2cd3865f9.png">
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### How It's Made: 
+
+Tech used: HTML, CSS, JavaScript
+
+This project  I searched for two api's that could be interlated. I then took data from the first API and created varibles to run within the second API.
+
+### Lessons Learned:
+
+This project taught me how to properly nest a fetch. I also learned that you can reference multiple varibles within the fetch.
