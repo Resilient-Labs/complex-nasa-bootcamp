@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="This is where your description goes">
+	<meta name="keywords" content="one, two, three">
+
+	<title>Complex Nasa Api</title>
+
+	<!-- external CSS link -->
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+
+
+
+	<h1>Figure out the weather at NASA facilities!</h1>
+	<h3>
+		Choose how many facilities to see at once!
+	</h3>
+	<select id="numberToDisplay">
+		<option>1</option>
+		<option>5</option>
+		<option>10</option>
+		<option>25</option>
+		<option>50</option>
+		<option>100</option>
+		<option>200</option>
+		<option>1000</option>
+		<!-- maybe make the last one say All later if possible -->
+	</select>
+	<br>
+
+
+	<button type="button" name="button">Get Facility info!</button>
+
+	<!-- need to display name, location and weather at facility -->
+	<ul id="display">
+		<li>
+			<span id="name">Name:</span>
+			<br>
+			<span id="location">Location:</span>
+			<br>
+			<span id="weather">Weather:</span>
+		</li>
+	</ul>
+
+
+
+
+
+
+
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>
