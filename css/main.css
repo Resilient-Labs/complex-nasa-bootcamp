@@ -1,0 +1,38 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body, table {
+    text-align: center;
+}
+
+button {
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+}
+
+table {
+    border: 2px solid rgb(242, 242, 242);
+    margin: 0 auto;
+    width: 80%;
+}
+
+    .bold {
+        font-weight: bold;
+    }
+
+    td {
+        padding: 10px;
+    }
+
+    #facility {
+        width: 35%;
+    }
+
+    tr:nth-child(even) {
+        background-color: rgb(242, 242, 242);
+    }
+
+    td:hover {
+        background-color: rgb(226, 239, 255);
+    }
