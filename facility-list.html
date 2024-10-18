@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA Facility List</title>
+</head>
+<body>
+    <h1>NASA Facility List</h1>
+    <a href="index.html">Go Back</a>
+    <p></p>
+    <a href="index.html">Go Back</a>
+    <script>
+        fetch('https://data.nasa.gov/resource/gvk9-iz74.json')
+        .then(res => res.json())
+        .then(data => {
+            console.log(data)
+            for (let i = 0; i < data.length; i++) {
+                console.log(data[i].facility);
+                let facilityName = data[i].facility;
+                let element = document.createElement('p');
+                element.innerHTML = facilityName;
+                document.querySelector('p').appendChild(element);
+                }
+            }
+        )
+        .catch(error => {
+            console.log(`error ${error}`)
+        })
+    </script>
+</body>
+</html>

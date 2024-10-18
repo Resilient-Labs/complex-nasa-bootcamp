@@ -6,7 +6,7 @@
 
 - Fork and clone this repo
 - Create a new branch called answer
-- Checkout answer branch
+- Checkout answer branch 
 - Push to your fork
 - Issue a pull request
 - Your pull request description should contain the following:
