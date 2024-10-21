@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-image: url("https://clipart-library.com/images/8TxraXeyc.png");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.search-container {
+    text-align: center;
+}
+
