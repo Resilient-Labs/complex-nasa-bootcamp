@@ -1,0 +1,21 @@
+body{
+    background: rgb(183, 109, 18);
+    color: white;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+li{
+    display: inline-block; 
+    border: 3px solid black;
+    list-style: none;
+    margin: 20px; 
+    padding: 15px; 
+    vertical-align: top;
+    border-radius: 10px;
+    width: 40%;
+    font-size: 25px;
+    color: white;
+    box-shadow: 5px 5px 15px hsla(0, 0%, 0%, 0.766) ;
+}
