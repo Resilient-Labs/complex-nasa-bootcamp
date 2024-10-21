@@ -1,22 +1,34 @@
-# 🚀 Project: Complex NASA API
+# 🚀 NASA Facility Locator Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+## Overview
+The NASA Facility Locator is a web application that allows users to search for NASA facilities by entering a center name, city, or state abbreviation. The app retrieves data from the NASA API and displays relevant facility details, including the center name, facility name, city, state, country, and zip code. It also provides the current temperature at the facility's location using a weather API.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Features
+- Search for NASA facilities by center name, city, or state abbreviation.
+- Display detailed information about each facility.
+- Retrieve and show the current temperature based on the facility's latitude and longitude.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- NASA API
+- Open Meteo API
+
+### Installation
+1. Clone the repository:
+   bash
+2. Navigate to the project directory
+3. cd 2024-complex-nasa
+4. Open index.html in your preferred web browser.
+
+Usage
+1. Enter a NASA center name, city, or state abbreviation in the search box.
+2. Click the "VIEW LIST!" button to see the corresponding facilities.
+3. The application will display facility details along with the current temperature.
+
+### Acknowledgments
+* NASA Open Data Portal for providing the facility data.
+* Open Meteo API for weather data.
+* NASA for the background image used in the project
