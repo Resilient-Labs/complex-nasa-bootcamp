@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+  	<meta charset="utf-8">
+  	<meta name="description" content="Your description goes here">
+  	<meta name="keywords" content="one, two, three">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Complex NASA APIP</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+
+		<h1>List of NASAs 400+ facilities nationwide is on your side lol ;p</h1>
+
+		<h2>Want to know more about the weather at these facilities? Copy and paste the longitude and latitude to display it</h2>
+		<!--
+		Farenheit Temperature
+        Clouds
+        Visibility
+        Dew Point
+        UV
+        Wind direction
+        Precipitation
+		-->
+
+		<input type="text" id="longitudeInput" placeholder="Enter longitude">
+		<input type="text" id="latitudeInput" placeholder="Enter latitude">
+
+		<h2>Temperature</h2><p id="temp"></p>
+		<h2>Clouds</h2><p id="clouds"></p>
+		<h2>Visbility</h2><p id="visibility"></p>
+		<h2>Dew Point</h2><p id="dewPoint"></p>
+		<h2>UV</h2><p id="uv"></p>
+		<h2>Wind Direction</h2><p id="windDir"></p>
+		<h2>Precipitation</h2><p id="precip"></p>
+		<button id="generateReport">Generate weather report</button>
+
+		<div></div>
+		
+
+		<button id="loadFacilities">Test Button (Will remove later)</button>
+		<!--Name of the facility, its location, and the weather at the facility currently-->
+		<!-- <div>
+			<h3>Facility Name: </h3><p id="facility-name"></p>
+			<h2>Location: </h2><p id="location"></p>
+			<h4>Weather: </h4><p id="weather"></p>
+		</div> -->
+
+
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>
