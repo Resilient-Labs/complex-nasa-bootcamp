@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(177, 172, 172);
+}
+
+.facility-container {
+  border: 1px solid black;
+}
