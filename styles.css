@@ -1,0 +1,99 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a2e;
+    color: #eaeaea;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+/* Header styling */
+h1 {
+    margin-bottom: 20px;
+    color: #ffd700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+/* Button styling */
+button {
+    background-color: #0066ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: #004bb5;
+    transform: scale(1.05);
+}
+
+/* Table container styling */
+div {
+    width: 90%;
+    max-width: 800px;
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #2d2d44;
+    color: #fff;
+    border: 1px solid #444;
+    text-align: left;
+    margin: auto;
+}
+
+table th, table td {
+    padding: 12px;
+    border: 1px solid #444;
+}
+
+table th {
+    background-color: #004bb5;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+table td {
+    background-color: #1f1f30;
+}
+
+table tr:nth-child(even) td {
+    background-color: #272744;
+}
+
+table tr:hover td {
+    background-color: #333366;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    table th, table td {
+        font-size: 12px;
+        padding: 8px;
+    }
+
+    button {
+        font-size: 16px;
+        padding: 8px 16px;
+    }
+}
