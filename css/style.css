@@ -1,0 +1,141 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+/* img{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+} */
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+body {
+  background: #0032A0;
+}
+
+nav {
+  background: #fff;
+  height: 120px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+nav > span {
+  width: 140px;
+  font-family: 'Inter', Arial;
+  font-size: 2em;
+  word-wrap: break-word;
+  margin: 20px 100px 0 20px;
+}
+
+.nasaLogo {
+  margin-top: 7px;
+  width: 133px;
+  height: 107px;
+  border-right: 1px solid black;
+}
+
+main {
+  margin: -30px;
+  padding: 45px 30px;
+  width: 100%;
+  background-image: url('../img/stars.png');
+  background-repeat: repeat;
+  background-size:auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  gap: 5px;
+}
+
+.facilityContainer {
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+  width: 300px;
+  height: 350px;
+  overflow: hidden;
+
+  color: white;
+  font-family: 'Public Sans', Arial;
+  
+}
+
+.tempTop {
+  padding-top: 25px;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.tempValue {
+  font-size: 3em;
+}
+
+.tempText {
+  width: 100%;
+  text-align: center;
+  
+  margin: 0 auto;
+  display: block;
+}
+
+.facilityInfo {
+  padding-top: 25px;
+}
+
+.facilityCenter {
+  font-family: 'Inter', Arial;
+  font-size: 1.5em;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.facilityName {
+  font-family: 'DM Mono', Arial;
+  font-size: .7em;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.locationInfo, .facilityFoundingInfo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  padding-left: 25px;
+  margin-top: 15px;
+}
+
+.locationCity, .locationState, .facilityFoundingSince {
+  display: block;
+  margin-left: 10px;
+}
+
+
+
+
