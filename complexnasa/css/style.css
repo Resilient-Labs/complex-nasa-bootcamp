@@ -1,0 +1,23 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/*li {
+ margin-right: 5rem;
+}*/
+/*Note to self: still not sure, how to fix spacing, the app is functional, will work on styling later
