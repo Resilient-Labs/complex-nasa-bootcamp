@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+
+    --h-1: 267;
+    --s-1: 100%;
+    --l-1: 45%;
+
+    --color-1: hsl(var(--h-1), var(--s-1), var(--l-1));
+    --color-1-bg: hsl(from var(--color-1) h s 95%);
+    --color-1-text: hsl(from var(--color-1) h s 30%);
+
+
+    --h-2: 348;
+    --s-2: 92%;
+    --l-2: 53%;
+
+    --color-2: hsl(var(--h-2), var(--s-2), var(--l-2));
+    --color-2-bg: hsl(from var(--color-2) h s 95%);
+    --color-2-text: hsl(from var(--color-2) h s 30%);
+
+    --active-color: var(--color-1);
+    --active-color-bg: hsl(from var(--active-color) h s 95%);
+    --active-color-text: hsl(from var(--active-color) h s 30%);
+
+    --adj-sibling-margin: 20px;
+}
+
+*:focus-visible {
+    outline: 1px solid var(--active-color);
+}
+
+html {
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin: 0;
+    font-size: 1.6rem;
+    background: var(--active-color-bg);
+    color: var(--active-color);
+}
+
+a {
+    --active-color: var(--color-2);
+    color: var(--active-color);
+    text-decoration: none;
+}
+
+h1 {    
+}
+
+.text-flow *+* {
+    margin-top: 10px;
+    line-height: 1.1;
+}
+
+/* inputs */
+
+input,
+textarea {
+    border: 2px solid var(--active-color);
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: hsl(from var(--active-color) h s 97%);
+    color: var(--active-color);
+    font-family: inherit;
+}
+input::placeholder,
+textarea::placeholder {
+    color: inherit;
+}
+
+/* buttons */
+
+button {
+    border: 2px solid var(--active-color);
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: var(--active-color-bg);
+    color: var(--active-color);
+    cursor: pointer;
+}
+
+/* shadow-box */
+/* shadow-box is a wrapper that should contain a single element */
+
+.shadow-box {
+    --shadow-offset: 2px;
+    position: relative;
+    display: block;
+    /* min-width: fit-content; */
+}
+.shadow-box > *:first-child {
+    background: var(--active-color-bg);
+}
+.shadow-box > *:first-child,
+.shadow-box::after
+{
+    border: 2px solid var(--active-color);
+    border-radius: inherit;
+    transition: transform .2s, background-color .2s;
+}
+.shadow-box > *:first-child {
+    position: relative;
+    z-index: 1;
+}
+.shadow-box::after
+ {
+    content:"";
+    position: absolute;
+    inset: 0;
+    display: block;
+}
+
+.shadow-box > *:first-child,
+.shadow-box.hoverable:hover > *:first-child,
+.shadow-box.clickable > *:first-child
+{
+    transform: translate(calc(-1 * var(--shadow-offset)), calc(-1 * var(--shadow-offset)));
+}
+
+.shadow-box::after,
+.shadow-box.hoverable:hover::after,
+.shadow-box.clickable::after {
+    transform: translate(var(--shadow-offset), var(--shadow-offset));
+}
+
+.shadow-box.hoverable > *:first-child,
+.shadow-box.clickable:active > *:first-child
+{
+    transform: translate(0,0);
+}
+
+.shadow-box.hoverable::after,
+.shadow-box.clickable:active::after
+{
+    transform: translate(0,0);
+    background-color: var(--active-color);
+}
+
+.solid-shadow::after {
+    background: var(--active-color);
+}
+
+.line-shadow::after {
+    opacity: 0.8;
+    background-size: 10px 10px;
+    background-image: repeating-linear-gradient(45deg, var(--active-color) 0, var(--active-color) 1px, transparent 0, transparent 50%);
+}
+
+.dot-shadow::after {
+    opacity: 0.8;
+    background-image: radial-gradient(var(--active-color) 2px, var(--active-color-bg) 2px);
+    background-size: 10px 10px;
+}
+
+/* fade-in */
+.loadable {
+    opacity: 0;
+    transition: opacity 1s;
+}
+.loaded {
+    opacity: 1;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+    margin: 5px 0;
+    width: 10px;
+    border-radius: 10px;
+  
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: hsl(from var(--active-color) h s l / 80%);
+    border-radius: 8px;
+    border: 3.5px solid transparent;
+    background-clip: content-box;
+    transition: border .4s, background-color .4s;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: var(--active-color);
+    border: 3px solid transparent;
+    opacity: 1;
+  }
+
+/* misc */
+
+.inverted {
+    background: var(--active-color);
+    color: var(--active-color-bg);
+}
