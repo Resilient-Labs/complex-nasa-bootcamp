@@ -1,0 +1,153 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 20px;
+  background-image: url('../img/space.png');
+  color: white;
+}
+
+.intro {
+  color: white;
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+.locations {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.location h3 {
+  font-size: 0.8em;
+}
+
+div.location {
+  background-color: gray;
+  width: 15%;
+  margin-bottom: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  box-shadow: 1px 1px 2px 2px rgba(255, 255, 255, 0.8);
+}
+
+.location {
+  animation: fadeIn 0.5s ease;
+}
+
+.location:hover {
+  transform: scale(1.03);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.popover {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url('../img/end.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #2c2c2c;
+  border: 1px solid #444;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  max-width: 600px;
+  z-index: 1000;
+  display: none;
+  box-shadow: 1px 1px 2px 2px rgba(255, 255, 255, 0.8);
+}
+
+.popover h3 {
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.popover .close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #ff1e00;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.popover .close-btn:hover {
+  background-color: #d11700;
+}
+.pop {
+  text-align: center;
+}
+
+.space1 {
+  background-image: url('../img/space1.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.space2 {
+  background-image: url('../img/space2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.space3 {
+  background-image: url('../img/space3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.space4 {
+  background-image: url('../img/space4.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.space5 {
+  background-image: url('../img/space5.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.space6 {
+  background-image: url('../img/space6.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.weatherText {
+  margin-top: 0px;
+}
