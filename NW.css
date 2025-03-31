@@ -1,0 +1,95 @@
+/* Default Light Mode (NASA Theme: Red, White, Blue) */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* White background */
+    color: #0033a0; /* NASA Blue text */
+    text-align: center;
+    padding: 20px;
+    transition: background 0.3s, color 0.3s; /* Smooth transition when switching themes */
+}
+
+header {
+    background-color: #0033a0; /* NASA Blue */
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button for toggling dark mode */
+#toggle-dark-mode {
+    background-color: #d91c1f; /* NASA Red */
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Card-style container for each facility */
+.facility {
+    background: #ffffff; /* White background */
+    border: 2px solid #0033a0; /* NASA Blue border */
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    width: 250px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.facility h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.facility p {
+    font-size: 14px;
+    color: #555;
+}
+
+/* Dark Mode (Navy, Black, Gold) */
+.dark-mode {
+    background-color: #0b0c10; /* Almost black */
+    color: #f5c518; /* Gold text */
+}
+
+.dark-mode header {
+    background-color: #1f2833; /* Dark navy header */
+}
+
+/* Dark mode facility card */
+.dark-mode .facility {
+    background: #214e86; /* Dark navy */
+    border: 2px solid #f5c518; /* Gold border */
+    color: white;
+}
+
+/* Dark mode button styling */
+.dark-mode #toggle-dark-mode {
+    background-color: #f5c518; /* Gold */
+    color: black;
+}
+#fetch-nasa-data, #toggle-dark-mode {
+    background-color: #0033a0; /* NASA Blue */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 10px auto;
+    display: block;
+}
+
+#toggle-dark-mode {
+    background-color: #d91c1f; /* NASA Red */
+}
