@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    color: white;
+    font-weight: bolder;
+    font-family: "Orbitron", Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-decoration: underline;
+}
