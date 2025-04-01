@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    display: flex; 
+    flex-direction: column;
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    background-color:rgb(11, 68, 112);
+    color: white;
+}
+
+.logo{
+    width: 5%;
+    height: auto;
+    padding: 10px;
+}
+
+h1{
+    font-size: 2rem;
+    padding: 10px;
+    text-shadow: 5px 5px 5px rgb(11, 68, 112);
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
+
+div{
+    display: flex; 
+    justify-content: right;
+    align-items: center;
+}
+
+input{
+    width: 50%;
+    height: 30px;
+    font-size: 1rem;
+    text-align: center; 
+    margin: 5px;
+    border-radius: 10px;
+}
+
+button{
+    padding: 5px;
+    border-radius: 10px;
+    background-color:white;
+    color: rgb(11, 68, 112);
+    margin: 5px;
+    width: 75px;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
