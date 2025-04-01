@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+.largecontainer {
+    display: flex;
+}
+
+.list1,
+.list2,
+.list3 {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
