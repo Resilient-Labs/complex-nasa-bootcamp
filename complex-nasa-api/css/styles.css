@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: #000;
+  }
+  
+  h1, h2, h3, h4 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffcc00; 
+  }
+  
+  header {
+    background-color: #1a1a2e; 
+    color: white;
+    padding: 10px 20px;
+    border-bottom: 2px solid #ccc; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5); 
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav .logo {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav li {
+    margin: 0 15px;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+    transition: color 0.3s ease;
+  }
+  
+  nav li:hover {
+    color: #ffcc00; 
+  }
+  
+  main {
+    text-align: center;
+    padding: 40px 20px;
+    background-image: url('starry-background.png'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  main h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #ffcc00; 
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+  }
+  
+  main h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #ccc;
+  }
+  
+  input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ffcc00; 
+    border-radius: 5px;
+    background-color: #000;
+    color: white;
+  }
+  
+  button {
+    background-color: #1a1a2e;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #ffcc00; 
+    color: #000;
+  }
+  
+  img {
+    max-width: 75%;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7); 
+  }
+  
+  iframe {
+    width: 80%;
+    height: 100px;
+    margin: 20px auto;
+    border-radius: 10px;
+  }
