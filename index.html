@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA Facilities Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Orbitron:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbar-title">
+            <img src="https://img.icons8.com/color/48/nasa.png" alt="NASA Logo">
+            <span>NASA Facilities Map</span>
+        </div>
+        <a href="https://github.com/immonroe" class="github-link" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub">
+        </a>
+    </div>
+    
+    <div id="controls">
+        <input type="text" id="search" placeholder="Search NASA facilities...">
+        <button id="show-all">Show All Facilities</button>
+        <div id="results"></div>
+    </div>
+    
+    <div id="map"></div>
+    
+    <div id="loading" class="loading">Loading NASA facilities...</div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
