@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #0a0a0a;
+    color: #ffffff;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    color: #28ae81;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    text-shadow: 0 0 10px rgba(0, 191, 255, 0.5);
+}
+
+#facilities-list {
+    list-style: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#facilities-list li {
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    border: 1px solid #00bfff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 191, 255, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#facilities-list li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 191, 255, 0.3);
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 1.5em;
+    margin: 0 0 10px 0;
+    text-align: center;
+    border-bottom: 2px solid #00bfff;
+    padding-bottom: 5px;
+}
+
+
+p {
+    margin: 10px 0;
+    font-size: 1em;
+}
+
+
+p:first-of-type {
+    font-weight: bold;
+    color: #00ff7f;
+}
+
+
+p:last-of-type {
+    color: #ffd700;
+    font-style: italic;
+}
+
+
+
+/* responsive design! */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    
+    h1 {
+        font-size: 2em;
+    }
+    
+    #facilities-list li {
+        padding: 15px;
+    }
+}
