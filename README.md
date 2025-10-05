@@ -1,22 +1,15 @@
-# 🚀 Project: Complex NASA API
+## Description
+This is a list of all NASA's facilities, their locations, and the temperature in the area. 
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+[Try the Live project!](https://l-meryem.github.io/nasa-locations/)
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<a href="https://l-meryem.github.io/nasa-locations/" target="_blank" ><img width="1212" alt="list of NASA facilities" src="https://github.com/user-attachments/assets/c5018ec9-0260-4185-9029-efa0dc101e2d" />
+</a>
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+### Tech used 
+
+ - `HTML`
+ - `CSS`
+ - `JavaScript`

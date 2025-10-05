@@ -1,0 +1,102 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+main {
+  width: 80%;
+  margin: 20px auto;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+h1{
+  font-size: 2rem;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.card {
+  min-height: 10rem;
+  border: 2px solid black;
+  box-shadow: 5px 5px black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper {
+  flex: 3;
+  padding: 20px;
+}
+
+.weather {
+  flex: 2;
+  font-size: 2.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-weight: bold;
+  border-left: 2px solid black;
+  padding: 0 10px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+@media screen and (max-width: 940px) {
+  .cards{
+    grid-template-columns: 1fr;
+  }
+
+}
+
+@media screen and (max-width: 614px) {
+  .card{
+    flex-direction: column;
+    height: fit-content;
+  }
+  .weather{
+    border-left: none;
+    border-top: 2px solid black;
+    padding: 20px;
+  }
+}
