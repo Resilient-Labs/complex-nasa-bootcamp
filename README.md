@@ -1,22 +1,32 @@
-# 🚀 Project: Complex NASA API
+# NASA and Weather API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+> View a list of all of the NASA facilities and the weather at each location.
 
-### How to submit your code for review:
+> <img src="./images/screenshot.png" alt="Screenshot of completed NASA and Weather API App" width="500">
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Table of Contents
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+1. [Tech Stack](#tech-stack)
+1. [Development](#development)
+   1. [NASA and Weather APIs](#nasa-and-weather-apis)
+   1. [Notes](#notes)
+
+## Tech Stack
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Development
+
+### NASA and Weather APIs
+
+- NASA's Facilities dataset is available at: https://data.nasa.gov/dataset/nasa-facilities-api/resource/8da12948-3793-4ec1-b5c6-f95e86fd6021, no API key required.
+- A 3rd party CORS proxy (https://corsproxy.io) was used for the NASA request url to resolve CORS errors.
+- Obtain a free Weather API key at: https://www.weatherapi.com/
+- Update the `WEATHER_API_KEY` value with your key on line 1 of main.js.
+- Open the app in your browser, and view the list of all NASA facilities including the current weather!
+
+### Notes
+
+Visit the official documentation at https://data.nasa.gov/dataset/nasa-facilities-api anf https://www.weatherapi.com/docs/ for more information on API use, copyright, and rate limitations.
