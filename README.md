@@ -3,7 +3,8 @@
 An interactive display of all NASA facilities across the United States, paired with live current weather data for each location.  
 Built to explore large-scale public data handling and chained API requests, this project combines clean visuals with real-time information.
 
-**Live Demo:** (add your link here)  
+[Live Demo](https://complex-nasa-api.vercel.app/)
+
 ![screenshot](img/facility.png "NASA Facilities + Current Weather")
 
 ---
