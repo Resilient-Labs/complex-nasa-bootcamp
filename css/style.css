@@ -1,0 +1,63 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  text-align: center;
+  background-image: url('https://media.cntraveler.com/photos/5804ef77b5529ddf55125b40/master/w_2048,h_1536,c_limit/nasa-earth-views-01-cr-courtesy.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+ 
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 20px 40px;
+  font-size: 30px;
+  border: none;
+  margin: 20px;
+  cursor: pointer;
+}
+
+
+
+h2, h3, h4 {
+  background-color: hsla(57, 73%, 84%, 0.612);
+  padding: 15px;
+  margin: 15px;
+  color: blue;
+  font-size: 30px;
+}
+
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
