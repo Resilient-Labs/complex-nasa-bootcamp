@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(26, 26, 79);
+    color: white;
+}
+h1{
+    color: rgb(245, 211, 19);
+    font-size: 3em;
+}
+button{
+    width: 30%;
+    height: 40px;
+    font-weight: bold;
+    font-size: 1em;
+    background-color: green;
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+}
+button:active{
+    background-color: rgb(94, 231, 94);
+}
+section{
+    padding: 2%;
+}
+@media screen and (max-width: 920px){
+    h2{
+        font-size: 1em;
+    }
+    button{
+        font-size: 0.8em;
+    }
+}
