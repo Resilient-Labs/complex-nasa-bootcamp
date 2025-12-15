@@ -1,22 +1,54 @@
-# 🚀 Project: Complex NASA API
+# 🌌 NASA-API-Complex
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+[![NASA API](https://img.shields.io/badge/Data-NASA%20API-lightblue?logo=nasa)](https://api.nasa.gov)
 
-### How to submit your code for review:
+> Advanced NASA Data API — REST service integrating NASA API endpoints with smart data handling, combined with Weather API.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+---
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Overview
+
+**api-NASA-complex** is an enhanced version of the NASA API integration — designed to showcase multi-endpoint data orchestration, transformation, and response optimization.
+
+It connects with several NASA open data sources (APOD, Mars Rover, NEO, Earth imagery, and more), then combines, filters, and formats the data for efficient use in frontend applications or data visualization tools.
+
+---
+
+## Features
+
+- 🔭 Multi-endpoint data aggregation  
+- 🚀 Unified and formatted JSON responses  
+- 🌍 Handles NASA API key authentication automatically  
+- 🧠 Error handling, caching logic, and parameter validation  
+- 💾 Optional database / in-memory caching layer  
+- 🧰 Built with clean modular architecture for scalability  
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| Environment | dotenv |
+
+---
+
+## Prerequisites
+
+Before you start, ensure you have:
+
+- A valid [NASA API Key](https://api.nasa.gov)  
+
+---
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/AngelBelRoth/api-NASA-complex.git
+
+# Move into the directory
+cd api-NASA-complex
+
+# Install dependencies
+npm install
