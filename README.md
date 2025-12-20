@@ -1,22 +1,16 @@
-# 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+  ## Project: NASA's API 
+  <img width="1920" alt="image" src="https://github.com/user-attachments/assets/75c006f5-30f3-467d-935f-633f6c763413" />
 
-### How to submit your code for review:
+This JavaScript project is a web application that retrieves and displays information about various NASA facilities along with their local weather conditions. An event listener attached to a button triggers the getFacilities function, which first uses the fetch() API with a proxy to access a JSON dataset from data.nasa.gov. Upon successfully processing the list of facilities, the code iterates through the data; for each entry containing valid location coordinates (latitude and longitude), it performs a second, nested fetch() call to the OpenWeatherMap API to retrieve the current temperature and weather description for that specific location. Finally, the application dynamically creates and appends div elements to the webpage, displaying the facility's name, location, and the latest weather information.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Tech Stack
+- HTML
+
+- CSS
+  
+- JavaScript
+
+### Live Demo
+Click the link on the right under About to see the live demo.
