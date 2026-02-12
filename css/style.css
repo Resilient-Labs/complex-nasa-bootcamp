@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  background-color: aliceblue;  
+}
+
+ul, li{
+  background-color: rgba(228, 145, 51, 0.881);
+  font-weight: 500;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h1{
+  text-align: center;
+}
