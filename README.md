@@ -2,21 +2,13 @@
 
 ### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+The complex NASA API project uses data from NASA's around 400 facilities API to display information about all NASA centers across the US. The name, location, and curren weather of those locations are displayed in the DOM (Facility Name - City, State. Current  Weather: Description and Temperature in Fahrenheit). The program uses the OpenWeatherMap API to retrieve real-time weather data for each facility by using its latitude and longitude.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Find the live demo at https://ishelvirakeira.github.io/complex-nasa-bootcamp/
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<img width="745" height="430" alt="Nasa facilities" src="https://github.com/user-attachments/assets/0825f646-08e5-4d52-93b4-83f6ce57af6a" />
+
+
+Tools used: HTML, CSS, JavaScript, NASA's Facilities API, OpenWeatherMap API
+
+I learned how to work with 2 APIs together to get more information about the locations that are not necessarily included in one of the APIs. I learned how to debug API and JavaScript errors collaboratively.
