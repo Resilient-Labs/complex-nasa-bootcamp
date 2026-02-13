@@ -1,22 +1,25 @@
 # 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+_Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently._
 
-### How to submit your code for review:
+<hr>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Tech Used
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+HTML, CSS, JavaScript, Openweather and Nasa APIs.
+
+<hr>
+
+<img src="./Screenshot 2025-11-10 at 6.26.19 PM.png">
+
+<hr>
+
+[Rendered project here](https://godwinkamau.github.io/complex-nasa/)
+
+<hr>
+
+## Lessons Learned
+
+- Sometimes, APIs just don't work. That's when you use a cors proxy to work around the obstacles and keep on trucking.
+- Using fetch api to process large amounts of information effectively
+- Using promises to control the flow of the behavior.
