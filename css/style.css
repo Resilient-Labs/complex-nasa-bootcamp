@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(198, 198, 198);
+    font-size: 62.5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div ul {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 1em;
+    list-style: none;
+    padding: 1%;
+    
+}
+
+ul li {
+    border: 1px solid;
+    width: 15%;
+    text-align: left;
+    background-color: wheat;
+    font-size: 1.7rem;
+    padding: 1%;
+    margin: 0 auto;
+}
+
+button {
+    height: 30px;
+    border-radius: 5px;
+}
+
+button:hover {
+    box-shadow: 2px 2px gray;
+}
+
+h1 {
+    font-size: 3rem;
+}
