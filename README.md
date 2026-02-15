@@ -1,22 +1,46 @@
-# 🚀 Project: Complex NASA API
+# 🚀 NASA Facility Locator 🌌
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+## 🎯 Goal
+Create a **web application** that uses **NASA's API** to:  
+- Return all NASA facility locations (~400)  
+- Display each facility’s **name** and **location**  
+- Show the **current weather** at each facility  
 
-### How to submit your code for review:
+---
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## 🚀 Features
+- ✅ Fetch all NASA facility data from the API  
+- ✅ Display facility **name** and **address/location**  
+- ✅ Show **current weather** for each location using a weather API  
+- ✅ Responsive table or card layout for easy browsing  
+- ✅ Search or filter facilities by name or state (optional)  
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+---
+
+## 🧩 Tech Stack
+- **HTML/CSS** – Page structure and styling  
+- **JavaScript (ES6)** – Fetch data from APIs and update the DOM  
+- **NASA API** – Provides facility information  
+- **Weather API** – Example: [OpenWeatherMap](https://openweathermap.org/api) for real-time weather data  
+- **Fetch API** – Handles HTTP requests  
+
+---
+
+## 💻 How It Works
+1. The application sends a request to **NASA’s API** to retrieve all facilities.  
+2. For each facility, it extracts:  
+   - Facility name  
+   - Location (city, state, zip)  
+3. Sends a request to a **weather API** for each location to get current weather data.  
+4. Dynamically displays the results on the webpage in a **table or card format**:  
+   - Facility Name  
+   - Location  
+   - Current Weather  
+
+---
+
+## 📦 Installation & Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/nasa-facility-locator.git
