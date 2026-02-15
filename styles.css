@@ -1,0 +1,170 @@
+/* styling completed with the help of chatgpt */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+body {
+  /* background: radial-gradient(circle at top, #0b0d17 0%, #10152b 100%);
+  color: #e0e6ed; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px 40px;
+  overflow-x: hidden;
+  background-image: url(images/nasa-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  width: 100%;
+  height: 16px;
+  background: repeating-linear-gradient(
+    90deg,
+    #d32f2f 0 25%,
+    #ffffff 25% 50%,
+    #d32f2f 50% 75%,
+    #ffffff 75% 100%
+  );
+  background-size: 80px 100%;
+  animation: slideStripe 8s linear infinite;
+}
+
+@keyframes slideStripe {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 80px 0;
+  }
+}
+
+/*floating astronaut icon*/
+.astronaut {
+  position: absolute;
+  top: 35px;
+  right: 40px;
+  width: 60px;
+  height: 60px;
+  background: url('https://cdn-icons-png.flaticon.com/512/3212/3212608.png')
+    no-repeat center/contain;
+  animation: floatAstronaut 5s ease-in-out infinite;
+  opacity: 0.85;
+}
+
+@keyframes floatAstronaut {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+h1 {
+  font-size: 2.4rem;
+  color: #ffffff;
+  margin-top: 60px;
+  margin-bottom: 15px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  border-bottom: 2px solid #d32f2f;
+  padding-bottom: 10px;
+}
+
+p {
+  color: #d0d6e0;
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  max-width: 650px;
+  line-height: 1.6;
+}
+
+button {
+  background: #d32f2f;
+  color: #fff;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  letter-spacing: 0.5px;
+  box-shadow: 0 3px 8px rgba(211, 47, 47, 0.3);
+}
+
+button:hover {
+  background: #b71c1c;
+  box-shadow: 0 4px 12px rgba(183, 28, 28, 0.4);
+  transform: translateY(-2px);
+}
+
+/* facilities container */
+#nasaFac {
+  width: 90%;
+  max-width: 900px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(6px);
+  overflow-y: auto;
+  max-height: 70vh;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+}
+
+/* facilities list */
+#facilitiesList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+#facilitiesList li {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-left: 5px solid #d32f2f;
+  border-radius: 6px;
+  padding: 15px 18px;
+  text-align: left;
+  line-height: 1.5;
+  color: #f5f7fa;
+  box-shadow: 0 1px 4px rgba(255, 255, 255, 0.05);
+  transition: all 0.3s ease;
+}
+
+#nasaFac::-webkit-scrollbar {
+  width: 8px;
+}
+
+#nasaFac::-webkit-scrollbar-thumb {
+  background: #d32f2f;
+  border-radius: 4px;
+}
+
+/* responsive design */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .astronaut {
+    width: 45px;
+    height: 45px;
+    right: 20px;
+  }
+
+  #facilitiesList li {
+    font-size: 0.9rem;
+  }
+}
