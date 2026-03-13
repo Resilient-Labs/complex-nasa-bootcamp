@@ -1,0 +1,87 @@
+/******************************************
+/* CSS
+/*******************************************/
+/* Box Model Hack */
+*{
+    box-sizing:border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+html, body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:url("../css/img/background.png") no-repeat fixed;
+    background-size:cover;
+    margin:0px;
+    padding:40px;
+}
+
+img{
+    width:10%;
+    height: auto;
+}
+
+h1{
+    font-size:100px;
+    color: rgb(255, 0, 0); 
+    text-align: center;
+}
+
+h2{
+    font-size:50px;
+    color: rgb(219, 127, 127);    
+}
+
+h3{
+    font-size:50px;
+    color: rgb(42, 40, 172);
+    text-align: center;
+}
+
+p{
+    font-size:25px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgba(68, 72, 75, 0.151);
+}
+
+ul{
+    line-height: 1.5em;
+    font-size:30px;
+    background-color: rgba(246, 248, 250, 0.575);
+    border-radius: 10px;
+}
+
+button{
+    padding:5px 30px 5px 30px;
+    background:white;
+    box-shadow:5px 5px 2px 1px rgba(84, 87, 90, .2);
+    font-size:1rem;
+    margin-left:10px;
+    border-radius: 15px;
+    height: 50px;
+}
+
+button:active{
+    background-color: rgb(68, 72, 75);
+}
+
+.container {
+    font-size: 50px;
+    color: rgb(80, 79, 79);
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+@media only screen and (max-width: 600px) {
+  img {
+    width:100%;
+    margin:0;
+    padding:0;
+  }
+}
