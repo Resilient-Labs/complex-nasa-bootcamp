@@ -3,7 +3,7 @@ document.querySelector('button').addEventListener('click', findLocations)
    
 function findLocations(){
    
-   const apiOne = `https://data.nasa.gov/docs/legacy/gvk9-iz74.json`
+   const apiOne = `https://cors.io/?url=https://data.nasa.gov/docs/legacy/gvk9-iz74.json`
 
     fetch(apiOne)
         .then(res => res.json())
@@ -11,7 +11,9 @@ function findLocations(){
             
             console.log(data)
 
-            data.map(info => {
+            const getData = JSON.parse(data.body)
+
+            getData.map(info => {
                 
                 const center = info.center                      ///////////////////////////////////////////
                 const city = info.city                          ///////////////////////////////////////////
