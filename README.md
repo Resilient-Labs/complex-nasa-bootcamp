@@ -1,22 +1,54 @@
-# 🚀 Project: Complex NASA API
+# NASA Facility Weather
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+A lightweight front-end app that pulls NASA facility data and shows the current weather for each location using the Open-Meteo API.
 
-### How to submit your code for review:
+## Demo
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![Allergen Check demo](image/facility.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Overview
+
+This project displays a searchable list of NASA facilities, lets users click a facility to view its live weather, and shows key weather details such as temperature, feels-like temperature, wind speed, humidity, and weather condition description.
+
+## Features
+
+- Loads facility data from a local JSON file containing NASA locations
+- Searches facilities by name, city, or state
+- Displays a card for each facility in the list
+- Shows weather details for the selected facility
+- Includes latitude and longitude information
+- Maps weather codes to readable descriptions
+
+## Tech Stack
+
+- HTML
+- CSS
+- Vanilla JavaScript
+- NASA facility JSON dataset
+- Open-Meteo Forecast API
+
+## Project Structure
+
+- `index.html` – app layout and UI structure
+- `css/style.css` – styling for the layout and cards
+- `js/main.js` – data fetching, search logic, and weather rendering
+- `data/nasa-facilities.json` – NASA facility dataset
+
+
+
+## How It Works
+
+- The app loads a filtered set of NASA facility records from `data/nasa-facilities.json`
+- Users can type into the search box to narrow the list of centers
+- Clicking a facility triggers a weather request using its latitude and longitude
+- The weather response is converted to Fahrenheit and displayed in the weather card
+
+## Data Sources
+
+- NASA facility data: bundled in `data/nasa-facilities.json`
+- Weather data: Open-Meteo API
+
+## Notes
+
+This is a front-end-only project intended for learning and demonstration. It does not require a backend or API key for the weather request.
+

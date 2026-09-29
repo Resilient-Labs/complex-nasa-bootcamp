@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complex NASA API </title>
+   <link rel="stylesheet" href="css/style.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Gravitas+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <section class="wrapper-desc">
+        <div class="left-section">
+         <p id="facility-400">400 Facilities Live Weather</p>
+        <h1>NASA FACILITY WEATHER</h1>
+        </div>
+      
+        <div class="right-section">
+            <div>
+             <label for="facility">Search facilties</label>
+            <input type="text" id="search-facility" placeholder="Name, City, or State">
+            </div>
+           
+        </div>
+
+    </section>
+
+    <!-- Container -->
+    <div class="wrapper">
+
+        <!-- FACILITY LIST WILL GO HERE -->
+        <div class="facility-container"></div>
+        
+        <section class="weather-card">
+         <h1 id="center"></h1>
+         <p id="stateCity"></p>
+        <p id="lat-lon"></p>
+
+        
+         <!-- Image and temperature section -->
+          <section class="icon-temp-wrapper">
+           
+            <h2 id="temp"></h2>
+            <p id="cloud-desc"></p>
+          </section>
+
+          <!-- OTHER TEMP DATA -->
+           <section class="other-data">
+
+            <!-- Card One -->
+            <div class="data-cards">
+                <div>
+                <p>Feels Like</p>
+            <h3 id="feel-like-value"></h3>
+                </div>
+         
+            </div>
+            
+            <!-- Card 2 -->
+            <div class="data-cards">
+                <div>
+                <p>Wind </p>
+                <h3 id="wind-value"></h3>
+                </div>
+          
+            </div>
+
+            <!-- Card 3 -->
+            <div class="data-cards">
+                <div>
+                <p>Humidity</p>
+                <h3 id="humidity-value"></h3>
+                </div>
+         
+            </div>
+           </section>
+
+            <p>Facilties from NASA open data . Weather from Open Meteo</p>
+        </section>
+        
+    </div>
+    <script src="js/main.js"></script>
+</body>
+</html>

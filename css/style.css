@@ -1,0 +1,81 @@
+
+body{
+    background-color: #121A2E;
+  color: white;
+    font-family: "Space Grotesk", sans-serif;
+}
+.facility{
+    border: 1px solid black;
+    border-radius: 20px ;
+    max-width: 400px;
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+    background-color: #1B2642;
+}
+#facility-400{
+    color: #ff9a52;
+    font-size: 20px;
+}
+.facility h1{
+    font-size: 18px;
+}
+.facility p{
+   color: #a3aec8;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.weather-card{
+    border: 1px solid #2a3654;
+    max-width: 400px;
+    background-color: #121A2E;
+    border-radius: 40px;
+    padding: 20px;
+}
+.weather-card span{
+     color: #a3aec8;
+}
+.wrapper-desc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input {
+   
+    height: 52px;
+    padding: 0 16px;
+    font-size: 18px;
+    font-family: inherit;
+    background-color: white;
+    border: 1px solid #C9C2B2;
+    border-radius: 10px;
+}
+
+.other-data{
+    display: flex;
+    justify-content: space-around ;  
+    gap: 20px; 
+}
+.data-cards h3{
+    font-size: 18px;
+}
+.data-cards{
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #2a3654;
+    border-radius: 10px;
+  
+}
+@media (max-width:768px) {
+   .wrapper{
+    display: flex;
+    flex-direction: column-reverse;
+
+
+} 
+}
