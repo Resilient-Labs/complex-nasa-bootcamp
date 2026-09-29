@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #14162a;
+    cursor: pointer;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+#nasa {
+    background: #383b59;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    padding:25px 15px;
+    margin: 50px 30px;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+button{
+  background-color: #2e2896;
+  color:#ffffff;
+  border:none;
+  padding: 0.75rem 1.5rem;
+  margin-top: 15px;
+  font-size:1rem;
+  font-weight: 500;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+button:hover {
+  background-color: #4338ca;
+}
+
+
+#tempList {
+    display: flex;
+    color: #383b59;
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px;
+
+}
+
+.cardB {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 0.85rem;
+    background: #f9f9f9;
+    width:50%;
+    margin-left: 50px;
+   
+
+}
