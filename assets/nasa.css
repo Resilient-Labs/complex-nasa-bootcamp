@@ -1,0 +1,61 @@
+body{
+    background: #0b2c5f;
+    font-family: 'Roboto Condensed', 'Helvetica', sans-serif;
+}
+.headingSection{
+    border: 3px solid #000;
+    border-radius: 10px;
+    height: 10rem;
+    text-align: center;
+    background: #2e5383;
+}
+h1{
+    color: #fff;
+    font-size: 2.2rem;
+}
+.disclaimer{
+    color: #fff;
+    font-size: 12px;
+}
+button{
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #0b2c5f;
+    color: #fff;
+    padding: 5px 10px;
+}
+.nasaInfo{
+    border: 2px solid #000;
+    border-radius: 7.5px;
+    padding: 7.5px 0;
+    background: #2e5383;
+    color: #fff;
+    text-indent: .5rem;
+}
+@media (max-width: 761px){
+    .nasaInfo{
+        font-size: 14px;
+    }
+}
+@media (max-width: 642px){
+    .nasaInfo{
+        font-size: 12px;
+    }
+}
+@media (max-width: 552px){
+    .nasaInfo{
+        font-size: 10px;
+    }
+}
+@media (max-width: 465px){
+    .headingSection{
+    
+    height: 8rem;
+    }
+    h1{
+        font-size: 1.6rem;
+    }
+    .nasaInfo{
+        font-size: 8px;
+    }
+}
