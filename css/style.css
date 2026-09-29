@@ -1,0 +1,116 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+/* .clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+} */
+
+/* .clear {
+	clear: both;
+} */
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+min-height: 100vh;
+margin: 0;
+padding: 50px 30px;
+background: #f4f7fb;
+color: #1f2933;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+h1, button, select, table {
+  max-width: 1000px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 25px;
+  color: #102a43;
+  font-size: 2.5rem;
+}
+
+h1:hover {
+  color: #fc3d21;
+}
+
+/* BUTTON */
+
+
+button {
+  min-height: 42px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  background: #174ea6;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #123b7a;
+}
+
+/* SELECT */
+
+select {
+  min-height: 40px;
+  margin-left: 8px;
+  padding: 8px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #1f2933;
+  font-size: 1rem;
+}
+
+
+/* TABLE */
+
+/* NOTE: by default, HTML tables use border-collapse: separate; & border-collapse: collapse; merges adjacent table cell borders into a single, shared border so every individual cell has its own border  */
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+th {
+padding: 14px 12px;
+border-bottom: 2px solid #174ea6;
+color: #102a43;
+text-align: left;
+font-size: 1rem;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #e1e7ef;
+  line-height: 1.4;
+}
+
+tr:hover {
+  background: #f7f9fc;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
