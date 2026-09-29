@@ -1,0 +1,210 @@
+*{
+  box-sizing: border-box;
+}
+.icon,.subtitle{
+  color: white;
+}
+header{
+  display: block;
+  background: #07182E;
+  padding: 24px;
+}
+nav{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  align-self: stretch;
+  color: #E2E8F0;
+}
+.container-search{
+  display: flex;
+  padding: 22px 24px 20px 24px;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+input{
+  display: flex;
+  justify-content: flex-start;
+  height: 48px;
+  padding: 0 16px;
+  border-radius: 8px;
+  border: 1px solid #E2E8F0;
+  background: #FFF;
+  width: 100%;
+}
+select{
+  display: flex;
+  height: 48px;
+  padding: 0 16px;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  border: 1px solid #E2E8F0;
+  background: #FFF;
+}
+button{
+  display: flex;
+  height: 42px;
+  padding: 10px 16px;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  border-radius: 16px;
+  background: #cfb560;
+  color: #07182E;
+  margin-top: 8px;
+}
+h2,h3,h4,h5,p{
+  margin: 0;
+}
+.container-facilities{
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(4,1fr);
+  gap: 16px;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 8px;
+  
+}
+.facility-card{
+  display: flex;
+  height: 100%;
+  padding: 16px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex: 1 0 0;
+  border-radius: 10px;
+  border: 1px solid #D6E0E8;
+  background: #FFF;
+  box-shadow: 0 8px 24px 0 rgba(11, 33, 53, 0.09);
+}
+div{
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  align-self: stretch;
+}
+.title-description{
+  color: #737c94;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.description{
+  flex: 1 0 0;
+  color: #2D2028;
+  font-family: Inter;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.weather-details{
+  display: flex;
+  padding: 28px;
+  align-items: center;
+  gap: 28px;
+  align-self: stretch;
+  background-image: url("../img/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  margin: 0;
+  width: 100%;
+}
+.temperature{
+  text-align: center;
+}
+img{
+  display: block;
+  text-align: center;
+  width: 20%;
+  margin: 0 auto;
+}
+switch{
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  margin: 0 auto;
+  padding: 4px;
+  align-items: center;
+  gap: 4px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.10);
+  backdrop-filter: blur(10px);
+
+}
+.switch2{
+  display: flex;
+  padding: 8px 14px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+}
+.switch1{
+  display: flex;
+  padding: 8px 14px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 999px;
+  color: white;
+}
+.getValue{
+  color: white;
+}
+.box-container{
+  margin-top: 8px;
+  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 8px;
+  width: 100%;
+  min-height: 300px;
+}
+
+.details{
+  color: white;
+}
+.description{
+  color:white;
+}
+.icon{
+  color: white;
+}
+.box{
+    padding: 8px;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.10);
+    backdrop-filter: blur(12px);
+}
+div{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+span{
+  color: rgb(45, 45, 39);
+}
+@media (max-width:600px){
+  .container-box{
+    display: block;
+    text-align: center;
+  }
+  input,select, button{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 16px;
+  }
+  
+}
