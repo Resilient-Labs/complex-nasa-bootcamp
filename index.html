@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NASA Facilities Weather</title>
+  <!-- empty icon so the console doesn't show a favicon 404 that looks like an API error -->
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>NASA Facilities Weather</h1>
+    <p>Every NASA facility from NASA's Facilities API, with the current weather at each one from Open-Meteo.</p>
+
+    <!-- stays disabled until the facilities load -->
+    <label for="search-input">Search facilities</label>
+    <input type="search" id="search-input" placeholder="Name, center, city, or state" disabled>
+
+    <p id="message">Loading NASA facilities and current weather...</p>
+
+    <div id="facilities"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
