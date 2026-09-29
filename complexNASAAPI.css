@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: grey;
+    margin: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+
+button {
+    font-size: 20px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+#facilitiesBox {
+    display: grid;
+    grid-template-columns: repeat(1fr);
+}
+
+.facility {
+    background-color: white;
+}
+
+#weather {
+    background-color: white;
+    border-radius: 10px;
+}
