@@ -1,22 +1,12 @@
-# 🚀 Project: Complex NASA API
+READ ME for NASA Complex problem
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
 
-### How to submit your code for review:
+With the use of NASA API we are able to get dataset listing all of NASA's locations. A CORS proxy was used to bypass the fetch error.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+We then use the longitude and latitude of those locations to query a weather API to get the current weather in that area.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+API's
+NASA Facilities - "https://corsproxy.io/?key={CORS_KEY}&url=https://data.nasa.gov/docs/legacy/NASA_Facilities/NASA_Facilities_rows.json"
+
+Weather - https://api.weatherapi.com/v1/current.json?key={weather_api_key}&q={latitude},{longitude}
