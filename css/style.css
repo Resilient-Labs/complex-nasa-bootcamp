@@ -1,0 +1,25 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(242,244,248);
+    color: rgb(31, 38, 55);
+}
+
+main { 
+    background-color: rgb(32, 64, 139);
+    color: aliceblue;
+    text-align: center;
+    padding: .2rem;
+}
+
+main h1 { 
+    margin: 0; 
+}
+
+main p { 
+    margin: .5rem; 
+}
+
+#facilities { 
+    color: rgb(11,64,145);
+}
+
