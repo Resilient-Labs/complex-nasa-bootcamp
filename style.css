@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  /* dark space color shows while the photo loads (or if it's missing) */
+  background: #0b1a33 url("nasa.jpg") center / cover fixed;
+  color: #1d1d1d;
+}
+
+/* mostly-solid white so the cards stay readable over the photo */
+main {
+  max-width: 1100px;
+  margin: 30px auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.95);
+  border-top: 6px solid #0b3d91;
+}
+
+h1 {
+  margin-top: 0;
+  color: #0b3d91;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+#search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#message {
+  min-height: 1.2em;
+  font-weight: bold;
+}
+
+.error {
+  color: #b00020;
+}
+
+/* as many columns as fit, cards never narrower than 250px */
+#facilities {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  border: 1px solid #c9d3e3;
+  border-left: 4px solid #0b3d91;
+  padding: 12px;
+  background: #fff;
+}
+
+.card h2 {
+  font-size: 16px;
+  margin: 0 0 6px;
+  color: #0b3d91;
+}
+
+.card p {
+  margin: 4px 0;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.coords {
+  color: #666;
+  font-size: 12px !important;
+}
+
+.weather {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed #c9d3e3;
+}
+
+.temp {
+  font-size: 20px !important;
+  font-weight: bold;
+  color: #fc3d21;
+}
+
+.muted {
+  color: #666;
+  font-style: italic;
+}
