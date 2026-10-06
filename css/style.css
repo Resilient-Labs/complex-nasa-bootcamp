@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after{
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear{
+	clear: both;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    font-size: 60.5%;
+    background-image: url('/Users/shakinak/Complex-NASA/complex-nasa/images/nasa-center.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: rgb(244, 241, 241);
+}
+h1{
+  text-align: center;
+  font-size: 2.5rem;
+}
+table{
+width: 100%;
+border-collapse: collapse;
+margin-top: 1rem;
+border: 1px solid black;
+background-color: rgb(38, 94, 205, 0.6);
+
+}
+th{
+  border: 1px solid black;
+  background-color: rgb(38, 94, 205, 0.5);
+  font-size: 1.5rem;
+}
+td{
+  text-align: center;
+  margin: 1rem;
+  font-size: 1.3rem;
+}
+button, select{
+  background-color: rgb(38, 94, 205, 0.5);
+  color: white;
+  font-size: 1.2rem;
+}
+
