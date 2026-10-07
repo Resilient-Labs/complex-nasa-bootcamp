@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 40px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f7fa;
+    color: #222;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #1d3557;
+}
+
+.btn {
+    padding: 12px 22px;
+    border: none;
+    border-radius: 6px;
+    background: #1d3557;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+
+.btn:hover {
+    background: #294c77;
+}
+
+body > p {
+    color: #777;
+    margin-bottom: 25px;
+}
+
+.facilities {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 15px;
+}
+
+/* These are the p elements that are created through the JS createELement function*/
+.facilities p {
+    margin: 0;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: left;
+    line-height: 1.6;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
