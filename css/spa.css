@@ -1,0 +1,21 @@
+/* Universal*/
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    background-image: url('../images/water-fall-calming.gif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    main{
+        h1{
+            color:blanchedalmond;
+        }
+    }
+}
+span{
+    display: block;
+}
