@@ -1,0 +1,66 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 40rem;
+  margin: 2.5rem auto;
+  padding: 0 1.25rem;
+  color: #16213e;
+  background: #fafbfd;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #0b3d91;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  padding: 0.625rem 1.25rem;
+  font-size: 1rem;
+  color: #fff;
+  background: #0b3d91;
+  transition: background 150ms ease;
+}
+
+button:hover {
+  background: #072a66;
+}
+
+button:focus-visible {
+  outline: 3px solid #8fb3ff;
+  outline-offset: 2px;
+}
+
+#list {
+  margin-top: 1.5rem;
+}
+
+.facility {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.facility h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.facility p {
+  margin: 0.25rem 0 0;
+  color: #6b7280;
+  font-size: 0.875rem;
+}
+
+.facility .temp {
+  font-weight: 600;
+  color: #0b3d91;
+  white-space: nowrap;
+}
