@@ -7,9 +7,11 @@
     <title>Complex NASA API</title>
 </head>
 <body>
-    <h1>What's the Weather at NASA?</h1>
+    <header>
+    <h1> <img id= 'logo' src= 'img/nasa-logo.png' alt="'NASA Logo">What's the Weather at NASA?</h1>
 
     <p>"Under what conditions must we search the sky?" - Astronomer</p>
+    <p> Use this web app to see the weather at any of the 400+ NASA Facilities in the USA. Select how many you'd like to view at a time below.</p>
 
     <button type="button" name="button">Click Here to See</button>
     
@@ -20,7 +22,9 @@
         <option value="200">200</option>
         <option value="485">ALL</option>
     </select>
+    </header>
 
+<div id="table-wrap">
     <table> 
         <tr>
             <th scope="col">Name</th>
@@ -28,7 +32,7 @@
             <th scope="col">Weather</th>
         </tr>
     </table>
-
+</div>
 
     
 
