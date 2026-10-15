@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  background:orange;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+h1{
+  color:blue;
+}
+
+section{
+  border:1px solid black;
+  
+}
+
+p{
+  border: 1px solid black;
+  background:beige;
+  height: 60px;
+}
+
+@media  (max-width:750px) {
+  section{
+    flex-direction: row;
+    flex-wrap:wrap;
+  }
+}
+
+
+
+

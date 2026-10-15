@@ -1,22 +1,34 @@
-# 🚀 Project: Complex NASA API
+## Lists official NASA facilities and displays their current local temperature in real-time.
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+## Features
+Facility Listing: Fetches and displays official NASA facility names, cities, and countries.
 
-### How to submit your code for review:
+Live Weather Updates: Retrieves current weather conditions for each location based on geographic latitude and longitude coordinates.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Dynamic Rendering: Updates the page dynamically as weather data loads for each facility.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## APIs Used
+NASA Facility Dataset: [https://data.nasa.gov/docs/legacy/gvk9-iz74.json](https://data.nasa.gov/docs/legacy/gvk9-iz74.json) (accessed via CORS proxy)
+
+Open-Meteo Weather API: [https://api.open-meteo.com/v1/forecast](https://api.open-meteo.com/v1/forecast)
+
+## How It Works
+Fetches official NASA facility locations and coordinates.
+
+Displays the facility details on the webpage with blank temperature placeholders.
+
+Requests current weather data for each facility using its specific coordinates.
+
+Populates the temperature for each location dynamically once retrieved.
+
+## Built With
+HTML
+
+CSS
+
+JavaScript
+
+
+
+
+<img width="2879" height="1578" alt="image" src="https://github.com/user-attachments/assets/0205666d-a2a9-43f0-b7c6-72e51c2ba88a" />
