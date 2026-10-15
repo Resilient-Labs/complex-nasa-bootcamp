@@ -1,30 +1,32 @@
-**NASA Facilities Weather Tracker**
+## Lists official NASA facilities and displays their current local temperature in real-time.
 
- Lists NASA facilities and displays their current local temperature.
+## Features
+Facility Listing: Fetches and displays official NASA facility names, cities, and countries.
 
+Live Weather Updates: Retrieves current weather conditions for each location based on geographic latitude and longitude coordinates.
 
+Dynamic Rendering: Updates the page dynamically as weather data loads for each facility.
 
- **Features**
+## APIs Used
+NASA Facility Dataset: [https://data.nasa.gov/docs/legacy/gvk9-iz74.json](https://data.nasa.gov/docs/legacy/gvk9-iz74.json) (accessed via CORS proxy)
 
-- Fetches NASA facility names, cities, and countries.
-- Gets current weather for each location based on latitude and longitude.
-- Updates the page dynamically as weather data loads.
+Open-Meteo Weather API: [https://api.open-meteo.com/v1/forecast](https://api.open-meteo.com/v1/forecast)
 
+## How It Works
+Fetches official NASA facility locations and coordinates.
 
+Displays the facility details on the webpage with blank temperature placeholders.
 
- **APIs Used**
+Requests current weather data for each facility using its specific coordinates.
 
-- **NASA Facility Dataset:** `https://data.nasa.gov/docs/legacy/gvk9-iz74.json` (accessed via CORS proxy)
-- **Open-Meteo Weather API:** `https://api.open-meteo.com/v1/forecast`
+Populates the temperature for each location dynamically once retrieved.
 
+## Built With
+HTML
 
+CSS
 
- **How It Works**
-
-1. Fetches NASA facility locations.
-2. Displays the facility details on the webpage with blank temperature placeholders.
-3. Requests weather data for each facility using its coordinates.
-4. Populates the temperature for each location once retrieved.
+JavaScript
 
 
 
