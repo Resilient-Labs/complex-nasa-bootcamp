@@ -1,0 +1,57 @@
+/* Box model */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: darkblue;
+  background: lightblue;
+}
+
+h1,
+body > p {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 8px;
+  color: darkblue;
+}
+
+body > p {
+  margin-bottom: 32px;
+  color: black;
+}
+
+/* Card grid */
+#output {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  padding: 20px;
+  background: white;
+  border: 1px solid #dce4ee;
+}
+
+.card h2 {
+  margin: 0 0 14px;
+  font-size: 1.2rem;
+  color: darkblue;
+}
+
+.card p {
+  margin: 8px 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 24px 16px;
+  }
+}

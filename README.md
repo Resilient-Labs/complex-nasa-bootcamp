@@ -1,22 +1,36 @@
-# 🚀 Project: Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+# Nasa Locations
+Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently.
+Push to this github repo: 
 
-### How to submit your code for review:
+ 🌐 [live](https://kinzarehman.github.io/complex-nasa-bootcamp/)
+ 
+## View
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+<p align="center">
+  <img src="images/landing.png" alt="Nasa" width = "100%" height="400">
+</p>
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+## Built With
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## Local Preview
+
+Open `index.html` using the VS Code Live Server extension or open the file directly in your browser.
+
+## Limits
+This uses two different API's. 
+1. Nasa (https://data.nasa.gov/docs/legacy/gvk9-iz74.json)
+- no Api key needed 
+- needs a backend
+- Need Cors.io for live server
+    
+2. Weather (https://api.weatherapi.com/v1/current.json)
+- Api key needed 
+- no backend needed 
+
+
