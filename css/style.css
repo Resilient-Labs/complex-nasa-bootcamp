@@ -1,0 +1,36 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  background-image: url('../img/images\ \(4\).jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+}
+section{
+  text-align:center;
+  background:rgb(4, 116, 172);
+  width:70%;
+  border-radius:5px;
+  border:1px solid black;
+}
+ol, li{
+  text-align:left;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
