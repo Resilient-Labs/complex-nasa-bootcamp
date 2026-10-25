@@ -1,66 +1,92 @@
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  max-width: 40rem;
-  margin: 2.5rem auto;
-  padding: 0 1.25rem;
-  color: #16213e;
-  background: #fafbfd;
+  font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  min-height: 100vh;
+  box-sizing: border-box;
+  color: #e8ecf5;
   line-height: 1.5;
+  background-color: #050816;
 }
-
+ 
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 2px;
+  height: 2px;
+  background: #fff;
+  box-shadow:
+    10vw 15vh #fff, 25vw 60vh #fff, 40vw 25vh #fff, 55vw 80vh #fff,
+    70vw 10vh #fff, 85vw 50vh #fff, 95vw 85vh #fff, 15vw 90vh #fff;
+}
+ 
 h1 {
-  color: #0b3d91;
+  color: #ffffff;
   font-size: 1.6rem;
-  margin-bottom: 1rem;
-}
-
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #d9381e; }
+ 
 button {
-  cursor: pointer;
+  background: #d9381e;
+  color: #fff;
   border: none;
   border-radius: 6px;
-  padding: 0.625rem 1.25rem;
+  padding: 10px 20px;
   font-size: 1rem;
-  color: #fff;
-  background: #0b3d91;
-  transition: background 150ms ease;
+  font-weight: 600;
+  cursor: pointer;
 }
-
+ 
 button:hover {
-  background: #072a66;
+  background: #b82e17;
 }
-
+ 
 button:focus-visible {
   outline: 3px solid #8fb3ff;
   outline-offset: 2px;
 }
-
+ 
 #list {
-  margin-top: 1.5rem;
-}
-
+  margin-top: 24px;
+  padding: 16px 20px;
+  background: rgba(11, 61, 145, 0.35); border: 1px solid rgba(143, 179, 255, 0.35);
+  border-radius: 8px;
+  line-height: 1.7;
+  max-height: 70vh;
+  overflow-y: auto; }
+ 
+#list:empty {
+  display: none; }
+ 
 .facility {
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  gap: 1rem;
-  padding: 0.75rem 0;
-  border-bottom: 1px solid #e5e7eb;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(143, 179, 255, 0.25);
 }
-
+ 
 .facility h3 {
   margin: 0;
   font-size: 1rem;
-  font-weight: 500;
+  color: #ffffff;
 }
-
+ 
 .facility p {
-  margin: 0.25rem 0 0;
-  color: #6b7280;
+  margin: 2px 0 0;
+  color: #a9b4d0;
   font-size: 0.875rem;
 }
-
+ 
 .facility .temp {
   font-weight: 600;
-  color: #0b3d91;
+  color: #8fb3ff;
   white-space: nowrap;
 }
+ 
