@@ -1,0 +1,25 @@
+{
+  "name": "complex-nasa-bootcamp",
+  "version": "1.0.0",
+  "description": "A web application that combines NASA facility data with current weather information for each facility’s city.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushanathomas/complex-nasa-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sushanathomas/complex-nasa-bootcamp/issues"
+  },
+  "homepage": "https://github.com/sushanathomas/complex-nasa-bootcamp#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0"
+  }
+}

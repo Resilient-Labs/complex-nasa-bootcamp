@@ -1,0 +1,6307 @@
+[
+  {
+    "facility": "Control Room 2/1726/HGR-S ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Micometeroid/LDEF Analysis Laboratory",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "SRM Rotation and Processing Facility/K6-0494 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET WTC - 14-Inch Trisonic Wind Tunnel 4732",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB LAB Control Moment Gyro Test & Eval Fac 4487",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "HMF South Processing Bldg/West High Bay/M7-1212 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Central Supply Warehouse (M6-744) ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 46 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 65 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Utility Annex/K6-947/VAB AREA ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Microdevices Laboratory (MDL)",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Stand A-2 #4122",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Data Recording Facility 4583 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "WFF Research Airport",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Vacuum Plasma Spray Facility 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Test Facility (TS300) 4530",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 16 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal Vacuum Chamber 306-TV-11",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: Magnetic Field Component Test Facility",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Precision Cleaning Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC Gulfstream G-III Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Riveting Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 13 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Metals Processing Facility 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "North Wing/60680/HGR-AE ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Helicopter Hover Facility/647",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Computer Aided Design (CAD)Room 4708",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Orbiter Processing Facility(OPF) HB 3/K6-696",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Heated Tube Facility",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Hazardous Tribological Test Facility 4643",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mirror Refurbishment Building",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500: NASA Communications Facility (NASCOM), B.14",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Airlock/M7-360/SSPF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 BDA: Antenna, 9m S-band",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay Transfer Aisle/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Robotic Vehicle Lab",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: Space Environment Simulator, Facility 290",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET East Vibration Test Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC DC-8 Earth Science Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LPS Central Data Subsystem Area/2nd Flr/K6-900/LCC",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vibration Acoustic Test Facility - B-49",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"77058\"}",
+      "29.559177",
+      "-95.097897",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Microwave NDE Facility 4702",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N237 - HYPERVELOCITY FREE FLIGHT AERODYNAMIC FACILITY (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay 2/1726/HGR-S ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 14 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Port Michoud Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Information Systems Research Facility (2)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Launch Range",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mobile Launcher Platform 3 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Transient Pressure Test Facility 4515 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LCC Control Room 4/FR-4/Third Floor/K6-900 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Acoustic Test Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "X-Ray & Cryogenic Facility (XRCF), 4718",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N234 - THERMAL PROTECTION LAB: 2x9 INCH SUPERSONIC TURBULENT FLOW DUCT (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Heat Treating Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Environmental Replacement Tech. Lab 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV 400-Ft. Antenna Test Range 4194",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Test Facility (TF116) 4540",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Engine Processing Building #3202",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 63 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV Engine Hardware Simulation Laboratory, 4436",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mesa Antenna Test Facility",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Structures and Materials Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Cold Flow Position 4670 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Structural Dynamics Laboratory, Bldg. 56",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Orbiter Processing Facility(OPF)Low Bay 3/K6-696",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC Ikhana (Predator B) Unmanned Aerial System",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES BATSE Operations & Data Analysis Lab 4481",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "RPSF Surge Building #1/K6-0497 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Inert Propellant Development Lab 4767",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Data Acquisition Facility (DAF) #4995",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Orbiter Processing Facility(OPF) Bay 2/K6-894 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Support Areas/M7-360/SSPF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 43 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay 3 Cell/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Electromagnetic Laboratory/M6-336 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC Stratospheric Observatory for Infrared Astronomy (SOFIA) Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay Clean Room Complex/60680/HGR-AE",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 4982 - Aeronautical Tracking Facility",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV Contact Dynamics Simulation Lab (6DOF) 4663",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Instrument Research Lab/1230",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Robotic Workcell 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Semi-Anecho Electromagnetic Comp Test Complex/B1220",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vibration Test Facility - Exciter 2",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Facility 225, Thermal Vacuum Chamber, B.7",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Facility E-3 #4071",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Computed Tomography Facility 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "SOLAR TEST FACILITY",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay/Low Bay/Processing Rooms/M7-355/O&C",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Composite Material Development Laboratory/B1238B",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Space Experiments Laboratory, Bldg. 110",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Quality Assurance & Inspection Lab/1232A",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Facility H-1 #5001",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH SRB-TPS (Thermal Protection Sys) Dev. 470",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Ordnance Storage Fac/K7-255,-306,-356,-405,-506 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Stand B-1 #4220",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Logistics Facility/K6-1547/Shuttle ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 4820 - Flight Loads Laboratory ",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 MILA: Antenna, 4.3m S-band",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "046 - AIRCRAFT MAINTENANCE HANGAR 2",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "White Sands Missile Range",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Computer Vision Lab.",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Advanced Bonding Technology Laboratory 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Test Cells 4583 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Computerized Data Base System 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Energy Conservation Laboratory High Bay Chamber",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Heat Treat Shop 4704",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Low Frequency Antenna Test Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Backscatter Radiography Facility 4711/4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Research Laboratory",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N229 - EXPER. AEROTHERMODYNAMIC FAC.: ELECTRIC ARC SHOCK TUBE FACILITY (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500: Mission Operations Center Facility",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Optical Laboratories",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 MILA : Merritt Island Tracking Station (MILA)",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Aerodynamics Flow Physics Facilities (ERB Complex)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Crawler-Transporter, CT1 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500/WSC: Data Interface System",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Information Systems Research Facility (1)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: SSDIF Clean Room, B.29",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Sonic Fatique Lab (SFL), B-49",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"77058\"}",
+      "29.559177",
+      "-95.097897",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Facility Control Building/M7-1354/PHSF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Sensor Laboratory #1105",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Reverberant Acoustic Test Facility (RATF)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Emergency Power Generating System #4400",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "SLF: KSC Shuttle Landing Facility, UK-27 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay 4 Cell/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 4840 - Research Aircraft Integration Facility",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV Flight Robotics Laboratory (Flat Floor) 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal-Vacuum Chamber 144-TV-7",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Flight Environmental Test Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Facility E-2 #4001",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal Structures Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Sensor Data Processing Facility",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EI Manned Habitat ECLSS Test Facility 4755",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH High-Temperature Heat Treating Fac 4767",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Filament Winding Lab 4707 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES Plasma Wind Tunnel 4481",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "2.2 Second Drop Tower, Bldg. 45",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Chemistry Laboratories, Building 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES Earth Science & Appl.Computer Facility 4492",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Power Systems Facility, Bldg. 333 & 333A",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Cryogenic Propellant Tank Fac. (K-Site), #2811",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Headquarters Building/M6-399 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Bearing Test Facility, Bldg 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Surface Treatment Facility 4760",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Propulsion Technology Test Facility 4670",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Digital X-ray Laminography 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LB Cells (4) Low Bay Area/West/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vertical Assembly Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Plasma Arc Metal Cutting Facility 4738",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Terahertz Imaging Facility 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mobile Range Systems",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Fiber Placement Fac 4707 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Component Ablator Facility Mix Room",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 4800 - Research Development & Test Facility",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 703 Mirror Coating Facility",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Chemical Cleaning Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Propulsion Systems Laboratory, Bldg. 125",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Atomic Oxygen Test Facility, 121-100",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Solid Propulsion Test Facility 4520",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "McMurdo Ground Station (MGS)",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Facility 238, Thermal Vacuum Chamber, B.7",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Contamination Control Laboratories 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mechanical Vibration Facility",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LH2 Ablator Spray Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EO Huntsville Operations Support Center 4663",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LCC Control Room 2/FR-2/Third Floor/K6-900 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Flight Systems Integration and Test Lab/B1250",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET WTC - Wind Tunnel Complex 4732",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Transonic Dynamics Tunnel",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 MILA: Antenna, 9m S-band",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Barge, Liquid Hydrogen (3 each)",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 24 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal Acoustic Fatigue Apparatus",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Flight Research Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Hazardous Structural Test Complex 4572 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Doppler Lidar Facility 4467",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Structural Dynamics Control Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Experimental Avionics Systems Integration Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Hot Gas Test Facility 4554 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "25-Ft Space Simulator",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Altitude Chambers/Deactivated/M7-355/O&C",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Compact Range Pilot Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Learjet 25 Aircraft (N616NA)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Control Room /1726/HGR-S ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Crawler-Transporter, CT2 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Science Laboratory #8110",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Large Structure Quasi-Static Load Fac 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Cosmic Ray Emulsion Laboratory 4481",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 BDA: Bermuda Tracking Station (BDA)",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Major Component Cleaning Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Industrial Water Reservoir #4325",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "1 Ft. x 1 Ft. Supersonic Wind Tunnel, Bldg. 37",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Cryogenic Structural Test Facility 4699 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay/M7-1354/PHSF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Foam Formulation Laboratory 4739",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "HMF South Processing Bldg/East High Bay/M7-1212 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Remote Surface Lab",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DeHavilland DHC-6 Aircraft (N607NA)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Main Base Laboratories and Shops",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "9 X 15 Low Speed Wind Tunnel, Bldg. 39",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Materials Combustion Research Facility, Bldg 46",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Measurement Standards & Calibration Lab #8100",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Aircraft Landing Dynamics Facility/B1262",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 WSC: Antenna, 10m S-band",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vacuum Facility 12 (VF-12) Bldg. 301",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Repair, Fab. & Fluid Component Proc. #2201,2205,5A",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Pump Test Equipment Facility 4777",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EL Ground Control Experiment Laboratory 4708",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Emergency Landing Sites (ELS) High Inclination ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Machine Shop Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "RPSF Support Building/K6-0495 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES Low Energy Ion Facility 4481 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Spray-On Foam Insulation (SOFI) Lab 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Nozzle Test Chamber",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Intermediate Bay/M7-360/SSPF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Radiation Physics Computer Laboratory",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal Protection System (TPS)/K6-0794 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vacuum Facility 16 (VF-16) Bldg. 16",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Turn Basin/K7-1005 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Diode Characterization & Test Lab (B-1202)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC F-15B/D Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 15 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Space Environmental Effects Facility 4605",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Composites Development Facility 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Statics Test Laboratory, Bldg. 5 (ERB Complex)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N234A - THERMAL PROTECTION LAB BOILER: STEAM VACUUM SYSTEM (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "SRB Recovery Facility/66250/HGR-AF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N204A - SPACE TECHNOLOGY BUILDING: AMES VERTICAL GUN RANGE (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 45 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vacuum Facility 7 (VF-7) Bldg. 16",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Airlock/1726/HGR-S",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Hypersonic Propulsion Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Push Boat",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Orbiter Processing Fac.(OPF) Low Bay Area/K6-894",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N238 - ARC JET LABORATORY: INTERACTION HEATING FACILITY (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC B-200 Super Kingair Research/Support Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH High Pres. Ignit. Promoted Combust.Test System",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Turbomachinery Technology Facilities (ERB Complex)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Wallops Orbital Tracking Station",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mobile Launcher Platform 1 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Automated Ultrasonics Laboratory 4702",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Structural Dynamics Research Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EI MSFC Electromagnetic Interference (EMI) Test Fa",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Meteorological Facilities and ASRF",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: Environmental Test Engineering & Integration",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Emergency Landing Sites (ELS) Low Inclination ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vibration Laboratory",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Electro Magnetic Interference (EMI) Lab",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DYNAVAC THERMAL VACUUM CHAMBER",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Frictional Heating Test System 4623",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Aeropropulsion Heat Transfer Technology Facilities",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Mechanical Materials Test Facility, Bldg 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "V20 Thermal Vacuum Chamber - 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "16-Meter Thermal Vacuum Chamber",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Automated Structures Assembly Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LaRC B-200 Super King Air Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Processing Control Center/K6-1094 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Investment Casting Development Lab/B1237A",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal/Vacuum Chamber",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Penetrant, Optical and Magnetic Particle Lab",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 WSC: Antenna, 19m S/Ku-band",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV Flight Simulation Lab 4476 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Friction Stir Welding Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Metallurgical Diagnostics Laboratory 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Non-Optical NDE Facility 4702",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ARC Scientific Instrumentation Evaluation Remote Research Aircraft (SIERRA)",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Test Facility (TF500) 4522 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EI Space Systems Integration and Test Facility 4",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "RPSF Contractor Support Building/K6-0445 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "WFF C-23 Sherpa Airborne Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Mobile Launcher Platform 2 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Radio Frequency Development Lab 4189",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Corrosion Test Site, K8-0237",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Acoustic Emission Facility 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Electrical Distribution System #0010",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Space Flight Operations Facility",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "National Transonic Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Complex of Thirteen Space Test Chambers (Bldg.16)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Environmental Gas/Toxic Offgassing Lab, Bldg 46",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV Battery Test Laboratory 4475 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Electrical Power Systems Test Fac 4475",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Combustion and Aerochemistry Technology Facilities",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "8 x 6 Supersonic Wind Tunnel, Bldgs. 39, 53 & 54",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Propellant Transfer & Storage Facility #3414",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Small Multi-Purpose Research Facility",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Component/System Quasi-Static Load Fac 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Chamber A, EC, B-32 ",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"77058\"}",
+      "29.559177",
+      "-95.097897",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Zero Gravity Research Facility, (Bldg. 110)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Electric Power Lab - Vacuum Facility 6 (VF-6)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "RPSF Surge Building #2/K6-0345 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Intelligent Sys Res Lab/Hydrau Manipulator Testbed",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Mechanisms Development Facility 4656 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Materials Processing and Development Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Tribology Test Laboratory, Building 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Chamber B, EC, B-32 ",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"77058\"}",
+      "29.559177",
+      "-95.097897",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Intravehicular Automation and Robotics Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Central Instrumentation Facility (CIF)/M6-342 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Lidar Facility",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Component Ablator Facility SLA Spray Room",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Contact Ultrasonics Laboratory 4702",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Phased Array Ultrasonic Laboratory 4702",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "TDRSS Control Center",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Rubber Fabrication Laboratory 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Microelectronics Development Lab (B-1238A)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LaRC HU-25C Falcon Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Heat Flux Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal Vacuum Chamber 144-TV-10",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vacuum Drop Tube Facility 4550 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Dynamics Test Stand (4550)",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vacuum Facility 11 (VF-11) Bldg. 16",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Low Gravity Materials Science Facility 4550",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Data Recording and Control Facility 4674 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Plumbrook Engineering Building",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Cryogenics Components Laboratory",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Vibration Test Facility - Exciter 1",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Liquid Rocket Engine Air Flow Fac 4777",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Fabrication Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Water Flow Inducer Test Loop 4777",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "CTA-21",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Flight Simulation Facilities, B1268A and B1268D",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: Cryogenic Research and Integration Facility",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 BDA: Radar, FPQ-6",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Long-Duration Lubricant Test Laboratory, Bldg 4",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Launch Pad 39A/J8-1708 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Low Turbulence Pressure Tunnel",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Straylight Facility 4487",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay/M7-360/SSPF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC F/A-18 Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Poker Flat Research Range & SAR Facility",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Component Painting Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LCC Control Room 3/FR-3/Third Floor/K6-900 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "20-Inch Mach CF4 Tunnel",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Pressure Industrial Water Plant #4400",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N234 - THERMAL PROTECTION LAB: AERODYNAMIC HEATING FACILITY (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "24 inch Telescope",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 12 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Central Frame Low Bay/60680/HGR-AE ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LaRC Lancair Columbia 300 Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LB Cells (4) Low Bay Area/East/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Metrology Laboratory, Building 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 61 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay/Processing Area/M7-1104/MPPF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay Towers (6)/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "GRC DHC-6 Twin Otter Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Orbiter Processing Facility(OPF) Bay 1/K6-894 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Neutral Buoyancy Facility 4705 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Cryogenics Docks #0008",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N237 - HYPERVELOCITY FREE FLIGHT GUN DEVELOPMENT FACILITY (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Electrostatic Levitator Materials Characterizat",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EP Hydrocarbon (HC) Engine Test Fac 4696",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Ceramics Coatings & High Temp Mat.Lab 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LaRC OV-10G Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 0703 - Dryden Aircraft Operations Facility",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Canister Rotation Facility/M7-777 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Support Areas/1726/HGR-S ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Large Shaker Dynamics Test Facility",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N238 - ARC JET LABORATORY: PANEL TEST FACILITY (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "600: Plasma Calibration Facility",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Payload Canister (P70-0870) 2 EA ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500/WSC: Antenna, 4.5m S/Ku-band",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Stand B-2 #4221",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Payload Shipping Container (Hubble) (P70-0870) ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "N206A - 12 FOOT PRESSURE WIND TUNNEL AUXILIARIES (PAPAC)",
+    "city": "Moffett Field",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"94035\"}",
+      "37.41412",
+      "-122.052585",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Metal Technology Development Lab/1232A",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Pressure Gas Facility #0041,3305,6,9,10,11",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Creek Road Cryogenic Complex Cell 7",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Stand A-1 #4120",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ASRM Kneel Down Transporter ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB LAB Anechoic Test Chamber 4190",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Experimental Test Range",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Icing Research Tunnel (IRT), Bldg #11",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Ceramic & Glass Laboratory (B-1237A)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Bldg. 4824 - Communications Building",
+    "city": "Edwards",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"93523\"}",
+      "35.000989",
+      "-117.888837",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "RPSF Shop/Storage Building/K6-0446 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Nondestructive Evaluation Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Thermal Protection System Area",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "A Complex Test Control Center (TCC) #4110",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Hypersonic Tunnel Facility (HTF), #3411",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Low Pressure Physics Laboratory",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Payload Canister Transporter (P70-0559) ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Infrared Detector Calib & Charac Lab (B-1202)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "GRC S-3B Viking Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Marshall Avionics Sys. Testbed (MAST) 4487",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Harness Fabrication Facility",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Solar Array Test Facility 4475",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES Dist Active Archive Center 917 Expl. Blvd.",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Barge, Liquid Oxygen (6 each)",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Hydrogen Transfer Facility #3415",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Radioisotope Thermal Generator Facility/M7-1472 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Liquid/Solid Rocket Eng Water Flow Fac 4776",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LCC Control Room 1/FR-1/Third Floor/K6-900 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Jet Noise Laboratory",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM SEE: Atomic Oxygen & Solar UV Lab 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Operations Support Building/K6-1096",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Acoustic Test Facility Building 10",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EL Systems and Payloads Test Facilities 4708",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Landing and Impact Research Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Hydrogen (H2) Test Facility 4628",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500 Flight Dynamics Facility",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Subscale Rocket Motor Processing Fac 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Ambient & High Pressure LOX/GOX Facility 4623",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Coldflow R & D Test Complex 4776",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: High Capacity Centrifuge (HCC)",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Audio Reverberant Facility 4477",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EB Precision Optical Facility 4487",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Payload Support Facility/M7-505 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EV LAB 1/2 Mile Antenna Test Range 4194 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC RQ-4 Global Hawk Unmanned Aerial System",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Component Ablator Facility SLA Spray Preparation Area",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"70189\"}",
+      "29.950621",
+      "-90.074948",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Hazardous Machining Facility 4759",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "10 x 10 Supersonic Wind Tunnel, Bldg. 85",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LaRC Cessna 206 Stationair Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Orbiter Processing Facility(OPF) Annex/K6-894 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Spacecraft Acoustic Lab (SAL), B-49",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"77058\"}",
+      "29.559177",
+      "-95.097897",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "900: NASA Center for Computational Sciences/ B. 28",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Energy Conservation Laboratory Patio Chamber",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay 1/1726/HGR-S ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Acoustics Noise Test Cell",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Engineering Development Laboratory/M7-409 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "B Complex Test Control Center (TCC) #4210",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Structural Acoustic Loads & Transmission Facility",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Operations Bldg. E Complex #4010",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM Impact Testing Facility 4571, 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "18-Ft Vacuum Coating Chamber - 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Aero Acoustic Propulsion Lab., (AAPL) Bldg. 145",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Sun Spot Thermal Vacuum Chamber - 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "10-Ft Vertical Space Simulator",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Film Radiography Facility 4702",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500: NASA Communications Facility (NASCOM), B. 3",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DFRC ER-2 High Altitude Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Engine Components Research Lab (ECRL), Bldg. 102 ",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Test Facility E-1 #4050",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "LaRC Cirrus SR-22 Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "HMF South Processing Bldg/Support Area/M7-1212 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Research Combustion Laboratory, Bldg. 35",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Materials Testing & Research Facility 4464",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Launch Equipment Shop (LES)/K6-1247 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Low Bay Transfer Aisle/K6-848/VAB",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Air Flow Turbine Test Facility 4777",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Mechanical & Corrosion Testing 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Airlock/M7-1354/PHSF ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Propulsion Research and Development Laboratory",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Robotic Welding Facility 4707",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Modal Test Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Electric Power Lab - Vacuum Facility 5 (VF-5)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Productivity Enhancement Lab (B-1232A)",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Operations and Checkout West Vacuum Chamber",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "JSC B-377G Super Guppy Support Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Spacecraft Propulsion Test Facility (B-2), #3211",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Space Power Facility (SPF), Bldg. 1411",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Unitary Plan Wind Tunnel",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Stray Light Vacuum Chamber Facility 4487",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Materials & Structures Complex (49, 105, 106,etc.)",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"44135\"}",
+      "41.430364",
+      "-81.808561",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET Pyrotechnic Shock Test Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Low Pressure Flammability Test Sys. 4623",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Thermography Facility 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Launch Equipment Test Facility (LETF)/M7-505A ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ED Solid Rocket Engine Air Flow Fac 4777",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay 1 Cell/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "JSC WB-57 High Altitude Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "GRC Learjet 25 Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "AB Communications Facility, Bldg. 4207",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES Solar Magnetograph Facility 4347 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "WFF P-3B Research Aircraft",
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20546\"}",
+      "38.883239",
+      "-77.016473",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: Global Positioning System (GPS) Verification",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "HMF Storage Building East/M7-1412 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "48-inch Telescope",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "General Vibration Lab (GVL)",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"77058\"}",
+      "29.559177",
+      "-95.097897",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Electron Beam Welding Lab",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23681-2199\"}",
+      "37.08681",
+      "-76.376649",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EH Sheet Metal Assembly & Machine Shop 4705",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "South Wing/60680/HGR-AE ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ES Laboratory for Structural Biology 4484 ",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EM-20 Shearography Facility 4711",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Canals, Lock & Dock System #0036,2310,2311,2317",
+    "city": "Stennis Space Center",
+    "state": "MS",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"39529-6000\"}",
+      "30.385948",
+      "-89.604486",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "High Bay 2 Cell/K6-848/VAB ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "DSS 66 Antenna",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Launch Pad 39B/J7-337 ",
+    "city": "Kennedy Space Center",
+    "state": "FL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"32899\"}",
+      "28.538331",
+      "-81.378879",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "EO UDC/ Express Rack/ Express Pallet 4612",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "700: Space Simulation Laboratory, Building 7/10/15",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "500: Space-Ground Link Terminal",
+    "city": "Greenbelt",
+    "state": "MD",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"20771\"}",
+      "38.99538",
+      "-76.853161",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "Frequency Standards Laboratory",
+    "city": "PASADENA",
+    "state": "CA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"91109\"}",
+      "34.178124",
+      "-118.150662",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "ET West Vibration Test Facility 4619",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"35812\"}",
+      "34.729538",
+      "-86.585283",
+      null,
+      false
+    ]
+  },
+  {
+    "facility": "National Scientific Balloon Facility",
+    "city": "Wallops Island",
+    "state": "VA",
+    "country": "US",
+    "location": [
+      "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"23337-5099\"}",
+      "37.911289",
+      "-75.469622",
+      null,
+      false
+    ]
+  }
+]

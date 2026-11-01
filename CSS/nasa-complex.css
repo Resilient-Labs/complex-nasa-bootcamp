@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+body { margin: 0; padding: 30px 20px; font-family: Arial, sans-serif; background-color: #fce4ec; color: #402535; }
+main { max-width: 1000px; margin: 0 auto; }
+h1 { text-align: center; margin-bottom: 30px; }
+label { display: block; margin-bottom: 8px; }
+input, button, select { max-width: 100%; padding: 12px 18px; margin-bottom: 20px; border: 2px solid #9d2855; border-radius: 8px; font: inherit; }
+button { background-color: #9d2855; color: white; cursor: pointer; }
+button:hover { background-color: #762040; }
+button:disabled { opacity: .6; cursor: wait; }
+input, select { background-color: white; color: #402535; }
+input:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid #64318a; outline-offset: 3px; }
+table { width: 100%; border-collapse: collapse; background-color: white; }
+th, td { padding: 16px; border-bottom: 1px solid #ecc4d2; text-align: left; overflow-wrap: anywhere; }
+th { background-color: #9d2855; color: white; }
+tbody tr:nth-child(even) { background-color: #fff3f7; }
+tr:hover td { background-color: #f9dce8; }
+td:nth-child(2) { color: #64318a; font-weight: bold; }
+td:nth-child(3) { font-weight: bold; }
+@media (max-width: 600px) {
+    body { padding: 20px 10px; }
+    h1 { font-size: 26px; }
+    input, button, select { width: 100%; display: block; margin-bottom: 12px; }
+    table { table-layout: fixed; }
+    th, td { padding: 10px 6px; font-size: 14px; }
+}
