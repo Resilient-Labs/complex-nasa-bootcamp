@@ -1,0 +1,20 @@
+body {
+    background: beige;
+}
+
+section {
+    text-align: center;
+    border: 2px solid black;
+    background: #d4d0c8;
+}
+
+button{
+    margin-bottom: 10px;
+}
+
+.center-card {
+    border: 2px solid #808080;
+    background: #d4d0c8;
+    padding: 15px;
+    margin: 15px 0;
+}
