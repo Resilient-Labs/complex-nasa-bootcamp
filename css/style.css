@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+table{
+        padding: 10px 35%;
+        margin: auto;
+
+}
+
+body{
+    background-color: rgb(82, 82, 168);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(166, 144, 187);
+}
