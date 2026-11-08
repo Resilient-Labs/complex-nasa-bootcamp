@@ -1,22 +1,37 @@
-# 🚀 Project: Complex NASA API
+# Complex NASA API
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
+The Complex NASA API project is a web application that retrieves NASA facility locations from NASA's API and displays information about each facility. Users can explore approximately 400 NASA facilities and view details such as the facility name, location, and current weather conditions.
 
-### How to submit your code for review:
+The application combines NASA's facility data with weather information to provide an overview of locations across NASA's facilities.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Features
+NASA Facility Data: Retrieve NASA facility information using NASA's API.
+Facility Locations: Display approximately 400 NASA facility locations.
+Facility Details: Show the name and location of each facility.
+Current Weather: Display current weather conditions for each facility.
+API Integration: Retrieve and combine data from external APIs.
+Dynamic Content: Display facility information and weather data dynamically.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Tech Stack
+Frontend: HTML, CSS, JavaScript
+APIs: NASA API, Weather API
+
+## What I Learned
+Working with multiple external APIs.
+Fetching and processing large amounts of data.
+Retrieving NASA facility information and location details.
+Integrating weather data with facility locations.
+Working with asynchronous JavaScript and API requests.
+Handling and displaying dynamic data from API responses.
+Organizing and presenting large amounts of information on a webpage.
+
+## Installation
+Fork and clone the repository.
+Navigate to the project directory.
+
+## Usage
+Open the index.html file in your browser.
+Allow the application to retrieve NASA facility information.
+Browse the available NASA facilities.
+View each facility's name and location.
+Check the current weather conditions for each facility.
