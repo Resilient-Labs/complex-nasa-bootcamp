@@ -1,5 +1,9 @@
 # 🚀 NASA Facilities & Weather Explorer
 
+
+
+<img width="515" height="294" alt="complex NASA SS" src="https://github.com/user-attachments/assets/b546b8bf-5340-40ad-9629-e97d8ce38d02" />
+
 ### JavaScript API Integration Project
 
 ## About the Project
@@ -44,11 +48,6 @@ Instead of displaying information from just one API, this project is about under
 - Using DOM manipulation to display information.
 - Handling errors and missing data.
 
-## Project Status
-
-**Assignment instructions available — implementation not yet uploaded.**
-
-The current repository contains the original bootcamp assignment README but no application code.
 
 ## Next Steps
 
