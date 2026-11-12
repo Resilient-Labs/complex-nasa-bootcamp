@@ -10,7 +10,7 @@ function findLocations(){
         .then(data => {
             
             console.log(data)
-
+                                    
             const getData = JSON.parse(data.body)
 
             getData.map(info => {
