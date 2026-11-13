@@ -7,7 +7,7 @@ An app that uses NASA's API to return all of their facility locations (~400). Fa
 This project is a NASA data app. It gives the user a way to explore a NASA API and a Weather API as public data sources to build a simple website. I built this as part of a learning project to practice working with multiple APIs at once, handling different responses, and keeping a page usable when one request is slow or fails. The styling is a dark retro-space theme to match the subject and because purple is the best color. 
 
 ### Live Link 
-Access the live link in the About section of this repo or [ClICK HERE](https://priscilla-ruilova.github.io/Complex-NASA-api/)!
+Access the live link in the About section of this repo or [CLICK HERE](https://priscilla-ruilova.github.io/Complex-NASA-api/)!
 
 ![screenshot of the webpage](/assets/Photos/frontPage.png)
 

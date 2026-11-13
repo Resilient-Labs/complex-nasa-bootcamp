@@ -40,6 +40,7 @@ h1{
     background-image: url('Photos/sky.avif');
     background-size: cover;
     background-position: center center;
+    background-repeat: no-repeat;
     padding-top: 2rem;
     padding-bottom: 1.5rem;
 }
