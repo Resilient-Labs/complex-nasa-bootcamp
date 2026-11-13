@@ -1,0 +1,75 @@
+/* 
+=======================
+BORDER BOX HACK
+=======================
+*/
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/*
+========================
+CLEARFIX HACK
+========================
+*/
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+body{
+    background-image: url(Photos/bodyBackground.avif);
+}
+h1{
+    font-family: "Zen Dots", Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: rgb(247, 221, 25); 
+    -webkit-text-stroke: 1px rgba(7, 7, 7, 0.663);
+    background-image: url('Photos/sky.avif');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+
+button{
+    margin: 2rem auto 2rem 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: rgb(189, 207, 108);
+    font-size: 1.3rem;
+}
+select{
+    font-size: 1.3rem;
+}
+table{
+    background-color: rgba(129, 104, 174, 0.93);
+    border: 2px solid rgb(232, 227, 227, 0.992);
+    margin: 2rem auto;
+    font-family: Arial;
+    width: 75%;
+}
+th{
+  padding: 1.5rem;
+  border: 1px solid rgba(232, 227, 227, 0.992);
+  color: white;
+}
+
+/* This didn't work. Find out why!*/
+
+tr{
+    border: 2px solid rgb(238, 237, 237)
+} 
