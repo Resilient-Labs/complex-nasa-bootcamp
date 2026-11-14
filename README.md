@@ -2,7 +2,7 @@
 
 A list of NASA's facilities, each with the current weather at that location.
 
-A small front-end exercise from the 100Devs bootcamp: it chains two APIs — the first lists the facilities, the second gets the weather for each one.
+![Screenshot of App working](Screenshot.png)
 
 ## What it does
 
@@ -20,7 +20,6 @@ A small front-end exercise from the 100Devs bootcamp: it chains two APIs — the
 ## How to run it
 
 Open `index.html` in a browser. The list loads on its own — there is nothing to type in. It makes one weather request per facility, so the full list takes a while to fill in.
-
 
 ## Project structure
 
